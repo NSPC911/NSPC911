@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @NSPC911
-- 👀 I’m interested in Scratch, Micro:Bit, Robot Inventor 51515 and Python!
-- 🌱 I’m currently learning Secondary School in SIngapore
-- 🎥 I have two YouTube Channels. One is NPSG911 (it has 40 subs) and another is NSPC911 (it does not have any subscribers so it doesnt show up)
-- 🎶 Music- I love Rush E and Gas Gas Gas and cant get enough of it
+- 👋 Hi, I’m @NSPC911, the coding alt of NSPG911!
+- 👀 I’m interested in Scratch, JSON UI and Texture Packs for Minecraft Bedrock!
+- 🌱 I’m currently in Secondary School in Singapore
+- 🎥 I have one YouTube Channels. One is NPSG911 (it has 50+ subs)
+- 🎶 I love Pneumatic Tokyo by EnV, Sonic Blaster by F-777 and Link by Jim Yosef
