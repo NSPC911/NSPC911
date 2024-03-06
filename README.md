@@ -25,7 +25,7 @@
        - load.config was modified, so I had to make this
 - Brawl Stars
   - Quit for a year from miid 2022 to mid 2023.
-  - Came back for Coredlius I guess
+  - Came back for Cordelius I guess
 - Geometry Dash
   - Hardest Achievement: Flipswap Factory in 4 minutes
   - I have an account on GDPS 2.2, SMJS' GDPS and the official server
