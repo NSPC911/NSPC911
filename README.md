@@ -4,7 +4,7 @@
 
 🎮 Games I play:
 - Minecraft
-  - Clearly I play Minecraft because look at my repository 
+  - Clearly I play Minecraft because look at my profile 
   - Repositories related to it:
     1. [Clear Vanilla](https://github.com/NSPC911/Clear-Vanilla)
        - Clear Vanilla is a Utility Pack that makes any blockstate visible.
