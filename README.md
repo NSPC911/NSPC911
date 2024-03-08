@@ -3,7 +3,8 @@
 👋 Hi, I’m @NSPC911, the coding alt of NSPG911!
 
 🎮 Games I play:
-- Minecraft
+<details>
+<summary>Minecraft</summary>
   - Clearly I play Minecraft because look at my profile 
   - Repositories related to it:
     1. [Clear Vanilla](https://github.com/NSPC911/Clear-Vanilla)
@@ -23,27 +24,37 @@
     4. [Modules Plus Preset Loader](https://github.com/NSPC911/Modules-Plus-Preset-Loader)
        - A patched version of the Preset Loader for Modules Plus
        - load.config was modified, so I had to make this
-- Brawl Stars
+</details>
+<details>
+<summary>Brawl Stars</summary>
   - Quit for a year from miid 2022 to mid 2023.
   - Came back for Cordelius I guess
-- Geometry Dash
+</details>
+<details>
+<summary>Geometry Dash</summary>
   - Hardest Achievement: Flipswap Factory in 4 minutes
   - I have an account on GDPS 2.2, SMJS' GDPS and the official server
   - Yes, I bought Mega Hack v8 Pro
-- Honkai: Star Rail
+</details>
+<details>
+<summary>Honkai: Star Rail</summary>
   - Started in September
   - Finished all Trailblaze Missions
   - Finished Trailblaze Continuance Missions with Clara and 2 healers lol
   - I have Jingliu, Bronya, Clara E2, Ruan Mei, Seele, Silver Wolf with Incessant Rain and Dan Heng: Imbibitor Lunae
-
+</details>
 Current project:
-- [Bedrock Tweaks Base](https://github.com/NSPC911/Bedrock-Tweaks-Base)
+<details>
+<summary>[Bedrock Tweaks Base](https://github.com/NSPC911/Bedrock-Tweaks-Base)</summary>
   - A continuation of Bedrock Tweaks that should support 1.20 as DrAv has not updated Bedrock Tweaks.
   - DrAv apparently is doing something, though I am not sure what.
   - Since I am bored, I am doing this I guess
   - Currently, I plan for it to use a Python-based TUI. I have no experience in HTML and Javascript, so I won't make a website of it.
-
+</details>
 Other Fun Facts:
-- I listen to Jim Yosef, TheFatRat, AJR and ELEPS
-- I live in Singapore
-- I type paragraphs that computers like
+
+- 🎶 I listen to Jim Yosef, TheFatRat, AJR and ELEPS
+
+- 🇸🇬  I live in Singapore
+
+- I know Python and JSON. That's it. (Unless you count Minecraft Commands)
