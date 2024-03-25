@@ -5,84 +5,13 @@ Fun Facts:
 
 - 🇸🇬  I live in Singapore
 
-- I know Python and JSON. That's it. (Unless you count Minecraft Commands)
-
-🎮 Games I play:
-<details>
-<summary>Minecraft</summary>
-  - Clearly I play Minecraft because look at my profile
-  
-  - Repositories related to it:
-    
-    1. [Clear Vanilla](https://github.com/NSPC911/Clear-Vanilla)
-       
-       - Clear Vanilla is a Utility Pack that makes any blockstate visible.
-         
-       - I have not made a showcase of my modifications, but [@Tal](https://www.twitter.com/melamed_tal) made a [showcase](https://youtu.be/902-uZEKABY) on the original pack
-         
-    2. [High Contrast BE](https://github.com/NSPC911/High-Contrast-BE)
-       
-       - A port of the High Contrast UI released back in [Java 1.19.4 Pre-Release 1](https://www.minecraft.net/en-us/article/minecraft-1-19-4-pre-release-1).
-         
-       - Simplexity Devlopment made an [extended version](https://modrinth.com/resourcepack/high-contrast-extended) that supports all UI elements
-         
-       - I loved it, so I guess I ported it
-         
-    3. [Modules Plus](https://github.com/NSPC911/Modules-Plus)
-       
-       - A patched version of Chainsketch's Modules+ pack
-         
-       - It broke in 1.19.50 due to changes in the Emote Screen
-         
-       - There was a change in the name of the UI control, so I fixed it.
-         
-       - [Vierous](https://github.com/Bereallmao) helped fix it to 1.20.0
-         
-       - However, it apparently broke in 1.20.20, not exactly sure why
-         
-       - It was painful to always fix it per update, so it is currently archived
-         
-    4. [Modules Plus Preset Loader](https://github.com/NSPC911/Modules-Plus-Preset-Loader)
-       
-       - A patched version of the Preset Loader for Modules Plus
-         
-       - load.config was modified, so I had to make this
-
-</details>
-<details>
-<summary>Brawl Stars</summary>
-  - Quit for a year from miid 2022 to mid 2023.
-  
-  - Came back for Cordelius I guess
-    
-</details>
-<details>
-<summary>Geometry Dash</summary>
-  
-  - Hardest Achievement: Flipswap Factory in 4 minutes
-  - 
-  - I have an account on GDPS 2.2, SMJS' GDPS and the official server
-    
-  - Yes, I bought Mega Hack v8 Pro
-    
-</details>
-<details>
-<summary>Honkai: Star Rail</summary>
-  
-  - Started in September 2023
-    
-  - Finished all Trailblaze Missions
-    
-  - Finished Trailblaze Continuance Missions with E2 Clara and 2 healers lol
-    
-</details>
-
 Current project:
 
 <details>
   <summary>Bedrock Tweaks Base</summary>
   
-  https://github.com/NSPC911/Bedrock-Tweaks-Base  
+  - [Link](https://github.com/NSPC911/Bedrock-Tweaks-Base)
+  
   - A continuation of Bedrock Tweaks that should support 1.20 as DrAv has not updated Bedrock Tweaks.
     
   - DrAv apparently is doing something, though I am not sure what.
@@ -94,11 +23,30 @@ Current project:
 </details>
 
 <p align="center">
+  <a href="https://youtube.com/@nspg911" alt="YouTube" title="YouTube">
+    <img src="https://img.shields.io/badge/YouTube-NSPG911-red?style=for-the-badge&logo=youtube">
+  </a>
+  <a href="https://twitter.com/@Nspg9" alt="X/Twitter" title="X/Twitter">
+    <img src="https://img.shields.io/badge/Twitter-@Nspg9-%23444?style=for-the-badge&logo=X">
+  </a>
+  <a href="https://reddit.com/u/NotSoProGamerR" alt="Reddit" title="Reddit">
+    <img src="https://img.shields.io/badge/Reddit-NotSoProGamerR-red?style=for-the-badge&logo=reddit">
+  </a>
+</p>
+<p align="center">
+  <a href="https://mcpedl.com/user/nspg911" alt="MCPEDL" title="MCPEDL">
+    <img src="https://img.shields.io/badge/MCPEDL-NSPG911-%23090?style=for-the-badge&logo=headlessui">
+  </a>
+  <a href="https://modbay.org/user/NSPG911/" alt="Modbay" title="Modbay">
+    <img src="https://img.shields.io/badge/Modbay-NSPG911-%2380f?style=for-the-badge&logo=headlessui">
+  </a>
+</p>
+<p align="center">
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=NSPC911&show_icons=true&count_private=false&theme=github_dark&hide_border=true&hide=issues,contribs&bg_color=00000000">
   <br>
-  <img src ="https://github-readme-streak-stats.herokuapp.com?user=NSPC911&theme=github_dark&hide_border=true&background=FFFFFF00">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=NSPC911&theme=github_dark&hide_border=true&background=FFFFFF00">
   <br>
   What I know:
   <br>
-  <img src ="https://skillicons.dev/icons?i=py,git,github">
+  <img src="https://skillicons.dev/icons?i=py">
 </p>
