@@ -1,4 +1,4 @@
-👋 Hi, I’m @NSPC911, the coding alt of NSPG911!
+👋 Hi, I’m NSPC911, the coding alt of NSPG911!
 Fun Facts:
 
 - 🎶 I listen to Jim Yosef, TheFatRat, AJR and ELEPS
@@ -38,6 +38,13 @@ Current project:
   </a>
   <a href="https://modbay.org/user/NSPG911/" alt="Modbay" title="Modbay">
     <img src="https://img.shields.io/badge/Modbay-%2380f?style=for-the-badge&logo=headlessui">
+  <br>
+  <a href="" alt="Minecraft (Not ready to click)" title="Minecraft (Not ready to click)">
+    <img src="https://img.shields.io/badge/Minecraft-green?style=for-the-badge">
+  </a>
+  <a href="https://link.brawlstars.com/invite/friend/en/?tag=CLQ8URPQ&token=xfxgxmse" alt="Brawl Stars" title="Brawl Starrs">
+    <img src="https://img.shields.io/badge/Brawl_Stars-yellow?style=for-the-badge">
+  </a>
   <br>
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=NSPC911&show_icons=true&count_private=true&theme=github_dark&hide_border=true&hide=contribs&bg_color=00000000">
   <br>
