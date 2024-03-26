@@ -24,29 +24,22 @@ Current project:
 
 <p align="center">
   <a href="https://youtube.com/@nspg911" alt="YouTube" title="YouTube">
-    <img src="https://img.shields.io/badge/YouTube-NSPG911-red?style=for-the-badge&logo=youtube">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube">
   </a>
   <a href="https://twitter.com/@Nspg9" alt="X/Twitter" title="X/Twitter">
-    <img src="https://img.shields.io/badge/Twitter-@Nspg9-%23444?style=for-the-badge&logo=X">
+    <img src="https://img.shields.io/badge/Twitter-%23444?style=for-the-badge&logo=X">
   </a>
   <a href="https://reddit.com/u/NotSoProGamerR" alt="Reddit" title="Reddit">
-    <img src="https://img.shields.io/badge/Reddit-NotSoProGamerR-red?style=for-the-badge&logo=reddit">
+    <img src="https://img.shields.io/badge/Reddit-red?style=for-the-badge&logo=reddit">
   </a>
-</p>
-<p align="center">
+  <br>
   <a href="https://mcpedl.com/user/nspg911" alt="MCPEDL" title="MCPEDL">
-    <img src="https://img.shields.io/badge/MCPEDL-NSPG911-%23090?style=for-the-badge&logo=headlessui">
+    <img src="https://img.shields.io/badge/MCPEDL-%23090?style=for-the-badge&logo=headlessui">
   </a>
   <a href="https://modbay.org/user/NSPG911/" alt="Modbay" title="Modbay">
-    <img src="https://img.shields.io/badge/Modbay-NSPG911-%2380f?style=for-the-badge&logo=headlessui">
-  </a>
-</p>
-<p align="center">
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=NSPC911&show_icons=true&count_private=false&theme=github_dark&hide_border=true&hide=issues,contribs&bg_color=00000000">
+    <img src="https://img.shields.io/badge/Modbay-%2380f?style=for-the-badge&logo=headlessui">
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=NSPC911&theme=github_dark&hide_border=true&background=FFFFFF00">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=NSPC911&show_icons=true&count_private=true&theme=github_dark&hide_border=true&hide=contribs&bg_color=00000000">
   <br>
-  What I know:
-  <br>
-  <img src="https://skillicons.dev/icons?i=py">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=NSPC911&theme=github_dark&hide_border=true&background=0000">
 </p>
