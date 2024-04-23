@@ -58,6 +58,7 @@
     <th>
       <a href="https://modbay.org/user/NSPG911/" alt="Modbay" title="Modbay&logo=headlessui">
         <img src="https://img.shields.io/badge/Modbay-%2380f?style=for-the-badge&logo=headlessui">
+      </a>
   </tr>
   </th>
 </table>
