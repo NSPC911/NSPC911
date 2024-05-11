@@ -2,8 +2,7 @@
 <p>Current project:</p>
 <details open="">
   <summary>
-    <a href="https://github.com/NSPC911/Bedrock-Tweaks-Base">Bedrock Tweaks Base <br>
-    </a>
+    <a href="https://github.com/NSPC911/Bedrock-Tweaks-Base">Bedrock Tweaks Base</a>
   </summary>
   <ul>
     <li>A continuation of Bedrock Tweaks that should support 1.20 as DrAv has not updated Bedrock Tweaks.</li>
