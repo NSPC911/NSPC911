@@ -1,17 +1,5 @@
 <p>👋 Hi, I’m NSPG911!</p>
-<p>Current project:</p>
-<details open="">
-  <summary>
-    <a href="https://github.com/NSPC911/Bedrock-Tweaks-Base">Bedrock Tweaks Base</a>
-  </summary>
-  <ul>
-    <li>A continuation of Bedrock Tweaks that should support 1.20 as DrAv has not updated Bedrock Tweaks.</li>
-    <li>DrAv apparently is doing something, though I am not sure what.</li>
-    <li>Since I am bored, I am doing this I guess.</li>
-    <li>Currently, I plan for it to use a Python-based TUI. I have no experience in <s>HTML</s>/react.js, so I won't make a website of it.</li>
-    <sub>I am messing around with HTML if you look at the raw code in this README. Not ready for web development though.</sub>
-  </ul>
-</details>
+<p>Current project: NIL</p>
 <table align="center">
   <tr>
     <th>
