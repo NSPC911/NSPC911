@@ -11,11 +11,6 @@
 - [{{ .Title }}]({{ .URL }}) on [{{ .Repo.Name }}]({{ .Repo.URL }})
 {{- end }}
 
-### ⭐ Recent Stars
-{{ range recentStars 3 }}
-- [{{ .Repo.Name }}]({{ .Repo.URL }}) - {{ .Repo.Description }}
-{{- end }}
-
 <table align="center">
   <tr>
     <th>
