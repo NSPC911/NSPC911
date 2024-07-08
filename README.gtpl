@@ -1,15 +1,15 @@
 <p>👋 Hi, I’m NSPG911!</p>
 <p>Current project: Bedrock Tweaks</p>
 
-### 🔭 I’m currently working on
-{{ range recentContributions 3 }}
-- [{{ .Repo.Name }}]({{ .Repo.URL }}) - {{ .Repo.Description }}
-{{- end }}
+### 👷 Check out my recent contributions!
+{{range recentContributions 3}}
+- [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .OccurredAt}})
+{{- end}}
 
-### 🔨 My recent Pull Requests
-{{ range recentPullRequests 3 }}
-- [{{ .Title }}]({{ .URL }}) on [{{ .Repo.Name }}]({{ .Repo.URL }})
-{{- end }}
+### 🔨 My recent Pull Requests!
+{{range recentPullRequests 3}}
+- [{{.Title}}]({{.URL}}) on [{{.Repo.Name}}]({{.Repo.URL}}) ({{humanize .CreatedAt}})
+{{- end}}
 
 <table align="center">
   <tr>
