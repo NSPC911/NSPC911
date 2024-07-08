@@ -1,17 +1,18 @@
 👋 Hi, I’m NSPG911!
 
-### 👷 Check out my recent contributions!
+#### 👷 Check out my recent contributions!
 
 - [CollapseLauncher/Collapse](https://github.com/CollapseLauncher/Collapse) - An Advanced Launcher for miHoYo Games (today)
 - [NSPC911/vc-themes](https://github.com/NSPC911/vc-themes) - Repository of the themes I use and have modified (5 days ago)
 - [BEComTweaks/to-do-tracker](https://github.com/BEComTweaks/to-do-tracker) - Tracker on stuff to do. README.md (6 days ago)
 
-### 🔨 My recent Pull Requests!
+#### 🔨 My recent Pull Requests!
 
 - [Fixed Inability to uninstall ZZZ &#43; Update to README.md for ZZZ](https://github.com/CollapseLauncher/Collapse/pull/526) on [CollapseLauncher/Collapse](https://github.com/CollapseLauncher/Collapse) (1 day ago)
 - [feat(files): Peace and Quiet with sounds.json](https://github.com/BedrockTweaks/Files/pull/114) on [BedrockTweaks/Files](https://github.com/BedrockTweaks/Files) (1 week ago)
 - [feat(files): More Zombies](https://github.com/BedrockTweaks/Files/pull/106) on [BedrockTweaks/Files](https://github.com/BedrockTweaks/Files) (1 week ago)
 
+#### 🖥 My social table!
 <table align="center">
   <tr>
     <th>
@@ -61,6 +62,8 @@
   </tr>
   </th>
 </table>
+
+### 📊 Stats about my account!
 <p align="center">
   <img height="50%" width="auto" src="https://github-readme-stats.vercel.app/api?username=NSPC911&show_icons=true&count_private=true&theme=neon&hide_border=true&hide=contribs&bg_color=00000000">
   <br>
