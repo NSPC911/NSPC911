@@ -1,5 +1,4 @@
-<p>👋 Hi, I’m NSPG911!</p>
-<p>Current project: Bedrock Tweaks</p>
+👋 Hi, I’m NSPG911!
 
 ### 👷 Check out my recent contributions!
 {{range recentContributions 3}}
