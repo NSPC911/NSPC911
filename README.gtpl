@@ -1,15 +1,16 @@
 👋 Hi, I’m NSPG911!
 
-### 👷 Check out my recent contributions!
+#### 👷 Check out my recent contributions!
 {{range recentContributions 3}}
 - [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .OccurredAt}})
 {{- end}}
 
-### 🔨 My recent Pull Requests!
+#### 🔨 My recent Pull Requests!
 {{range recentPullRequests 3}}
 - [{{.Title}}]({{.URL}}) on [{{.Repo.Name}}]({{.Repo.URL}}) ({{humanize .CreatedAt}})
 {{- end}}
 
+#### 🖥 My social table!
 <table align="center">
   <tr>
     <th>
@@ -59,6 +60,8 @@
   </tr>
   </th>
 </table>
+
+### 📊 Stats about my account!
 <p align="center">
   <img height="50%" width="auto" src="https://github-readme-stats.vercel.app/api?username=NSPC911&show_icons=true&count_private=true&theme=neon&hide_border=true&hide=contribs&bg_color=00000000">
   <br>
