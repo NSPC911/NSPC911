@@ -1,7 +1,7 @@
 👋 Hi, I’m NSPG911!
 
 #### 👷 Check out my recent contributions!
-{{range recentContributions 3}}
+{{range recentContributions 5}}
 - [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .OccurredAt}})
 {{- end}}
 
