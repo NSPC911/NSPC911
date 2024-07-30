@@ -2,16 +2,16 @@
 
 #### 👷 Check out my recent contributions!
 
-- [BEComTweaks/to-do-tracker](https://github.com/BEComTweaks/to-do-tracker) - Tracker on stuff to do. README.md (2 days ago)
-- [NSPC911/Clear-Vanilla](https://github.com/NSPC911/Clear-Vanilla) - An unofficial release of Tal&#39;s Clear Vanilla. More updated and bug fixed. (2 days ago)
-- [BEComTweaks/resource-packs](https://github.com/BEComTweaks/resource-packs) - A repo containing every single resource pack ported from vanillatweaks.net (3 days ago)
-- [BEComTweaks/server-backend](https://github.com/BEComTweaks/server-backend) - A repo containing the server for becomtweaks.github.io (3 days ago)
-- [BEComTweaks/becomtweaks.github.io](https://github.com/BEComTweaks/becomtweaks.github.io) - Landing Page for the website (2 weeks ago)
+- [BEComTweaks/to-do-tracker](https://github.com/BEComTweaks/to-do-tracker) - Tracker on stuff to do. README.md (3 days ago)
+- [NSPC911/Clear-Vanilla](https://github.com/NSPC911/Clear-Vanilla) - An unofficial release of Tal&#39;s Clear Vanilla. More updated and bug fixed. (3 days ago)
+- [BEComTweaks/resource-packs](https://github.com/BEComTweaks/resource-packs) - A repo containing every single resource pack ported from vanillatweaks.net (4 days ago)
+- [BEComTweaks/server-backend](https://github.com/BEComTweaks/server-backend) - A repo containing the server for becomtweaks.github.io (4 days ago)
+- [BEComTweaks/becomtweaks.github.io](https://github.com/BEComTweaks/becomtweaks.github.io) - Landing Page for the website (3 weeks ago)
 
 #### 🔨 My recent Pull Requests!
 
-- [thing](https://github.com/NSPBot911/NSPBot911/pull/1) on [NSPBot911/NSPBot911](https://github.com/NSPBot911/NSPBot911) (today)
-- [update for stuff](https://github.com/BEComTweaks/server-backend/pull/1) on [BEComTweaks/server-backend](https://github.com/BEComTweaks/server-backend) (5 days ago)
+- [thing](https://github.com/NSPBot911/NSPBot911/pull/1) on [NSPBot911/NSPBot911](https://github.com/NSPBot911/NSPBot911) (1 day ago)
+- [update for stuff](https://github.com/BEComTweaks/server-backend/pull/1) on [BEComTweaks/server-backend](https://github.com/BEComTweaks/server-backend) (6 days ago)
 - [[packs] from bedrocktweaks/files](https://github.com/BEComTweaks/resource-packs/pull/23) on [BEComTweaks/resource-packs](https://github.com/BEComTweaks/resource-packs) (1 week ago)
 
 #### 🖥 My social table!
