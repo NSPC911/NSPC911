@@ -2,17 +2,17 @@
 
 #### 👷 Check out my recent contributions!
 
-- [BEComTweaks/resource-packs](https://github.com/BEComTweaks/resource-packs) - A repo containing every single resource pack ported from vanillatweaks.net (today)
-- [BEComTweaks/behaviour-packs](https://github.com/BEComTweaks/behaviour-packs) - A repo containing every single behaviour pack ported from vanillatweaks.net (today)
-- [BEComTweaks/server-backend](https://github.com/BEComTweaks/server-backend) - A repo containing the server for becomtweaks.github.io (today)
-- [BEComTweaks/crafting-tweaks](https://github.com/BEComTweaks/crafting-tweaks) - A repo containing every single crafting tweak ported from vanillatweaks.net (today)
-- [NSPC911/Clear-Vanilla](https://github.com/NSPC911/Clear-Vanilla) - An unofficial release of Tal&#39;s Clear Vanilla. More updated and bug fixed. (3 days ago)
+- [BEComTweaks/resource-packs](https://github.com/BEComTweaks/resource-packs) - A repo containing every single resource pack ported from vanillatweaks.net (1 day ago)
+- [BEComTweaks/behaviour-packs](https://github.com/BEComTweaks/behaviour-packs) - A repo containing every single behaviour pack ported from vanillatweaks.net (1 day ago)
+- [BEComTweaks/server-backend](https://github.com/BEComTweaks/server-backend) - A repo containing the server for becomtweaks.github.io (1 day ago)
+- [BEComTweaks/crafting-tweaks](https://github.com/BEComTweaks/crafting-tweaks) - A repo containing every single crafting tweak ported from vanillatweaks.net (1 day ago)
+- [NSPC911/Clear-Vanilla](https://github.com/NSPC911/Clear-Vanilla) - An unofficial release of Tal&#39;s Clear Vanilla. More updated and bug fixed. (4 days ago)
 
 #### 🔨 My recent Pull Requests!
 
-- [thing](https://github.com/NSPBot911/NSPBot911/pull/1) on [NSPBot911/NSPBot911](https://github.com/NSPBot911/NSPBot911) (1 day ago)
-- [update for stuff](https://github.com/BEComTweaks/server-backend/pull/1) on [BEComTweaks/server-backend](https://github.com/BEComTweaks/server-backend) (6 days ago)
-- [[packs] from bedrocktweaks/files](https://github.com/BEComTweaks/resource-packs/pull/23) on [BEComTweaks/resource-packs](https://github.com/BEComTweaks/resource-packs) (1 week ago)
+- [thing](https://github.com/NSPBot911/NSPBot911/pull/1) on [NSPBot911/NSPBot911](https://github.com/NSPBot911/NSPBot911) (2 days ago)
+- [update for stuff](https://github.com/BEComTweaks/server-backend/pull/1) on [BEComTweaks/server-backend](https://github.com/BEComTweaks/server-backend) (1 week ago)
+- [[packs] from bedrocktweaks/files](https://github.com/BEComTweaks/resource-packs/pull/23) on [BEComTweaks/resource-packs](https://github.com/BEComTweaks/resource-packs) (2 weeks ago)
 
 #### 🖥 My social table!
 <table align="center">
