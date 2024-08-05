@@ -1,5 +1,7 @@
 👋 Hi, I’m NSPG911!
 
+i love streaks
+
 #### 👷 Check out my recent contributions!
 
 - [BEComTweaks/behaviour-packs](https://github.com/BEComTweaks/behaviour-packs) - A repo containing every single behaviour pack ported from vanillatweaks.net (2 days ago)
