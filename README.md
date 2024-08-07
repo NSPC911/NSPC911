@@ -2,7 +2,7 @@
 
 #### 👷 Check out my recent contributions!
 
-- [NSPC911/scripts](https://github.com/NSPC911/scripts) - a bunch of scripts that i have and use (today)
+- [NSPC911/scripts](https://github.com/NSPC911/scripts) - a bunch of scripts that i have and use (1 day ago)
 - [BEComTweaks/resource-packs](https://github.com/BEComTweaks/resource-packs) - A repo containing every single resource pack ported from vanillatweaks.net (1 week ago)
 - [BEComTweaks/behaviour-packs](https://github.com/BEComTweaks/behaviour-packs) - A repo containing every single behaviour pack ported from vanillatweaks.net (1 week ago)
 - [BEComTweaks/server-backend](https://github.com/BEComTweaks/server-backend) - A repo containing the server for becomtweaks.github.io (1 week ago)
@@ -11,8 +11,8 @@
 #### 🔨 My recent Pull Requests!
 
 - [thing](https://github.com/NSPBot911/NSPBot911/pull/1) on [NSPBot911/NSPBot911](https://github.com/NSPBot911/NSPBot911) (1 week ago)
-- [update for stuff](https://github.com/BEComTweaks/server-backend/pull/1) on [BEComTweaks/server-backend](https://github.com/BEComTweaks/server-backend) (1 week ago)
-- [[packs] from bedrocktweaks/files](https://github.com/BEComTweaks/resource-packs/pull/23) on [BEComTweaks/resource-packs](https://github.com/BEComTweaks/resource-packs) (2 weeks ago)
+- [update for stuff](https://github.com/BEComTweaks/server-backend/pull/1) on [BEComTweaks/server-backend](https://github.com/BEComTweaks/server-backend) (2 weeks ago)
+- [[packs] from bedrocktweaks/files](https://github.com/BEComTweaks/resource-packs/pull/23) on [BEComTweaks/resource-packs](https://github.com/BEComTweaks/resource-packs) (3 weeks ago)
 
 #### 🖥 My social table!
 <table align="center">
