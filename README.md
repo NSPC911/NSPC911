@@ -1,7 +1,5 @@
 👋 Hi, I’m NSPG911!
 
-i love streaks
-
 #### 👷 Check out my recent contributions!
 
 - [NSPC911/scripts](https://github.com/NSPC911/scripts) - a bunch of scripts that i have and use (1 day ago)
