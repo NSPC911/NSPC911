@@ -2,11 +2,11 @@
 
 #### 👷 Check out my recent contributions!
 
-- [BEComTweaks/crafting-tweaks](https://github.com/BEComTweaks/crafting-tweaks) - A repo containing every single crafting tweak ported from vanillatweaks.net (2 days ago)
-- [BEComTweaks/behaviour-packs](https://github.com/BEComTweaks/behaviour-packs) - A repo containing every single behaviour pack ported from vanillatweaks.net (2 days ago)
+- [BEComTweaks/resource-packs](https://github.com/BEComTweaks/resource-packs) - A repo containing every single resource pack ported from vanillatweaks.net (today)
+- [BEComTweaks/becomtweaks.github.io](https://github.com/BEComTweaks/becomtweaks.github.io) - Landing Page for the website (today)
+- [BEComTweaks/behaviour-packs](https://github.com/BEComTweaks/behaviour-packs) - A repo containing every single behaviour pack ported from vanillatweaks.net (today)
+- [BEComTweaks/crafting-tweaks](https://github.com/BEComTweaks/crafting-tweaks) - A repo containing every single crafting tweak ported from vanillatweaks.net (today)
 - [BEComTweaks/server-backend](https://github.com/BEComTweaks/server-backend) - A repo containing the server for becomtweaks.github.io (2 days ago)
-- [NSPC911/Clear-Vanilla](https://github.com/NSPC911/Clear-Vanilla) - An unofficial release of Tal&#39;s Clear Vanilla. More updated and bug fixed. (4 days ago)
-- [NSPC911/scripts](https://github.com/NSPC911/scripts) - a bunch of scripts that i have and use (5 days ago)
 
 #### 🔨 My recent Pull Requests!
 
