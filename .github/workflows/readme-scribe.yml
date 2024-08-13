@@ -37,8 +37,8 @@ jobs:
           git config user.name 'NSPC911'
           git config user.email ${{ secrets.GIT_EMAIL }}
           git add --all
-          git commit -m "Updated README.md"
+          git commit -m "[actions] Updated README.md" -m "I'm using my email for automated updates because I need the streak"
           git pull origin main
           git push origin main
         env:
-          GITHUB_TOKEN: ${{ secrets.BOT_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.PERSONAL_GITHUB_TOKEN }}
