@@ -3,10 +3,10 @@
 #### 👷 Check out my recent contributions!
 
 - [NSPC911/scripts](https://github.com/NSPC911/scripts) - a bunch of scripts that i have and use (1 day ago)
-- [BEComTweaks/crafting-tweaks](https://github.com/BEComTweaks/crafting-tweaks) - A repo containing every single crafting tweak ported from vanillatweaks.net (2 days ago)
 - [NSPC911/nspc911.github.io](https://github.com/NSPC911/nspc911.github.io) - woah cool site (2 days ago)
+- [BEComTweaks/resource-packs](https://github.com/BEComTweaks/resource-packs) - A repo containing every single resource pack ported from vanillatweaks.net (2 days ago)
 - [BEComTweaks/behaviour-packs](https://github.com/BEComTweaks/behaviour-packs) - A repo containing every single behaviour pack ported from vanillatweaks.net (2 days ago)
-- [BEComTweaks/becomtweaks.github.io](https://github.com/BEComTweaks/becomtweaks.github.io) - Landing Page for the website (2 days ago)
+- [BEComTweaks/crafting-tweaks](https://github.com/BEComTweaks/crafting-tweaks) - A repo containing every single crafting tweak ported from vanillatweaks.net (2 days ago)
 
 #### 🔨 My recent Pull Requests!
 
