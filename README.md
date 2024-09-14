@@ -2,11 +2,11 @@
 
 #### 👷 Check out my recent contributions!
 
-- [NSPC911/scripts](https://github.com/NSPC911/scripts) - a bunch of scripts that i have and use (1 day ago)
-- [BEComTweaks/resource-packs](https://github.com/BEComTweaks/resource-packs) - A repo containing every single resource pack ported from vanillatweaks.net (2 days ago)
-- [NSPC911/vc-themes](https://github.com/NSPC911/vc-themes) - Repository of the themes I use and have modified (6 days ago)
+- [NSPC911/search](https://github.com/NSPC911/search) - Multi-functional CLI script that allows you to search for a term in a directory. (1 day ago)
+- [NSPC911/scripts](https://github.com/NSPC911/scripts) - a bunch of scripts that i have and use (2 days ago)
+- [BEComTweaks/resource-packs](https://github.com/BEComTweaks/resource-packs) - A repo containing every single resource pack ported from vanillatweaks.net (3 days ago)
+- [NSPC911/vc-themes](https://github.com/NSPC911/vc-themes) - Repository of the themes I use and have modified (1 week ago)
 - [BEComTweaks/behaviour-packs](https://github.com/BEComTweaks/behaviour-packs) - A repo containing every single behaviour pack ported from vanillatweaks.net (1 week ago)
-- [BEComTweaks/crafting-tweaks](https://github.com/BEComTweaks/crafting-tweaks) - A repo containing every single crafting tweak ported from vanillatweaks.net (1 week ago)
 
 #### 🔨 My recent Pull Requests!
 
