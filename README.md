@@ -2,9 +2,9 @@
 
 #### 👷 Check out my recent contributions!
 
-- [NSPC911/search](https://github.com/NSPC911/search) - Multi-functional CLI script that allows you to search for a term in a directory. (1 day ago)
-- [NSPC911/scripts](https://github.com/NSPC911/scripts) - a bunch of scripts that i have and use (2 days ago)
-- [BEComTweaks/resource-packs](https://github.com/BEComTweaks/resource-packs) - A repo containing every single resource pack ported from vanillatweaks.net (3 days ago)
+- [NSPC911/search](https://github.com/NSPC911/search) - Multi-functional CLI script that allows you to search for a term in a directory. (2 days ago)
+- [NSPC911/scripts](https://github.com/NSPC911/scripts) - a bunch of scripts that i have and use (3 days ago)
+- [BEComTweaks/resource-packs](https://github.com/BEComTweaks/resource-packs) - A repo containing every single resource pack ported from vanillatweaks.net (4 days ago)
 - [NSPC911/vc-themes](https://github.com/NSPC911/vc-themes) - Repository of the themes I use and have modified (1 week ago)
 - [BEComTweaks/behaviour-packs](https://github.com/BEComTweaks/behaviour-packs) - A repo containing every single behaviour pack ported from vanillatweaks.net (1 week ago)
 
@@ -12,7 +12,7 @@
 
 - [thing](https://github.com/NSPBot911/NSPBot911/pull/1) on [NSPBot911/NSPBot911](https://github.com/NSPBot911/NSPBot911) (1 month ago)
 - [update for stuff](https://github.com/BEComTweaks/server-backend/pull/1) on [BEComTweaks/server-backend](https://github.com/BEComTweaks/server-backend) (1 month ago)
-- [[packs] from bedrocktweaks/files](https://github.com/BEComTweaks/resource-packs/pull/23) on [BEComTweaks/resource-packs](https://github.com/BEComTweaks/resource-packs) (1 month ago)
+- [[packs] from bedrocktweaks/files](https://github.com/BEComTweaks/resource-packs/pull/23) on [BEComTweaks/resource-packs](https://github.com/BEComTweaks/resource-packs) (2 months ago)
 
 #### 🖥 My social table!
 <table align="center">
