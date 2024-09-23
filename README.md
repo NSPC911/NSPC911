@@ -2,17 +2,17 @@
 
 #### 👷 Check out my recent contributions!
 
-- [BEComTweaks/docs](https://github.com/BEComTweaks/docs) - Docs on BEComTweaks and how it works (1 day ago)
-- [BEComTweaks/resource-packs](https://github.com/BEComTweaks/resource-packs) - A repo containing every single resource pack ported from vanillatweaks.net (3 days ago)
+- [BEComTweaks/docs](https://github.com/BEComTweaks/docs) - Docs on BEComTweaks and how it works (today)
+- [BEComTweaks/resource-packs](https://github.com/BEComTweaks/resource-packs) - A repo containing every single resource pack ported from vanillatweaks.net (today)
+- [BEComTweaks/behaviour-packs](https://github.com/BEComTweaks/behaviour-packs) - A repo containing every single behaviour pack ported from vanillatweaks.net (today)
+- [BEComTweaks/crafting-tweaks](https://github.com/BEComTweaks/crafting-tweaks) - A repo containing every single crafting tweak ported from vanillatweaks.net (today)
 - [NSPC911/search](https://github.com/NSPC911/search) - Multi-functional CLI script that allows you to search for a term in a directory. (1 week ago)
-- [NSPC911/scripts](https://github.com/NSPC911/scripts) - a bunch of scripts that i have and use (1 week ago)
-- [NSPC911/vc-themes](https://github.com/NSPC911/vc-themes) - Repository of the themes I use and have modified (2 weeks ago)
 
 #### 🔨 My recent Pull Requests!
 
-- [[packs] Clearer blocks](https://github.com/BEComTweaks/resource-packs/pull/26) on [BEComTweaks/resource-packs](https://github.com/BEComTweaks/resource-packs) (1 day ago)
-- [Show Download State as the Download Button](https://github.com/BEComTweaks/resource-packs/pull/25) on [BEComTweaks/resource-packs](https://github.com/BEComTweaks/resource-packs) (1 day ago)
-- [thing](https://github.com/NSPBot911/NSPBot911/pull/1) on [NSPBot911/NSPBot911](https://github.com/NSPBot911/NSPBot911) (1 month ago)
+- [[update] Files from RP &#43; Progress of pack](https://github.com/BEComTweaks/crafting-tweaks/pull/1) on [BEComTweaks/crafting-tweaks](https://github.com/BEComTweaks/crafting-tweaks) (1 day ago)
+- [[update] Files from RP &#43; Progress of pack](https://github.com/BEComTweaks/behaviour-packs/pull/2) on [BEComTweaks/behaviour-packs](https://github.com/BEComTweaks/behaviour-packs) (1 day ago)
+- [[packs] Clearer blocks](https://github.com/BEComTweaks/resource-packs/pull/26) on [BEComTweaks/resource-packs](https://github.com/BEComTweaks/resource-packs) (2 days ago)
 
 #### 🖥 My social table!
 <table align="center">
