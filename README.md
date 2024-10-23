@@ -2,17 +2,17 @@
 
 #### 👷 Check out my recent contributions!
 
+- [BEComTweaks/docs](https://github.com/BEComTweaks/docs) - Docs on BEComTweaks and how it works (today)
 - [BEComTweaks/resource-packs](https://github.com/BEComTweaks/resource-packs) - A repo containing every single resource pack ported from vanillatweaks.net (1 day ago)
-- [BEComTweaks/docs](https://github.com/BEComTweaks/docs) - Docs on BEComTweaks and how it works (3 days ago)
-- [NSPC911/vc-themes](https://github.com/NSPC911/vc-themes) - Repository of the themes I use and have modified (1 week ago)
-- [BEComTweaks/server-backend](https://github.com/BEComTweaks/server-backend) - A repo containing the server for becomtweaks.github.io (1 week ago)
-- [NSPC911/scripts](https://github.com/NSPC911/scripts) - a bunch of scripts that i have and use (1 week ago)
+- [BEComTweaks/server-backend](https://github.com/BEComTweaks/server-backend) - A repo containing the server for becomtweaks.github.io (1 day ago)
+- [BEComTweaks/behaviour-packs](https://github.com/BEComTweaks/behaviour-packs) - A repo containing every single behaviour pack ported from vanillatweaks.net (1 day ago)
+- [BEComTweaks/crafting-tweaks](https://github.com/BEComTweaks/crafting-tweaks) - A repo containing every single crafting tweak ported from vanillatweaks.net (1 day ago)
 
 #### 🔨 My recent Pull Requests!
 
-- [[packs] The monthly pull from BedrockTweaks/Files](https://github.com/BEComTweaks/resource-packs/pull/30) on [BEComTweaks/resource-packs](https://github.com/BEComTweaks/resource-packs) (3 days ago)
-- [[packs] Cool Packs by ItsRichHeart &#43; Moved around Utility Packs](https://github.com/BEComTweaks/resource-packs/pull/29) on [BEComTweaks/resource-packs](https://github.com/BEComTweaks/resource-packs) (2 weeks ago)
-- [[webUI] Add a `Select All` button](https://github.com/BEComTweaks/resource-packs/pull/28) on [BEComTweaks/resource-packs](https://github.com/BEComTweaks/resource-packs) (3 weeks ago)
+- [[jsons] Remove empty keys and made them not compulsory](https://github.com/BEComTweaks/resource-packs/pull/31) on [BEComTweaks/resource-packs](https://github.com/BEComTweaks/resource-packs) (1 day ago)
+- [fixed server from erroring out when undefined var](https://github.com/BEComTweaks/server-backend/pull/10) on [BEComTweaks/server-backend](https://github.com/BEComTweaks/server-backend) (1 day ago)
+- [[chore] Take stuff from RP](https://github.com/BEComTweaks/crafting-tweaks/pull/2) on [BEComTweaks/crafting-tweaks](https://github.com/BEComTweaks/crafting-tweaks) (1 day ago)
 
 #### 🖥 My social table!
 <table align="center">
