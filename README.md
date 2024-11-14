@@ -2,11 +2,11 @@
 
 #### 👷 Check out my recent contributions!
 
+- [BEComTweaks/BTRP-Updater](https://github.com/BEComTweaks/BTRP-Updater) - Update previously made Bedrock Tweaks resource packs with this tool! (1 day ago)
 - [NSPC911/OreUI-HTML](https://github.com/NSPC911/OreUI-HTML) - Bedrock&#39;s OreUI theme made with CSS and JS. (1 day ago)
-- [BEComTweaks/resource-packs](https://github.com/BEComTweaks/resource-packs) - A repo containing every single resource pack ported from vanillatweaks.net (6 days ago)
-- [BEComTweaks/crafting-tweaks](https://github.com/BEComTweaks/crafting-tweaks) - A repo containing every single crafting tweak ported from vanillatweaks.net (1 week ago)
+- [BEComTweaks/resource-packs](https://github.com/BEComTweaks/resource-packs) - A repo containing every single resource pack ported from vanillatweaks.net (1 week ago)
 - [BEComTweaks/behaviour-packs](https://github.com/BEComTweaks/behaviour-packs) - A repo containing every single behaviour pack ported from vanillatweaks.net (1 week ago)
-- [NSPC911/vc-themes](https://github.com/NSPC911/vc-themes) - Repository of the themes I use and have modified (1 week ago)
+- [BEComTweaks/crafting-tweaks](https://github.com/BEComTweaks/crafting-tweaks) - A repo containing every single crafting tweak ported from vanillatweaks.net (1 week ago)
 
 #### 🔨 My recent Pull Requests!
 
