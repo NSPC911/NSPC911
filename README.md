@@ -2,7 +2,7 @@
 
 #### 👷 Check out my recent contributions!
 
-- [BEComTweaks/resource-packs](https://github.com/BEComTweaks/resource-packs) - A repo containing every single resource pack ported from vanillatweaks.net (2 days ago)
+- [BEComTweaks/resource-packs](https://github.com/BEComTweaks/resource-packs) - A repo containing every single resource pack ported from vanillatweaks.net (3 days ago)
 - [NSPC911/vc-themes](https://github.com/NSPC911/vc-themes) - Repository of the themes I use and have modified (1 week ago)
 - [BEComTweaks/behaviour-packs](https://github.com/BEComTweaks/behaviour-packs) - A repo containing every single behaviour pack ported from vanillatweaks.net (1 week ago)
 - [BEComTweaks/crafting-tweaks](https://github.com/BEComTweaks/crafting-tweaks) - A repo containing every single crafting tweak ported from vanillatweaks.net (2 weeks ago)
@@ -10,9 +10,9 @@
 
 #### 🔨 My recent Pull Requests!
 
+- [feat(files): Added Trial Chamber Panorama](https://github.com/BedrockTweaks/Files/pull/415) on [BedrockTweaks/Files](https://github.com/BedrockTweaks/Files) (1 day ago)
 - [[webUI] Pulled branch `overhaul` from resource-packs](https://github.com/BEComTweaks/crafting-tweaks/pull/3) on [BEComTweaks/crafting-tweaks](https://github.com/BEComTweaks/crafting-tweaks) (2 weeks ago)
 - [[webUI] Pulled branch `overhaul` from resource-packs](https://github.com/BEComTweaks/behaviour-packs/pull/4) on [BEComTweaks/behaviour-packs](https://github.com/BEComTweaks/behaviour-packs) (2 weeks ago)
-- [[webUI] Massive Overhaul (read desc)](https://github.com/BEComTweaks/resource-packs/pull/32) on [BEComTweaks/resource-packs](https://github.com/BEComTweaks/resource-packs) (2 weeks ago)
 
 #### 🖥 My social table!
 <table align="center">
