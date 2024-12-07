@@ -2,15 +2,15 @@
 
 #### 👷 Check out my recent contributions!
 
-- [NSPC911/vc-themes](https://github.com/NSPC911/vc-themes) - Repository of the themes I use and have modified (1 day ago)
-- [BEComTweaks/resource-packs](https://github.com/BEComTweaks/resource-packs) - A repo containing every single resource pack ported from vanillatweaks.net (4 days ago)
+- [NSPC911/search](https://github.com/NSPC911/search) - Multi-functional CLI script that allows you to search for a term in a directory. (today)
+- [NSPC911/vc-themes](https://github.com/NSPC911/vc-themes) - Repository of the themes I use and have modified (2 days ago)
+- [BEComTweaks/resource-packs](https://github.com/BEComTweaks/resource-packs) - A repo containing every single resource pack ported from vanillatweaks.net (5 days ago)
 - [BEComTweaks/behaviour-packs](https://github.com/BEComTweaks/behaviour-packs) - A repo containing every single behaviour pack ported from vanillatweaks.net (1 week ago)
 - [BEComTweaks/crafting-tweaks](https://github.com/BEComTweaks/crafting-tweaks) - A repo containing every single crafting tweak ported from vanillatweaks.net (2 weeks ago)
-- [BEComTweaks/btrp-updater](https://github.com/BEComTweaks/btrp-updater) - Update previously made Bedrock Tweaks resource packs with this tool! (2 weeks ago)
 
 #### 🔨 My recent Pull Requests!
 
-- [feat(files): Added Trial Chamber Panorama](https://github.com/BedrockTweaks/Files/pull/415) on [BedrockTweaks/Files](https://github.com/BedrockTweaks/Files) (2 days ago)
+- [feat(files): Added Trial Chamber Panorama](https://github.com/BedrockTweaks/Files/pull/415) on [BedrockTweaks/Files](https://github.com/BedrockTweaks/Files) (3 days ago)
 - [[webUI] Pulled branch `overhaul` from resource-packs](https://github.com/BEComTweaks/crafting-tweaks/pull/3) on [BEComTweaks/crafting-tweaks](https://github.com/BEComTweaks/crafting-tweaks) (2 weeks ago)
 - [[webUI] Pulled branch `overhaul` from resource-packs](https://github.com/BEComTweaks/behaviour-packs/pull/4) on [BEComTweaks/behaviour-packs](https://github.com/BEComTweaks/behaviour-packs) (2 weeks ago)
 
