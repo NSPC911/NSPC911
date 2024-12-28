@@ -2,11 +2,11 @@
 
 #### 👷 Check out my recent contributions!
 
-- [BEComTweaks/resource-packs](https://github.com/BEComTweaks/resource-packs) - A repo containing every single resource pack ported from vanillatweaks.net (6 days ago)
+- [BEComTweaks/resource-packs](https://github.com/BEComTweaks/resource-packs) - A repo containing every single resource pack ported from vanillatweaks.net (1 week ago)
 - [BEComTweaks/crafting-tweaks](https://github.com/BEComTweaks/crafting-tweaks) - A repo containing every single crafting tweak ported from vanillatweaks.net (1 week ago)
 - [BEComTweaks/behaviour-packs](https://github.com/BEComTweaks/behaviour-packs) - A repo containing every single behaviour pack ported from vanillatweaks.net (1 week ago)
-- [BEComTweaks/docs](https://github.com/BEComTweaks/docs) - Docs on BEComTweaks and how it works (1 week ago)
-- [BEComTweaks/becomtweaks.github.io](https://github.com/BEComTweaks/becomtweaks.github.io) - Landing Page for the website (1 week ago)
+- [BEComTweaks/docs](https://github.com/BEComTweaks/docs) - Docs on BEComTweaks and how it works (2 weeks ago)
+- [BEComTweaks/becomtweaks.github.io](https://github.com/BEComTweaks/becomtweaks.github.io) - Landing Page for the website (2 weeks ago)
 
 #### 🔨 My recent Pull Requests!
 
