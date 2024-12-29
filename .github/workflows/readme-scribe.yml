@@ -24,10 +24,10 @@ jobs:
 
       - name: Commit and push changes
         run: |
-          git config user.name 'NSPC911'
-          git config user.email ${{ secrets.GIT_EMAIL }}
+          git config user.name "Readme Scribe"
+          git config user.email "actions@github.com"
           git add --all
-          git commit -m "[actions] Updated README.md" -m "I'm using my email for automated updates because I need the streak" --allow-empty
+          git commit -m "[actions] Updated README.md"
           git pull origin main
           git push origin main
         env:
