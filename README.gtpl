@@ -15,17 +15,17 @@
   <tr>
     <th>
       <a href="https://youtube.com/@nspg911" alt="YouTube" title="YouTube">
-        <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube">
+        <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=black">
       </a>
     </th>
     <th>
       <a href="https://twitter.com/@Nspg9" alt="X/Twitter" title="X/Twitter">
-        <img src="https://img.shields.io/badge/Twitter-%23444?style=for-the-badge&logo=X">
+        <img src="https://img.shields.io/badge/Twitter-%23444?style=for-the-badge&logo=X&logoColor=black">
       </a>
     </th>
     <th>
       <a href="https://reddit.com/u/NotSoProGamerR" alt="Reddit" title="Reddit">
-        <img src="https://img.shields.io/badge/Reddit-red?style=for-the-badge&logo=reddit">
+        <img src="https://img.shields.io/badge/Reddit-red?style=for-the-badge&logo=reddit&logoColor=black">
       </a>
     </th>
   </tr>
@@ -45,17 +45,17 @@
   <tr>
     <th>
       <a href="https://mcpedl.com/user/nspg911" alt="MCPEDL" title="MCPEDL">
-        <img src="https://img.shields.io/badge/MCPEDL-%23090?style=for-the-badge&logo=headlessui">
+        <img src="https://img.shields.io/badge/MCPEDL-%23090?style=for-the-badge&logo=headlessui&logoColor=black">
       </a>
     </th>
     <th>
-      <a href="" alt="Minecraft (Not ready to click)" title="Minecraft (Not ready to click)">
-        <img src="https://img.shields.io/badge/Minecraft-green?style=for-the-badge">
+      <a href="https://bsky.app/profile/nspg911.bsky.social">
+        <img alt="Bluesky" src="https://img.shields.io/badge/Bluesky-blue?style=for-the-badge&logo=bluesky&logoColor=black">
       </a>
     </th>
     <th>
-      <a href="https://modbay.org/user/NSPG911/" alt="Modbay" title="Modbay&logo=headlessui">
-        <img src="https://img.shields.io/badge/Modbay-%2380f?style=for-the-badge&logo=headlessui">
+      <a href="https://becomtweaks.github.io/discord" alt="Discord" title="Modbay">
+        <img alt="Discord" src="https://img.shields.io/badge/Discord-3400ff?style=for-the-badge&logo=discord&logoColor=black">
       </a>
   </tr>
   </th>
