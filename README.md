@@ -2,7 +2,7 @@
 
 #### 👷 Check out my recent contributions!
 
-- [NSPC911/vc-themes](https://github.com/NSPC911/vc-themes) - Repository of the themes I use and have modified (1 day ago)
+- [NSPC911/vc-themes](https://github.com/NSPC911/vc-themes) - Repository of the themes I use and have modified (today)
 - [BEComTweaks/resource-packs](https://github.com/BEComTweaks/resource-packs) - A repo containing every single resource pack ported from vanillatweaks.net (1 week ago)
 - [BEComTweaks/crafting-tweaks](https://github.com/BEComTweaks/crafting-tweaks) - A repo containing every single crafting tweak ported from vanillatweaks.net (1 week ago)
 - [BEComTweaks/behaviour-packs](https://github.com/BEComTweaks/behaviour-packs) - A repo containing every single behaviour pack ported from vanillatweaks.net (1 week ago)
@@ -19,17 +19,17 @@
   <tr>
     <th>
       <a href="https://youtube.com/@nspg911" alt="YouTube" title="YouTube">
-        <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube">
+        <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=black">
       </a>
     </th>
     <th>
       <a href="https://twitter.com/@Nspg9" alt="X/Twitter" title="X/Twitter">
-        <img src="https://img.shields.io/badge/Twitter-%23444?style=for-the-badge&logo=X">
+        <img src="https://img.shields.io/badge/Twitter-%23444?style=for-the-badge&logo=X&logoColor=black">
       </a>
     </th>
     <th>
       <a href="https://reddit.com/u/NotSoProGamerR" alt="Reddit" title="Reddit">
-        <img src="https://img.shields.io/badge/Reddit-red?style=for-the-badge&logo=reddit">
+        <img src="https://img.shields.io/badge/Reddit-red?style=for-the-badge&logo=reddit&logoColor=black">
       </a>
     </th>
   </tr>
@@ -49,17 +49,17 @@
   <tr>
     <th>
       <a href="https://mcpedl.com/user/nspg911" alt="MCPEDL" title="MCPEDL">
-        <img src="https://img.shields.io/badge/MCPEDL-%23090?style=for-the-badge&logo=headlessui">
+        <img src="https://img.shields.io/badge/MCPEDL-%23090?style=for-the-badge&logo=headlessui&logoColor=black">
       </a>
     </th>
     <th>
-      <a href="" alt="Minecraft (Not ready to click)" title="Minecraft (Not ready to click)">
-        <img src="https://img.shields.io/badge/Minecraft-green?style=for-the-badge">
+      <a href="https://bsky.app/profile/nspg911.bsky.social">
+        <img alt="Bluesky" src="https://img.shields.io/badge/Bluesky-blue?style=for-the-badge&logo=bluesky&logoColor=black">
       </a>
     </th>
     <th>
-      <a href="https://modbay.org/user/NSPG911/" alt="Modbay" title="Modbay&logo=headlessui">
-        <img src="https://img.shields.io/badge/Modbay-%2380f?style=for-the-badge&logo=headlessui">
+      <a href="https://becomtweaks.github.io/discord" alt="Discord" title="Modbay">
+        <img alt="Discord" src="https://img.shields.io/badge/Discord-3400ff?style=for-the-badge&logo=discord&logoColor=black">
       </a>
   </tr>
   </th>
