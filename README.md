@@ -2,15 +2,15 @@
 
 #### 👷 Check out my recent contributions!
 
-- [BEComTweaks/btrp-updater](https://github.com/BEComTweaks/btrp-updater) - Update previously made Bedrock Tweaks resource packs with this tool! (5 days ago)
-- [BEComTweaks/docs](https://github.com/BEComTweaks/docs) - Docs on BEComTweaks and how it works (5 days ago)
-- [BEComTweaks/.github](https://github.com/BEComTweaks/.github) - README for Organization (5 days ago)
-- [BEComTweaks/becomtweaks.github.io](https://github.com/BEComTweaks/becomtweaks.github.io) - Landing Page for the website (5 days ago)
+- [BEComTweaks/btrp-updater](https://github.com/BEComTweaks/btrp-updater) - Update previously made Bedrock Tweaks resource packs with this tool! (6 days ago)
+- [BEComTweaks/docs](https://github.com/BEComTweaks/docs) - Docs on BEComTweaks and how it works (6 days ago)
+- [BEComTweaks/.github](https://github.com/BEComTweaks/.github) - README for Organization (6 days ago)
+- [BEComTweaks/becomtweaks.github.io](https://github.com/BEComTweaks/becomtweaks.github.io) - Landing Page for the website (6 days ago)
 - [NSPC911/vc-themes](https://github.com/NSPC911/vc-themes) - Repository of the themes I use and have modified (2 weeks ago)
 
 #### 🔨 My recent Pull Requests!
 
-- [No Backend (3.0)](https://github.com/BEComTweaks/behaviour-packs/pull/6) on [BEComTweaks/behaviour-packs](https://github.com/BEComTweaks/behaviour-packs) (1 week ago)
+- [No Backend (3.0)](https://github.com/BEComTweaks/behaviour-packs/pull/6) on [BEComTweaks/behaviour-packs](https://github.com/BEComTweaks/behaviour-packs) (2 weeks ago)
 - [fix(files): Nether Bricks](https://github.com/BedrockTweaks/Files/pull/428) on [BedrockTweaks/Files](https://github.com/BedrockTweaks/Files) (1 month ago)
 - [feat(files): Added Trial Chamber Panorama](https://github.com/BedrockTweaks/Files/pull/415) on [BedrockTweaks/Files](https://github.com/BedrockTweaks/Files) (1 month ago)
 
