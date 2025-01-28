@@ -2,17 +2,17 @@
 
 #### 👷 Check out my recent contributions!
 
-- [NSPC911/vc-themes](https://github.com/NSPC911/vc-themes) - Repository of the themes I use and have modified (4 days ago)
-- [BEComTweaks/server-backend](https://github.com/BEComTweaks/server-backend) - A repo containing the server for becomtweaks.github.io (4 days ago)
+- [NSPC911/vc-themes](https://github.com/NSPC911/vc-themes) - Repository of the themes I use and have modified (5 days ago)
+- [BEComTweaks/server-backend](https://github.com/BEComTweaks/server-backend) - A repo containing the server for becomtweaks.github.io (5 days ago)
 - [BEComTweaks/docs](https://github.com/BEComTweaks/docs) - Docs on BEComTweaks and how it works (1 week ago)
 - [BEComTweaks/.github](https://github.com/BEComTweaks/.github) - README for Organization (1 week ago)
 - [BEComTweaks/becomtweaks.github.io](https://github.com/BEComTweaks/becomtweaks.github.io) - Landing Page for the website (1 week ago)
 
 #### 🔨 My recent Pull Requests!
 
+- [Fix: ClientTheme not working with Visual Refresh](https://github.com/Vendicated/Vencord/pull/3168) on [Vendicated/Vencord](https://github.com/Vendicated/Vencord) (1 day ago)
 - [No Backend (3.0)](https://github.com/BEComTweaks/behaviour-packs/pull/6) on [BEComTweaks/behaviour-packs](https://github.com/BEComTweaks/behaviour-packs) (2 weeks ago)
 - [fix(files): Nether Bricks](https://github.com/BedrockTweaks/Files/pull/428) on [BedrockTweaks/Files](https://github.com/BedrockTweaks/Files) (1 month ago)
-- [feat(files): Added Trial Chamber Panorama](https://github.com/BedrockTweaks/Files/pull/415) on [BedrockTweaks/Files](https://github.com/BedrockTweaks/Files) (1 month ago)
 
 #### 🖥 My social table!
 <table align="center">
