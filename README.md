@@ -2,15 +2,15 @@
 
 #### 👷 Check out my recent contributions!
 
-- [BEComTweaks/boulder_hooks](https://github.com/BEComTweaks/boulder_hooks) -  (6 days ago)
+- [NSPC911/vc-themes](https://github.com/NSPC911/vc-themes) - Repository of the themes I use and have modified (today)
+- [BEComTweaks/boulder_hooks](https://github.com/BEComTweaks/boulder_hooks) -  (1 week ago)
 - [BEComTweaks/boulder](https://github.com/BEComTweaks/boulder) - Bedrock-OSS&#39; Regolith made from ground-up tailored for BEComTweaks (1 week ago)
 - [BEComTweaks/server-backend](https://github.com/BEComTweaks/server-backend) - A repo containing the server for becomtweaks.github.io (2 weeks ago)
-- [NSPC911/vc-themes](https://github.com/NSPC911/vc-themes) - Repository of the themes I use and have modified (2 weeks ago)
 - [BEComTweaks/.github](https://github.com/BEComTweaks/.github) - README for Organization (3 weeks ago)
 
 #### 🔨 My recent Pull Requests!
 
-- [Fix: ClientTheme not working with Visual Refresh](https://github.com/Vendicated/Vencord/pull/3168) on [Vendicated/Vencord](https://github.com/Vendicated/Vencord) (1 week ago)
+- [Fix: ClientTheme not working with Visual Refresh](https://github.com/Vendicated/Vencord/pull/3168) on [Vendicated/Vencord](https://github.com/Vendicated/Vencord) (2 weeks ago)
 - [No Backend (3.0)](https://github.com/BEComTweaks/behaviour-packs/pull/6) on [BEComTweaks/behaviour-packs](https://github.com/BEComTweaks/behaviour-packs) (1 month ago)
 - [fix(files): Nether Bricks](https://github.com/BedrockTweaks/Files/pull/428) on [BedrockTweaks/Files](https://github.com/BedrockTweaks/Files) (2 months ago)
 
