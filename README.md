@@ -2,7 +2,7 @@
 
 #### 👷 Check out my recent contributions!
 
-- [NSPC911/vc-themes](https://github.com/NSPC911/vc-themes) - Repository of the themes I use and have modified (1 day ago)
+- [NSPC911/vc-themes](https://github.com/NSPC911/vc-themes) - Repository of the themes I use and have modified (2 days ago)
 - [BEComTweaks/boulder_hooks](https://github.com/BEComTweaks/boulder_hooks) -  (1 week ago)
 - [BEComTweaks/boulder](https://github.com/BEComTweaks/boulder) - Bedrock-OSS&#39; Regolith made from ground-up tailored for BEComTweaks (2 weeks ago)
 - [BEComTweaks/server-backend](https://github.com/BEComTweaks/server-backend) - A repo containing the server for becomtweaks.github.io (2 weeks ago)
