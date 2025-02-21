@@ -2,11 +2,11 @@
 
 #### 👷 Check out my recent contributions!
 
-- [NSPC911/vc-themes](https://github.com/NSPC911/vc-themes) - Repository of the themes I use and have modified (5 days ago)
-- [BEComTweaks/boulder_hooks](https://github.com/BEComTweaks/boulder_hooks) -  (5 days ago)
+- [NSPC911/jot](https://github.com/NSPC911/jot) - A note manager through the CLI. (1 day ago)
+- [BEComTweaks/boulder_hooks](https://github.com/BEComTweaks/boulder_hooks) -  (6 days ago)
+- [NSPC911/vc-themes](https://github.com/NSPC911/vc-themes) - Repository of the themes I use and have modified (6 days ago)
 - [BEComTweaks/boulder](https://github.com/BEComTweaks/boulder) - Bedrock-OSS&#39; Regolith made from ground-up tailored for BEComTweaks (3 weeks ago)
 - [BEComTweaks/server-backend](https://github.com/BEComTweaks/server-backend) - A repo containing the server for becomtweaks.github.io (4 weeks ago)
-- [BEComTweaks/docs](https://github.com/BEComTweaks/docs) - Docs on BEComTweaks and how it works (1 month ago)
 
 #### 🔨 My recent Pull Requests!
 
