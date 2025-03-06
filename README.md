@@ -2,7 +2,7 @@
 
 #### 👷 Check out my recent contributions!
 
-- [NSPC911/vc-themes](https://github.com/NSPC911/vc-themes) - Repository of the themes I use and have modified (1 day ago)
+- [NSPC911/vc-themes](https://github.com/NSPC911/vc-themes) - Repository of the themes I use and have modified (2 days ago)
 - [NSPC911/jot](https://github.com/NSPC911/jot) - A note manager through the CLI. (1 week ago)
 - [BEComTweaks/boulder_hooks](https://github.com/BEComTweaks/boulder_hooks) -  (1 week ago)
 - [NSPC911/beeper-css](https://github.com/NSPC911/beeper-css) - Some themes for Beeper, including v3 and v4 (1 week ago)
@@ -10,9 +10,9 @@
 
 #### 🔨 My recent Pull Requests!
 
-- [xxmi: Add version 1.5.0](https://github.com/Calinou/scoop-games/pull/1332) on [Calinou/scoop-games](https://github.com/Calinou/scoop-games) (1 day ago)
+- [xxmi: Add version 1.5.0](https://github.com/Calinou/scoop-games/pull/1332) on [Calinou/scoop-games](https://github.com/Calinou/scoop-games) (2 days ago)
 - [New Theme: Nord for Beeper v3](https://github.com/beeper/themes/pull/40) on [beeper/themes](https://github.com/beeper/themes) (1 week ago)
-- [fix spelling mistake](https://github.com/IseeJ/LovePawsona/pull/3) on [IseeJ/LovePawsona](https://github.com/IseeJ/LovePawsona) (2 weeks ago)
+- [fix spelling mistake](https://github.com/IseeJ/LovePawsona/pull/3) on [IseeJ/LovePawsona](https://github.com/IseeJ/LovePawsona) (3 weeks ago)
 
 #### 🖥 My social table!
 <table align="center">
