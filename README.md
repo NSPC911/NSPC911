@@ -2,15 +2,15 @@
 
 #### 👷 Check out my recent contributions!
 
-- [BEComTweaks/becomtweaks.github.io](https://github.com/BEComTweaks/becomtweaks.github.io) - Landing Page for the website (4 days ago)
-- [BEComTweaks/docs](https://github.com/BEComTweaks/docs) - Docs on BEComTweaks and how it works (4 days ago)
+- [BEComTweaks/becomtweaks.github.io](https://github.com/BEComTweaks/becomtweaks.github.io) - Landing Page for the website (5 days ago)
+- [BEComTweaks/docs](https://github.com/BEComTweaks/docs) - Docs on BEComTweaks and how it works (5 days ago)
 - [NSPC911/scripts](https://github.com/NSPC911/scripts) - a bunch of scripts that i have and use (1 week ago)
 - [NSPC911/vc-themes](https://github.com/NSPC911/vc-themes) - Repository of the themes I use and have modified (1 week ago)
 - [BEComTweaks/btrp-updater](https://github.com/BEComTweaks/btrp-updater) - Update previously made Bedrock Tweaks resource packs with this tool! (1 week ago)
 
 #### 🔨 My recent Pull Requests!
 
-- [Added option to install through scoop](https://github.com/SpectrumQT/XXMI-Launcher/pull/113) on [SpectrumQT/XXMI-Launcher](https://github.com/SpectrumQT/XXMI-Launcher) (1 week ago)
+- [Added option to install through scoop](https://github.com/SpectrumQT/XXMI-Launcher/pull/113) on [SpectrumQT/XXMI-Launcher](https://github.com/SpectrumQT/XXMI-Launcher) (2 weeks ago)
 - [xxmi: Add version 1.5.0](https://github.com/Calinou/scoop-games/pull/1332) on [Calinou/scoop-games](https://github.com/Calinou/scoop-games) (2 weeks ago)
 - [New Theme: Nord for Beeper v3](https://github.com/beeper/themes/pull/40) on [beeper/themes](https://github.com/beeper/themes) (4 weeks ago)
 
