@@ -2,17 +2,17 @@
 
 #### 👷 Check out my recent contributions!
 
-- [NSPC911/bongo-cat](https://github.com/NSPC911/bongo-cat) - You know the bongo cat steam game? Well here is a non-keylogger version made with python (i love python) (1 day ago)
-- [NSPC911/themes](https://github.com/NSPC911/themes) - Repository of the themes I use and have modified (1 day ago)
-- [BEComTweaks/docs](https://github.com/BEComTweaks/docs) - Docs on BEComTweaks and how it works (6 days ago)
-- [BEComTweaks/becomtweaks.github.io](https://github.com/BEComTweaks/becomtweaks.github.io) - Landing Page for the website (6 days ago)
-- [NSPC911/oreui-html](https://github.com/NSPC911/oreui-html) - Bedrock&#39;s OreUI theme made with CSS and JS. (6 days ago)
+- [NSPC911/bongo-cat](https://github.com/NSPC911/bongo-cat) - You know the bongo cat steam game? Well here is a non-keylogger version made with python (i love python) (2 days ago)
+- [NSPC911/themes](https://github.com/NSPC911/themes) - Repository of the themes I use and have modified (2 days ago)
+- [BEComTweaks/docs](https://github.com/BEComTweaks/docs) - Docs on BEComTweaks and how it works (1 week ago)
+- [BEComTweaks/becomtweaks.github.io](https://github.com/BEComTweaks/becomtweaks.github.io) - Landing Page for the website (1 week ago)
+- [NSPC911/oreui-html](https://github.com/NSPC911/oreui-html) - Bedrock&#39;s OreUI theme made with CSS and JS. (1 week ago)
 
 #### 🔨 My recent Pull Requests!
 
-- [feat(files): Add &#39;A Minecraft Movie&#39; Logo pack](https://github.com/BedrockTweaks/Files/pull/565) on [BedrockTweaks/Files](https://github.com/BedrockTweaks/Files) (5 days ago)
-- [v3.0 | The extremely proud update](https://github.com/BEComTweaks/server-backend/pull/22) on [BEComTweaks/server-backend](https://github.com/BEComTweaks/server-backend) (6 days ago)
-- [v3.0 | The extremely proud update](https://github.com/BEComTweaks/crafting-tweaks/pull/8) on [BEComTweaks/crafting-tweaks](https://github.com/BEComTweaks/crafting-tweaks) (6 days ago)
+- [feat(files): Add &#39;A Minecraft Movie&#39; Logo pack](https://github.com/BedrockTweaks/Files/pull/565) on [BedrockTweaks/Files](https://github.com/BedrockTweaks/Files) (6 days ago)
+- [v3.0 | The extremely proud update](https://github.com/BEComTweaks/server-backend/pull/22) on [BEComTweaks/server-backend](https://github.com/BEComTweaks/server-backend) (1 week ago)
+- [v3.0 | The extremely proud update](https://github.com/BEComTweaks/crafting-tweaks/pull/8) on [BEComTweaks/crafting-tweaks](https://github.com/BEComTweaks/crafting-tweaks) (1 week ago)
 
 #### 🖥 I'm available here!
 
