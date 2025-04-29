@@ -2,17 +2,17 @@
 
 #### 👷 Check out my recent contributions!
 
-- [BEComTweaks/behaviour-packs](https://github.com/BEComTweaks/behaviour-packs) - A repo containing every single behaviour pack ported from vanillatweaks.net (today)
-- [BEComTweaks/resource-packs](https://github.com/BEComTweaks/resource-packs) - A repo containing every single resource pack ported from vanillatweaks.net (today)
-- [BEComTweaks/crafting-tweaks](https://github.com/BEComTweaks/crafting-tweaks) - A repo containing every single crafting tweak ported from vanillatweaks.net (today)
-- [NSPC911/le-bucket](https://github.com/NSPC911/le-bucket) - A bunch of scoop apps that I thought to add but dunno which bucket to add (today)
-- [BEComTweaks/docs](https://github.com/BEComTweaks/docs) - Docs on BEComTweaks and how it works (1 day ago)
+- [BEComTweaks/crafting-tweaks](https://github.com/BEComTweaks/crafting-tweaks) - A repo containing every single crafting tweak ported from vanillatweaks.net (1 day ago)
+- [NSPC911/le-bucket](https://github.com/NSPC911/le-bucket) - A bunch of scoop apps that I thought to add but dunno which bucket to add (1 day ago)
+- [BEComTweaks/resource-packs](https://github.com/BEComTweaks/resource-packs) - A repo containing every single resource pack ported from vanillatweaks.net (1 day ago)
+- [BEComTweaks/behaviour-packs](https://github.com/BEComTweaks/behaviour-packs) - A repo containing every single behaviour pack ported from vanillatweaks.net (1 day ago)
+- [BEComTweaks/server-backend](https://github.com/BEComTweaks/server-backend) - A repo containing the server for becomtweaks.github.io (2 days ago)
 
 #### 🔨 My recent Pull Requests!
 
-- [feat(files): Add compatibility for snoutless cows and earth wooly cows](https://github.com/BedrockTweaks/Files/pull/575) on [BedrockTweaks/Files](https://github.com/BedrockTweaks/Files) (6 days ago)
+- [feat(files): Add compatibility for snoutless cows and earth wooly cows](https://github.com/BedrockTweaks/Files/pull/575) on [BedrockTweaks/Files](https://github.com/BedrockTweaks/Files) (1 week ago)
 - [feat(files): Add &#39;A Minecraft Movie&#39; Logo pack](https://github.com/BedrockTweaks/Files/pull/565) on [BedrockTweaks/Files](https://github.com/BedrockTweaks/Files) (1 week ago)
-- [v3.0 | The extremely proud update](https://github.com/BEComTweaks/server-backend/pull/22) on [BEComTweaks/server-backend](https://github.com/BEComTweaks/server-backend) (1 week ago)
+- [v3.0 | The extremely proud update](https://github.com/BEComTweaks/server-backend/pull/22) on [BEComTweaks/server-backend](https://github.com/BEComTweaks/server-backend) (2 weeks ago)
 
 #### 🖥 I'm available here!
 
