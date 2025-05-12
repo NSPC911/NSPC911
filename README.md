@@ -2,15 +2,15 @@
 
 #### 👷 Check out my recent contributions!
 
-- [BEComTweaks/behaviour-packs](https://github.com/BEComTweaks/behaviour-packs) - A repo containing every single behaviour pack ported from vanillatweaks.net (1 day ago)
-- [NSPC911/themes](https://github.com/NSPC911/themes) - Repository of the themes I use and have modified (1 day ago)
-- [NSPC911/dotfiles](https://github.com/NSPC911/dotfiles) - A bunch of configurations (not themes) that I have for my apps (1 day ago)
-- [NSPC911/le-bucket](https://github.com/NSPC911/le-bucket) - A bunch of scoop apps that I thought to add but dunno which bucket to add (3 days ago)
-- [BEComTweaks/resource-packs](https://github.com/BEComTweaks/resource-packs) - A repo containing every single resource pack ported from vanillatweaks.net (4 days ago)
+- [NSPC911/dotfiles](https://github.com/NSPC911/dotfiles) - A bunch of configurations (not themes) that I have for my apps (today)
+- [NSPC911/themes](https://github.com/NSPC911/themes) - Repository of the themes I use and have modified (2 days ago)
+- [BEComTweaks/behaviour-packs](https://github.com/BEComTweaks/behaviour-packs) - A repo containing every single behaviour pack ported from vanillatweaks.net (2 days ago)
+- [NSPC911/le-bucket](https://github.com/NSPC911/le-bucket) - A bunch of scoop apps that I thought to add but dunno which bucket to add (4 days ago)
+- [BEComTweaks/resource-packs](https://github.com/BEComTweaks/resource-packs) - A repo containing every single resource pack ported from vanillatweaks.net (5 days ago)
 
 #### 🔨 My recent Pull Requests!
 
-- [fix(bar): Always on Top is now always on top](https://github.com/amnweb/yasb/pull/259) on [amnweb/yasb](https://github.com/amnweb/yasb) (2 days ago)
+- [fix(bar): Always on Top is now always on top](https://github.com/amnweb/yasb/pull/259) on [amnweb/yasb](https://github.com/amnweb/yasb) (3 days ago)
 - [feat(bar): Add flag `hide_on_desktop`](https://github.com/amnweb/yasb/pull/232) on [amnweb/yasb](https://github.com/amnweb/yasb) (1 week ago)
 - [feat(files): Add compatibility for snoutless cows and earth wooly cows](https://github.com/BedrockTweaks/Files/pull/575) on [BedrockTweaks/Files](https://github.com/BedrockTweaks/Files) (2 weeks ago)
 
