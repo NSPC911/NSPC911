@@ -2,17 +2,17 @@
 
 #### 👷 Check out my recent contributions!
 
+- [NSPC911/search](https://github.com/NSPC911/search) - Multi-functional CLI script that allows you to search for a term in a directory. (today)
 - [NSPC911/dotfiles](https://github.com/NSPC911/dotfiles) - A bunch of configurations (not themes) that I have for my apps (today)
-- [NSPC911/le-bucket](https://github.com/NSPC911/le-bucket) - A bunch of scoop apps that I thought to add but dunno which bucket to add (1 day ago)
-- [NSPC911/bongo-cat](https://github.com/NSPC911/bongo-cat) - You know the bongo cat steam game? Well here is a non-keylogger version made with python (i love python) (3 days ago)
-- [NSPC911/themes](https://github.com/NSPC911/themes) - Repository of the themes I use and have modified (4 days ago)
-- [BEComTweaks/behaviour-packs](https://github.com/BEComTweaks/behaviour-packs) - A repo containing every single behaviour pack ported from vanillatweaks.net (1 week ago)
+- [facebook/pyrefly](https://github.com/facebook/pyrefly) - A fast type checker and IDE for Python (1 day ago)
+- [NSPC911/le-bucket](https://github.com/NSPC911/le-bucket) - A bunch of scoop apps that I thought to add but dunno which bucket to add (2 days ago)
+- [NSPC911/bongo-cat](https://github.com/NSPC911/bongo-cat) - You know the bongo cat steam game? Well here is a non-keylogger version made with python (i love python) (4 days ago)
 
 #### 🔨 My recent Pull Requests!
 
-- [feat(apps): add Pixelorama and Magnifier](https://github.com/LGUG2Z/komorebi-application-specific-configuration/pull/198) on [LGUG2Z/komorebi-application-specific-configuration](https://github.com/LGUG2Z/komorebi-application-specific-configuration) (1 day ago)
+- [docs: add Helix docs for IDE](https://github.com/facebook/pyrefly/pull/275) on [facebook/pyrefly](https://github.com/facebook/pyrefly) (1 day ago)
+- [feat(apps): add Pixelorama and Magnifier](https://github.com/LGUG2Z/komorebi-application-specific-configuration/pull/198) on [LGUG2Z/komorebi-application-specific-configuration](https://github.com/LGUG2Z/komorebi-application-specific-configuration) (2 days ago)
 - [feat(css): add `.first-child` and `.last child` classes](https://github.com/amnweb/yasb/pull/264) on [amnweb/yasb](https://github.com/amnweb/yasb) (1 week ago)
-- [fix(bar): Always on Top is now always on top](https://github.com/amnweb/yasb/pull/259) on [amnweb/yasb](https://github.com/amnweb/yasb) (1 week ago)
 
 #### 🖥 I'm available here!
 
