@@ -2,16 +2,16 @@
 
 #### 👷 Check out my recent contributions!
 
-- [NSPC911/search](https://github.com/NSPC911/search) - Multi-functional CLI script that allows you to search for a term in a directory. (1 day ago)
-- [NSPC911/dotfiles](https://github.com/NSPC911/dotfiles) - A bunch of configurations (not themes) that I have for my apps (1 day ago)
-- [facebook/pyrefly](https://github.com/facebook/pyrefly) - A fast type checker and IDE for Python (2 days ago)
-- [NSPC911/le-bucket](https://github.com/NSPC911/le-bucket) - A bunch of scoop apps that I thought to add but dunno which bucket to add (3 days ago)
-- [NSPC911/bongo-cat](https://github.com/NSPC911/bongo-cat) - You know the bongo cat steam game? Well here is a non-keylogger version made with python (i love python) (5 days ago)
+- [NSPC911/tfe](https://github.com/NSPC911/tfe) - A File Explorer for the Terminal, inspired by yorukot/superfile and Windows Explorer, made with Textual (today)
+- [BEComTweaks/.github](https://github.com/BEComTweaks/.github) - README for Organization (1 day ago)
+- [NSPC911/search](https://github.com/NSPC911/search) - Multi-functional CLI script that allows you to search for a term in a directory. (2 days ago)
+- [NSPC911/dotfiles](https://github.com/NSPC911/dotfiles) - A bunch of configurations (not themes) that I have for my apps (2 days ago)
+- [facebook/pyrefly](https://github.com/facebook/pyrefly) - A fast type checker and IDE for Python (3 days ago)
 
 #### 🔨 My recent Pull Requests!
 
-- [docs: add Helix docs for IDE](https://github.com/facebook/pyrefly/pull/275) on [facebook/pyrefly](https://github.com/facebook/pyrefly) (2 days ago)
-- [feat(apps): add Pixelorama and Magnifier](https://github.com/LGUG2Z/komorebi-application-specific-configuration/pull/198) on [LGUG2Z/komorebi-application-specific-configuration](https://github.com/LGUG2Z/komorebi-application-specific-configuration) (3 days ago)
+- [docs: add Helix docs for IDE](https://github.com/facebook/pyrefly/pull/275) on [facebook/pyrefly](https://github.com/facebook/pyrefly) (3 days ago)
+- [feat(apps): add Pixelorama and Magnifier](https://github.com/LGUG2Z/komorebi-application-specific-configuration/pull/198) on [LGUG2Z/komorebi-application-specific-configuration](https://github.com/LGUG2Z/komorebi-application-specific-configuration) (4 days ago)
 - [feat(css): add `.first-child` and `.last child` classes](https://github.com/amnweb/yasb/pull/264) on [amnweb/yasb](https://github.com/amnweb/yasb) (1 week ago)
 
 #### 🖥 I'm available here!
