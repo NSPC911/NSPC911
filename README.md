@@ -3,16 +3,16 @@
 #### 👷 Check out my recent contributions!
 
 - [NSPC911/carto](https://github.com/NSPC911/carto) - A File Explorer for the Terminal, inspired by yorukot/superfile and Windows Explorer, made with Textual (today)
-- [NSPC911/dotfiles](https://github.com/NSPC911/dotfiles) - A bunch of configurations (not themes) that I have for my apps (2 days ago)
-- [BEComTweaks/.github](https://github.com/BEComTweaks/.github) - README for Organization (4 days ago)
-- [NSPC911/search](https://github.com/NSPC911/search) - Multi-functional CLI script that allows you to search for a term in a directory. (5 days ago)
-- [facebook/pyrefly](https://github.com/facebook/pyrefly) - A fast type checker and IDE for Python (6 days ago)
+- [NSPC911/dotfiles](https://github.com/NSPC911/dotfiles) - A bunch of configurations (not themes) that I have for my apps (3 days ago)
+- [BEComTweaks/.github](https://github.com/BEComTweaks/.github) - README for Organization (5 days ago)
+- [NSPC911/search](https://github.com/NSPC911/search) - Multi-functional CLI script that allows you to search for a term in a directory. (6 days ago)
+- [facebook/pyrefly](https://github.com/facebook/pyrefly) - A fast type checker and IDE for Python (1 week ago)
 
 #### 🔨 My recent Pull Requests!
 
-- [docs: add Helix docs for IDE](https://github.com/facebook/pyrefly/pull/275) on [facebook/pyrefly](https://github.com/facebook/pyrefly) (6 days ago)
+- [docs: add Helix docs for IDE](https://github.com/facebook/pyrefly/pull/275) on [facebook/pyrefly](https://github.com/facebook/pyrefly) (1 week ago)
 - [feat(apps): add Pixelorama and Magnifier](https://github.com/LGUG2Z/komorebi-application-specific-configuration/pull/198) on [LGUG2Z/komorebi-application-specific-configuration](https://github.com/LGUG2Z/komorebi-application-specific-configuration) (1 week ago)
-- [feat(css): add `.first-child` and `.last child` classes](https://github.com/amnweb/yasb/pull/264) on [amnweb/yasb](https://github.com/amnweb/yasb) (1 week ago)
+- [feat(css): add `.first-child` and `.last child` classes](https://github.com/amnweb/yasb/pull/264) on [amnweb/yasb](https://github.com/amnweb/yasb) (2 weeks ago)
 
 #### 🖥 I'm available here!
 
