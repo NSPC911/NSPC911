@@ -2,17 +2,17 @@
 
 #### 👷 Check out my recent contributions!
 
-- [NSPC911/carto](https://github.com/NSPC911/carto) - A post-modern terminal file explorer. (today)
-- [BEComTweaks/crafting-tweaks](https://github.com/BEComTweaks/crafting-tweaks) - A repo containing every single crafting tweak ported from vanillatweaks.net (4 days ago)
-- [NSPC911/le-bucket](https://github.com/NSPC911/le-bucket) - A bunch of scoop apps that I thought to add but dunno which bucket to add (4 days ago)
-- [BEComTweaks/behaviour-packs](https://github.com/BEComTweaks/behaviour-packs) - A repo containing every single behaviour pack ported from vanillatweaks.net (4 days ago)
-- [BEComTweaks/resource-packs](https://github.com/BEComTweaks/resource-packs) - A repo containing every single resource pack ported from vanillatweaks.net (4 days ago)
+- [NSPC911/bongo-cat](https://github.com/NSPC911/bongo-cat) - You know the bongo cat steam game? Well here is a non-keylogger version made with python (i love python) (today)
+- [NSPC911/carto](https://github.com/NSPC911/carto) - A post-modern terminal file explorer. (1 day ago)
+- [NSPC911/le-bucket](https://github.com/NSPC911/le-bucket) - A bunch of scoop apps that I thought to add but dunno which bucket to add (5 days ago)
+- [BEComTweaks/crafting-tweaks](https://github.com/BEComTweaks/crafting-tweaks) - A repo containing every single crafting tweak ported from vanillatweaks.net (5 days ago)
+- [BEComTweaks/resource-packs](https://github.com/BEComTweaks/resource-packs) - A repo containing every single resource pack ported from vanillatweaks.net (5 days ago)
 
 #### 🔨 My recent Pull Requests!
 
-- [docs: add Helix docs for IDE](https://github.com/facebook/pyrefly/pull/275) on [facebook/pyrefly](https://github.com/facebook/pyrefly) (1 week ago)
+- [docs: add Helix docs for IDE](https://github.com/facebook/pyrefly/pull/275) on [facebook/pyrefly](https://github.com/facebook/pyrefly) (2 weeks ago)
 - [feat(apps): add Pixelorama and Magnifier](https://github.com/LGUG2Z/komorebi-application-specific-configuration/pull/198) on [LGUG2Z/komorebi-application-specific-configuration](https://github.com/LGUG2Z/komorebi-application-specific-configuration) (2 weeks ago)
-- [feat(css): add `.first-child` and `.last child` classes](https://github.com/amnweb/yasb/pull/264) on [amnweb/yasb](https://github.com/amnweb/yasb) (2 weeks ago)
+- [feat(css): add `.first-child` and `.last child` classes](https://github.com/amnweb/yasb/pull/264) on [amnweb/yasb](https://github.com/amnweb/yasb) (3 weeks ago)
 
 #### 🖥 I'm available here!
 
