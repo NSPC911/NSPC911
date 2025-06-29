@@ -3,10 +3,10 @@
 #### 👷 Check out my recent contributions!
 
 - [NSPC911/dotfiles](https://github.com/NSPC911/dotfiles) - A bunch of configurations (not themes) that I have for my apps (today)
-- [BedrockTweaks/Files](https://github.com/BedrockTweaks/Files) -  (1 day ago)
-- [BEComTweaks/resource-packs](https://github.com/BEComTweaks/resource-packs) - A repo containing every single resource pack ported from vanillatweaks.net (2 days ago)
-- [NSPC911/carto](https://github.com/NSPC911/carto) - A post-modern terminal file explorer. (3 days ago)
-- [BEComTweaks/docs](https://github.com/BEComTweaks/docs) - Docs on BEComTweaks and how it works (3 days ago)
+- [BEComTweaks/resource-packs](https://github.com/BEComTweaks/resource-packs) - A repo containing every single resource pack ported from vanillatweaks.net (1 day ago)
+- [BedrockTweaks/Files](https://github.com/BedrockTweaks/Files) -  (2 days ago)
+- [NSPC911/carto](https://github.com/NSPC911/carto) - A post-modern terminal file explorer. (4 days ago)
+- [BEComTweaks/docs](https://github.com/BEComTweaks/docs) - Docs on BEComTweaks and how it works (4 days ago)
 
 #### 🔨 My recent Pull Requests!
 
