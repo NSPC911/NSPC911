@@ -3,10 +3,10 @@
 #### 👷 Check out my recent contributions!
 
 - [NSPC911/dotfiles](https://github.com/NSPC911/dotfiles) - A bunch of configurations (not themes) that I have for my apps (today)
-- [NSPC911/carto](https://github.com/NSPC911/carto) - A post-modern terminal file explorer. (1 day ago)
-- [NSPC911/le-bucket](https://github.com/NSPC911/le-bucket) - A bunch of scoop apps that I thought to add but dunno which bucket to add (2 days ago)
-- [NSPC911/themes](https://github.com/NSPC911/themes) - Repository of the themes I use and have modified (3 days ago)
-- [BEComTweaks/resource-packs](https://github.com/BEComTweaks/resource-packs) - A repo containing every single resource pack ported from vanillatweaks.net (6 days ago)
+- [NSPC911/carto](https://github.com/NSPC911/carto) - A post-modern terminal file explorer. (today)
+- [BEComTweaks/btrp-updater](https://github.com/BEComTweaks/btrp-updater) - Update previously made Bedrock Tweaks resource packs with this tool! (1 day ago)
+- [NSPC911/le-bucket](https://github.com/NSPC911/le-bucket) - A bunch of scoop apps that I thought to add but dunno which bucket to add (3 days ago)
+- [NSPC911/themes](https://github.com/NSPC911/themes) - Repository of the themes I use and have modified (4 days ago)
 
 #### 🔨 My recent Pull Requests!
 
