@@ -10,9 +10,9 @@
 
 #### 🔨 My recent Pull Requests!
 
+- [feat(bar): Add support for custom icons](https://github.com/Textualize/textual/pull/5963) on [Textualize/textual](https://github.com/Textualize/textual) (today)
 - [docs: add Helix docs for IDE](https://github.com/facebook/pyrefly/pull/275) on [facebook/pyrefly](https://github.com/facebook/pyrefly) (1 month ago)
 - [feat(apps): add Pixelorama and Magnifier](https://github.com/LGUG2Z/komorebi-application-specific-configuration/pull/198) on [LGUG2Z/komorebi-application-specific-configuration](https://github.com/LGUG2Z/komorebi-application-specific-configuration) (1 month ago)
-- [feat(css): add `.first-child` and `.last child` classes](https://github.com/amnweb/yasb/pull/264) on [amnweb/yasb](https://github.com/amnweb/yasb) (2 months ago)
 
 #### 🖥 I'm available here!
 
