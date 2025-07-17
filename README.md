@@ -2,17 +2,17 @@
 
 #### 👷 Check out my recent contributions!
 
-- [BEComTweaks/resource-packs](https://github.com/BEComTweaks/resource-packs) - A repo containing every single resource pack ported from vanillatweaks.net (today)
-- [NSPC911/dotfiles](https://github.com/NSPC911/dotfiles) - A bunch of configurations (not themes) that I have for my apps (1 day ago)
-- [NSPC911/rovr](https://github.com/NSPC911/rovr) - A post-modern terminal file explorer. (2 days ago)
-- [NSPC911/le-bucket](https://github.com/NSPC911/le-bucket) - A bunch of scoop apps that I thought to add but dunno which bucket to add (6 days ago)
-- [BEComTweaks/btrp-updater](https://github.com/BEComTweaks/btrp-updater) - Update previously made Bedrock Tweaks resource packs with this tool! (1 week ago)
+- [NSPC911/themes](https://github.com/NSPC911/themes) - Repository of the themes I use and have modified (today)
+- [NSPC911/dotfiles](https://github.com/NSPC911/dotfiles) - A bunch of configurations (not themes) that I have for my apps (today)
+- [BEComTweaks/resource-packs](https://github.com/BEComTweaks/resource-packs) - A repo containing every single resource pack ported from vanillatweaks.net (1 day ago)
+- [NSPC911/rovr](https://github.com/NSPC911/rovr) - A post-modern terminal file explorer. (1 day ago)
+- [NSPC911/le-bucket](https://github.com/NSPC911/le-bucket) - A bunch of scoop apps that I thought to add but dunno which bucket to add (1 week ago)
 
 #### 🔨 My recent Pull Requests!
 
-- [feat(bar): Add support for custom icons](https://github.com/Textualize/textual/pull/5963) on [Textualize/textual](https://github.com/Textualize/textual) (1 day ago)
+- [feat(bar): Add support for custom icons](https://github.com/Textualize/textual/pull/5963) on [Textualize/textual](https://github.com/Textualize/textual) (2 days ago)
 - [docs: add Helix docs for IDE](https://github.com/facebook/pyrefly/pull/275) on [facebook/pyrefly](https://github.com/facebook/pyrefly) (1 month ago)
-- [feat(apps): add Pixelorama and Magnifier](https://github.com/LGUG2Z/komorebi-application-specific-configuration/pull/198) on [LGUG2Z/komorebi-application-specific-configuration](https://github.com/LGUG2Z/komorebi-application-specific-configuration) (1 month ago)
+- [feat(apps): add Pixelorama and Magnifier](https://github.com/LGUG2Z/komorebi-application-specific-configuration/pull/198) on [LGUG2Z/komorebi-application-specific-configuration](https://github.com/LGUG2Z/komorebi-application-specific-configuration) (2 months ago)
 
 #### 🖥 I'm available here!
 
