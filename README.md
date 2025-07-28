@@ -2,15 +2,15 @@
 
 #### 👷 Check out my recent contributions!
 
-- [NSPC911/rovr](https://github.com/NSPC911/rovr) - A post-modern terminal file explorer. (today)
 - [NSPC911/dotfiles](https://github.com/NSPC911/dotfiles) - A bunch of configurations (not themes) that I have for my apps (1 day ago)
-- [NSPC911/themes](https://github.com/NSPC911/themes) - Repository of the themes I use and have modified (3 days ago)
-- [NSPC911/textual-trials](https://github.com/NSPC911/textual-trials) - A lot of trial and error scripts (6 days ago)
-- [NSPC911/le-bucket](https://github.com/NSPC911/le-bucket) - A bunch of scoop apps that I thought to add but dunno which bucket to add (1 week ago)
+- [NSPC911/rovr](https://github.com/NSPC911/rovr) - A post-modern terminal file explorer. (1 day ago)
+- [BEComTweaks/docs](https://github.com/BEComTweaks/docs) - Docs on BEComTweaks and how it works (1 day ago)
+- [NSPC911/themes](https://github.com/NSPC911/themes) - Repository of the themes I use and have modified (4 days ago)
+- [NSPC911/textual-trials](https://github.com/NSPC911/textual-trials) - A lot of trial and error scripts (1 week ago)
 
 #### 🔨 My recent Pull Requests!
 
-- [feat: Add a script to update showcased projects&#39; stars](https://github.com/Textualize/textual/pull/5992) on [Textualize/textual](https://github.com/Textualize/textual) (1 day ago)
+- [feat: Add a script to update showcased projects&#39; stars](https://github.com/Textualize/textual/pull/5992) on [Textualize/textual](https://github.com/Textualize/textual) (2 days ago)
 - [feat(bar): Add support for custom icons](https://github.com/Textualize/textual/pull/5963) on [Textualize/textual](https://github.com/Textualize/textual) (1 week ago)
 - [docs: add Helix docs for IDE](https://github.com/facebook/pyrefly/pull/275) on [facebook/pyrefly](https://github.com/facebook/pyrefly) (2 months ago)
 
