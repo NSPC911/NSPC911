@@ -2,16 +2,16 @@
 
 #### 👷 Check out my recent contributions!
 
-- [NSPC911/dotfiles](https://github.com/NSPC911/dotfiles) - A bunch of configurations (not themes) that I have for my apps (1 day ago)
-- [NSPC911/rovr](https://github.com/NSPC911/rovr) - A post-modern terminal file explorer. (2 days ago)
-- [BEComTweaks/docs](https://github.com/BEComTweaks/docs) - Docs on BEComTweaks and how it works (2 days ago)
-- [NSPC911/themes](https://github.com/NSPC911/themes) - Repository of the themes I use and have modified (5 days ago)
-- [NSPC911/textual-trials](https://github.com/NSPC911/textual-trials) - A lot of trial and error scripts (1 week ago)
+- [NSPC911/themes](https://github.com/NSPC911/themes) - Repository of the themes I use and have modified (today)
+- [NSPC911/scripts](https://github.com/NSPC911/scripts) - a bunch of scripts that i have and use (1 day ago)
+- [NSPC911/rovr](https://github.com/NSPC911/rovr) - A post-modern terminal file explorer. (1 day ago)
+- [NSPC911/dotfiles](https://github.com/NSPC911/dotfiles) - A bunch of configurations (not themes) that I have for my apps (2 days ago)
+- [BEComTweaks/docs](https://github.com/BEComTweaks/docs) - Docs on BEComTweaks and how it works (3 days ago)
 
 #### 🔨 My recent Pull Requests!
 
-- [[webUI] add &#39;Mine then Craft&#39; toggle](https://github.com/BEComTweaks/resource-packs/pull/41) on [BEComTweaks/resource-packs](https://github.com/BEComTweaks/resource-packs) (1 day ago)
-- [feat: Add a script to update showcased projects&#39; stars](https://github.com/Textualize/textual/pull/5992) on [Textualize/textual](https://github.com/Textualize/textual) (3 days ago)
+- [[webUI] add &#39;Mine then Craft&#39; toggle](https://github.com/BEComTweaks/resource-packs/pull/41) on [BEComTweaks/resource-packs](https://github.com/BEComTweaks/resource-packs) (2 days ago)
+- [feat: Add a script to update showcased projects&#39; stars](https://github.com/Textualize/textual/pull/5992) on [Textualize/textual](https://github.com/Textualize/textual) (4 days ago)
 - [feat(bar): Add support for custom icons](https://github.com/Textualize/textual/pull/5963) on [Textualize/textual](https://github.com/Textualize/textual) (2 weeks ago)
 
 #### 🖥 I'm available here!
