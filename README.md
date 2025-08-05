@@ -2,17 +2,17 @@
 
 #### 👷 Check out my recent contributions!
 
-- [NSPC911/rovr](https://github.com/NSPC911/rovr) - A post-modern terminal file explorer. (today)
-- [BEComTweaks/resource-packs](https://github.com/BEComTweaks/resource-packs) - A repo containing every single resource pack ported from vanillatweaks.net (2 days ago)
-- [NSPC911/themes](https://github.com/NSPC911/themes) - Repository of the themes I use and have modified (2 days ago)
-- [NSPC911/dotfiles](https://github.com/NSPC911/dotfiles) - A bunch of configurations (not themes) that I have for my apps (2 days ago)
-- [NSPC911/le-bucket](https://github.com/NSPC911/le-bucket) - A bunch of scoop apps that I thought to add but dunno which bucket to add (3 days ago)
+- [NSPC911/rovr](https://github.com/NSPC911/rovr) - A post-modern terminal file explorer. (1 day ago)
+- [NSPC911/dotfiles](https://github.com/NSPC911/dotfiles) - A bunch of configurations (not themes) that I have for my apps (1 day ago)
+- [BEComTweaks/resource-packs](https://github.com/BEComTweaks/resource-packs) - A repo containing every single resource pack ported from vanillatweaks.net (3 days ago)
+- [NSPC911/themes](https://github.com/NSPC911/themes) - Repository of the themes I use and have modified (3 days ago)
+- [NSPC911/le-bucket](https://github.com/NSPC911/le-bucket) - A bunch of scoop apps that I thought to add but dunno which bucket to add (4 days ago)
 
 #### 🔨 My recent Pull Requests!
 
 - [[webUI] add &#39;Mine then Craft&#39; toggle](https://github.com/BEComTweaks/resource-packs/pull/41) on [BEComTweaks/resource-packs](https://github.com/BEComTweaks/resource-packs) (1 week ago)
 - [feat: Add a script to update showcased projects&#39; stars](https://github.com/Textualize/textual/pull/5992) on [Textualize/textual](https://github.com/Textualize/textual) (1 week ago)
-- [feat(bar): Add support for custom icons](https://github.com/Textualize/textual/pull/5963) on [Textualize/textual](https://github.com/Textualize/textual) (2 weeks ago)
+- [feat(bar): Add support for custom icons](https://github.com/Textualize/textual/pull/5963) on [Textualize/textual](https://github.com/Textualize/textual) (3 weeks ago)
 
 #### 🖥 I'm available here!
 
