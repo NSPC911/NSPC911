@@ -2,17 +2,17 @@
 
 #### 👷 Check out my recent contributions!
 
-- [NSPC911/rovr](https://github.com/NSPC911/rovr) - A post-modern terminal file explorer. (1 day ago)
+- [NSPC911/rovr](https://github.com/NSPC911/rovr) - A post-modern terminal file explorer. (today)
 - [NSPC911/themes](https://github.com/NSPC911/themes) - Repository of the themes I use and have modified (1 day ago)
-- [NSPC911/textual-trials](https://github.com/NSPC911/textual-trials) - A lot of trial and error scripts (4 days ago)
-- [NSPC911/dotfiles](https://github.com/NSPC911/dotfiles) - A bunch of configurations (not themes) that I have for my apps (5 days ago)
+- [NSPC911/textual-trials](https://github.com/NSPC911/textual-trials) - A lot of trial and error scripts (5 days ago)
+- [NSPC911/dotfiles](https://github.com/NSPC911/dotfiles) - A bunch of configurations (not themes) that I have for my apps (6 days ago)
 - [BEComTweaks/resource-packs](https://github.com/BEComTweaks/resource-packs) - A repo containing every single resource pack ported from vanillatweaks.net (1 week ago)
 
 #### 🔨 My recent Pull Requests!
 
 - [[webUI] add &#39;Mine then Craft&#39; toggle](https://github.com/BEComTweaks/resource-packs/pull/41) on [BEComTweaks/resource-packs](https://github.com/BEComTweaks/resource-packs) (2 weeks ago)
 - [feat: Add a script to update showcased projects&#39; stars](https://github.com/Textualize/textual/pull/5992) on [Textualize/textual](https://github.com/Textualize/textual) (2 weeks ago)
-- [feat(bar): Add support for custom icons](https://github.com/Textualize/textual/pull/5963) on [Textualize/textual](https://github.com/Textualize/textual) (3 weeks ago)
+- [feat(bar): Add support for custom icons](https://github.com/Textualize/textual/pull/5963) on [Textualize/textual](https://github.com/Textualize/textual) (4 weeks ago)
 
 #### 🖥 I'm available here!
 
