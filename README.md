@@ -2,17 +2,17 @@
 
 #### 👷 Check out my recent contributions!
 
-- [NSPC911/rovr](https://github.com/NSPC911/rovr) - A post-modern terminal file explorer. (1 day ago)
-- [BEComTweaks/.github](https://github.com/BEComTweaks/.github) - README for Organization (1 day ago)
-- [NSPC911/textual-trials](https://github.com/NSPC911/textual-trials) - A lot of trial and error scripts (1 day ago)
-- [ttygroup/textual-cookbook](https://github.com/ttygroup/textual-cookbook) - Collection of Textual examples (1 day ago)
-- [NSPC911/dotfiles](https://github.com/NSPC911/dotfiles) - A bunch of configurations (not themes) that I have for my apps (3 days ago)
+- [NSPC911/rovr](https://github.com/NSPC911/rovr) - A post-modern terminal file explorer. (today)
+- [NSPC911/dotfiles](https://github.com/NSPC911/dotfiles) - A bunch of configurations (not themes) that I have for my apps (1 day ago)
+- [BEComTweaks/.github](https://github.com/BEComTweaks/.github) - README for Organization (2 days ago)
+- [NSPC911/textual-trials](https://github.com/NSPC911/textual-trials) - A lot of trial and error scripts (2 days ago)
+- [ttygroup/textual-cookbook](https://github.com/ttygroup/textual-cookbook) - Collection of Textual examples (2 days ago)
 
 #### 🔨 My recent Pull Requests!
 
-- [add two cool stuff i made in rovr](https://github.com/ttygroup/textual-cookbook/pull/15) on [ttygroup/textual-cookbook](https://github.com/ttygroup/textual-cookbook) (1 day ago)
-- [add rovr, remove termtyper](https://github.com/Textualize/transcendent-textual/pull/33) on [Textualize/transcendent-textual](https://github.com/Textualize/transcendent-textual) (3 days ago)
-- [[webUI] add &#39;Mine then Craft&#39; toggle](https://github.com/BEComTweaks/resource-packs/pull/41) on [BEComTweaks/resource-packs](https://github.com/BEComTweaks/resource-packs) (2 weeks ago)
+- [add two cool stuff i made in rovr](https://github.com/ttygroup/textual-cookbook/pull/15) on [ttygroup/textual-cookbook](https://github.com/ttygroup/textual-cookbook) (2 days ago)
+- [add rovr, remove termtyper](https://github.com/Textualize/transcendent-textual/pull/33) on [Textualize/transcendent-textual](https://github.com/Textualize/transcendent-textual) (4 days ago)
+- [[webUI] add &#39;Mine then Craft&#39; toggle](https://github.com/BEComTweaks/resource-packs/pull/41) on [BEComTweaks/resource-packs](https://github.com/BEComTweaks/resource-packs) (3 weeks ago)
 
 #### 🖥 I'm available here!
 
