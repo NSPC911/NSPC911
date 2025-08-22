@@ -2,15 +2,15 @@
 
 #### 👷 Check out my recent contributions!
 
-- [NSPC911/rovr](https://github.com/NSPC911/rovr) - A post-modern terminal file explorer. (today)
-- [NSPC911/le-bucket](https://github.com/NSPC911/le-bucket) - A bunch of scoop apps that I thought to add but dunno which bucket to add (1 day ago)
-- [NSPC911/dotfiles](https://github.com/NSPC911/dotfiles) - A bunch of configurations (not themes) that I have for my apps (4 days ago)
-- [BEComTweaks/.github](https://github.com/BEComTweaks/.github) - README for Organization (5 days ago)
-- [NSPC911/textual-trials](https://github.com/NSPC911/textual-trials) - A lot of trial and error scripts (5 days ago)
+- [NSPC911/rovr](https://github.com/NSPC911/rovr) - A post-modern terminal file explorer. (1 day ago)
+- [NSPC911/le-bucket](https://github.com/NSPC911/le-bucket) - A bunch of scoop apps that I thought to add but dunno which bucket to add (2 days ago)
+- [NSPC911/dotfiles](https://github.com/NSPC911/dotfiles) - A bunch of configurations (not themes) that I have for my apps (5 days ago)
+- [BEComTweaks/.github](https://github.com/BEComTweaks/.github) - README for Organization (6 days ago)
+- [NSPC911/textual-trials](https://github.com/NSPC911/textual-trials) - A lot of trial and error scripts (6 days ago)
 
 #### 🔨 My recent Pull Requests!
 
-- [add two cool stuff i made in rovr](https://github.com/ttygroup/textual-cookbook/pull/15) on [ttygroup/textual-cookbook](https://github.com/ttygroup/textual-cookbook) (5 days ago)
+- [add two cool stuff i made in rovr](https://github.com/ttygroup/textual-cookbook/pull/15) on [ttygroup/textual-cookbook](https://github.com/ttygroup/textual-cookbook) (6 days ago)
 - [add rovr, remove termtyper](https://github.com/Textualize/transcendent-textual/pull/33) on [Textualize/transcendent-textual](https://github.com/Textualize/transcendent-textual) (1 week ago)
 - [[webUI] add &#39;Mine then Craft&#39; toggle](https://github.com/BEComTweaks/resource-packs/pull/41) on [BEComTweaks/resource-packs](https://github.com/BEComTweaks/resource-packs) (3 weeks ago)
 
