@@ -2,11 +2,11 @@
 
 #### 👷 Check out my recent contributions!
 
+- [NSPC911/textual-pdf-view](https://github.com/NSPC911/textual-pdf-view) - view pdfs with textual (today)
 - [NSPC911/rovr](https://github.com/NSPC911/rovr) - A post-modern terminal file explorer. (today)
 - [NSPC911/le-bucket](https://github.com/NSPC911/le-bucket) - A bunch of scoop apps that I thought to add but dunno which bucket to add (3 days ago)
 - [NSPC911/dotfiles](https://github.com/NSPC911/dotfiles) - A bunch of configurations (not themes) that I have for my apps (6 days ago)
-- [BEComTweaks/.github](https://github.com/BEComTweaks/.github) - README for Organization (1 week ago)
-- [NSPC911/textual-trials](https://github.com/NSPC911/textual-trials) - A lot of trial and error scripts (1 week ago)
+- [ttygroup/textual-cookbook](https://github.com/ttygroup/textual-cookbook) - Collection of Textual examples (1 week ago)
 
 #### 🔨 My recent Pull Requests!
 
