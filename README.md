@@ -2,15 +2,15 @@
 
 #### 👷 Check out my recent contributions!
 
-- [NSPC911/textual-pdf-view](https://github.com/NSPC911/textual-pdf-view) - view pdfs with textual (today)
-- [NSPC911/rovr](https://github.com/NSPC911/rovr) - A post-modern terminal file explorer. (today)
-- [NSPC911/le-bucket](https://github.com/NSPC911/le-bucket) - A bunch of scoop apps that I thought to add but dunno which bucket to add (3 days ago)
-- [NSPC911/dotfiles](https://github.com/NSPC911/dotfiles) - A bunch of configurations (not themes) that I have for my apps (6 days ago)
-- [ttygroup/textual-cookbook](https://github.com/ttygroup/textual-cookbook) - Collection of Textual examples (1 week ago)
+- [NSPC911/dotfiles](https://github.com/NSPC911/dotfiles) - A bunch of configurations (not themes) that I have for my apps (today)
+- [NSPC911/rovr](https://github.com/NSPC911/rovr) - A post-modern terminal file explorer. (1 day ago)
+- [NSPC911/textual-pdf-view](https://github.com/NSPC911/textual-pdf-view) - view pdfs with textual (1 day ago)
+- [NSPC911/le-bucket](https://github.com/NSPC911/le-bucket) - A bunch of scoop apps that I thought to add but dunno which bucket to add (4 days ago)
+- [NSPC911/textual-trials](https://github.com/NSPC911/textual-trials) - A lot of trial and error scripts (1 week ago)
 
 #### 🔨 My recent Pull Requests!
 
-- [docs: add initial documentation](https://github.com/NSPC911/rovr/pull/6) on [NSPC911/rovr](https://github.com/NSPC911/rovr) (1 day ago)
+- [docs: add initial documentation](https://github.com/NSPC911/rovr/pull/6) on [NSPC911/rovr](https://github.com/NSPC911/rovr) (2 days ago)
 - [add two cool stuff i made in rovr](https://github.com/ttygroup/textual-cookbook/pull/15) on [ttygroup/textual-cookbook](https://github.com/ttygroup/textual-cookbook) (1 week ago)
 - [add rovr, remove termtyper](https://github.com/Textualize/transcendent-textual/pull/33) on [Textualize/transcendent-textual](https://github.com/Textualize/transcendent-textual) (1 week ago)
 
