@@ -2,15 +2,15 @@
 
 #### 👷 Check out my recent contributions!
 
-- [NSPC911/textual-pdf](https://github.com/NSPC911/textual-pdf) - view pdfs with textual (today)
-- [NSPC911/dotfiles](https://github.com/NSPC911/dotfiles) - A bunch of configurations (not themes) that I have for my apps (1 day ago)
-- [BEComTweaks/behaviour-packs](https://github.com/BEComTweaks/behaviour-packs) - A repo containing every single behaviour pack ported from vanillatweaks.net (1 day ago)
-- [NSPC911/rovr](https://github.com/NSPC911/rovr) - A post-modern terminal file explorer. (2 days ago)
-- [NSPC911/le-bucket](https://github.com/NSPC911/le-bucket) - A bunch of scoop apps that I thought to add but dunno which bucket to add (5 days ago)
+- [NSPC911/le-bucket](https://github.com/NSPC911/le-bucket) - A bunch of scoop apps that I thought to add but dunno which bucket to add (today)
+- [NSPC911/ptf](https://github.com/NSPC911/ptf) - a terminal pdf viewer with python (1 day ago)
+- [NSPC911/textual-pdf](https://github.com/NSPC911/textual-pdf) - view pdfs with textual (1 day ago)
+- [NSPC911/dotfiles](https://github.com/NSPC911/dotfiles) - A bunch of configurations (not themes) that I have for my apps (2 days ago)
+- [BEComTweaks/behaviour-packs](https://github.com/BEComTweaks/behaviour-packs) - A repo containing every single behaviour pack ported from vanillatweaks.net (2 days ago)
 
 #### 🔨 My recent Pull Requests!
 
-- [docs: add initial documentation](https://github.com/NSPC911/rovr/pull/6) on [NSPC911/rovr](https://github.com/NSPC911/rovr) (3 days ago)
+- [docs: add initial documentation](https://github.com/NSPC911/rovr/pull/6) on [NSPC911/rovr](https://github.com/NSPC911/rovr) (4 days ago)
 - [add two cool stuff i made in rovr](https://github.com/ttygroup/textual-cookbook/pull/15) on [ttygroup/textual-cookbook](https://github.com/ttygroup/textual-cookbook) (1 week ago)
 - [add rovr and textual-pdf, remove termtyper](https://github.com/Textualize/transcendent-textual/pull/33) on [Textualize/transcendent-textual](https://github.com/Textualize/transcendent-textual) (1 week ago)
 
