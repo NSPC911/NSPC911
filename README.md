@@ -2,17 +2,17 @@
 
 #### 👷 Check out my recent contributions!
 
-- [ttygroup/textual-cookbook](https://github.com/ttygroup/textual-cookbook) - Collection of Textual examples (today)
-- [NSPC911/rovr](https://github.com/NSPC911/rovr) - A post-modern terminal file explorer. (1 day ago)
-- [NSPC911/ptf](https://github.com/NSPC911/ptf) - a terminal pdf viewer with python (2 days ago)
-- [NSPC911/textual-pdf](https://github.com/NSPC911/textual-pdf) - view pdfs with textual (2 days ago)
-- [NSPC911/le-bucket](https://github.com/NSPC911/le-bucket) - A bunch of scoop apps that I thought to add but dunno which bucket to add (2 days ago)
+- [NSPC911/rovr](https://github.com/NSPC911/rovr) - A post-modern cross-platform terminal file explorer. (today)
+- [ttygroup/textual-cookbook](https://github.com/ttygroup/textual-cookbook) - Collection of Textual examples (1 day ago)
+- [NSPC911/ptf](https://github.com/NSPC911/ptf) - a terminal pdf viewer with python (3 days ago)
+- [NSPC911/textual-pdf](https://github.com/NSPC911/textual-pdf) - view pdfs with textual (3 days ago)
+- [NSPC911/le-bucket](https://github.com/NSPC911/le-bucket) - A bunch of scoop apps that I thought to add but dunno which bucket to add (3 days ago)
 
 #### 🔨 My recent Pull Requests!
 
-- [feat(app): transparent ui](https://github.com/NSPC911/rovr/pull/9) on [NSPC911/rovr](https://github.com/NSPC911/rovr) (1 day ago)
-- [improve the `better_optionlist.py` to use `textual.fuzzy.Matcher`](https://github.com/ttygroup/textual-cookbook/pull/21) on [ttygroup/textual-cookbook](https://github.com/ttygroup/textual-cookbook) (2 days ago)
-- [docs: add initial documentation](https://github.com/NSPC911/rovr/pull/6) on [NSPC911/rovr](https://github.com/NSPC911/rovr) (6 days ago)
+- [feat(app): transparent ui](https://github.com/NSPC911/rovr/pull/9) on [NSPC911/rovr](https://github.com/NSPC911/rovr) (2 days ago)
+- [improve the `better_optionlist.py` to use `textual.fuzzy.Matcher`](https://github.com/ttygroup/textual-cookbook/pull/21) on [ttygroup/textual-cookbook](https://github.com/ttygroup/textual-cookbook) (3 days ago)
+- [docs: add initial documentation](https://github.com/NSPC911/rovr/pull/6) on [NSPC911/rovr](https://github.com/NSPC911/rovr) (1 week ago)
 
 #### 🖥 I'm available here!
 
