@@ -41,7 +41,7 @@
 
 ### 📊 Stats about my account!
 <p align="center">
-  <img height="50%" width="auto" src="https://github-readme-stats.vercel.app/api?username=NSPC911&show_icons=true&count_private=false&theme=neon&hide_border=true&bg_color=00000000">
+  <img height="50%" width="auto" src="https://github-readme-stats.vercel.app/api?username=NSPC911&show_icons=true&count_private=true&theme=neon&hide_border=true&hide=contribs&bg_color=00000000">
   <br>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=NSPC911&theme=neon&hide_border=true&background=00000000">
 </p>
