@@ -2,17 +2,17 @@
 
 #### 👷 Check out my recent contributions!
 
-- [NSPC911/rovr](https://github.com/NSPC911/rovr) - A post-modern cross-platform terminal file explorer. (today)
-- [NSPC911/textual-pdf](https://github.com/NSPC911/textual-pdf) - view pdfs with textual (1 day ago)
-- [ttygroup/textual-cookbook](https://github.com/ttygroup/textual-cookbook) - Collection of Textual examples (4 days ago)
-- [NSPC911/ptf](https://github.com/NSPC911/ptf) - a terminal pdf viewer with python (6 days ago)
-- [NSPC911/le-bucket](https://github.com/NSPC911/le-bucket) - A bunch of scoop apps that I thought to add but dunno which bucket to add (6 days ago)
+- [NSPC911/dotfiles](https://github.com/NSPC911/dotfiles) - A bunch of configurations (not themes) that I have for my apps (today)
+- [NSPC911/themes](https://github.com/NSPC911/themes) - Repository of the themes I use and have modified (today)
+- [NSPC911/rovr](https://github.com/NSPC911/rovr) - A post-modern cross-platform terminal file explorer. (1 day ago)
+- [NSPC911/textual-pdf](https://github.com/NSPC911/textual-pdf) - view pdfs with textual (2 days ago)
+- [ttygroup/textual-cookbook](https://github.com/ttygroup/textual-cookbook) - Collection of Textual examples (5 days ago)
 
 #### 🔨 My recent Pull Requests!
 
-- [feat: add support for rar files](https://github.com/NSPC911/rovr/pull/35) on [NSPC911/rovr](https://github.com/NSPC911/rovr) (1 day ago)
-- [feat(core): add pdf preview support](https://github.com/NSPC911/rovr/pull/27) on [NSPC911/rovr](https://github.com/NSPC911/rovr) (2 days ago)
-- [feat(app): transparent ui](https://github.com/NSPC911/rovr/pull/9) on [NSPC911/rovr](https://github.com/NSPC911/rovr) (5 days ago)
+- [feat: add support for rar files](https://github.com/NSPC911/rovr/pull/35) on [NSPC911/rovr](https://github.com/NSPC911/rovr) (2 days ago)
+- [feat(core): add pdf preview support](https://github.com/NSPC911/rovr/pull/27) on [NSPC911/rovr](https://github.com/NSPC911/rovr) (3 days ago)
+- [feat(app): transparent ui](https://github.com/NSPC911/rovr/pull/9) on [NSPC911/rovr](https://github.com/NSPC911/rovr) (6 days ago)
 
 #### 🖥 I'm available here!
 
