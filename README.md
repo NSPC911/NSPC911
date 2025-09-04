@@ -2,17 +2,17 @@
 
 #### 👷 Check out my recent contributions!
 
+- [NSPC911/rovr](https://github.com/NSPC911/rovr) - A post-modern cross-platform terminal file explorer. (today)
 - [NSPC911/le-bucket](https://github.com/NSPC911/le-bucket) - A bunch of scoop apps that I thought to add but dunno which bucket to add (1 day ago)
-- [NSPC911/dotfiles](https://github.com/NSPC911/dotfiles) - A bunch of configurations (not themes) that I have for my apps (1 day ago)
-- [NSPC911/themes](https://github.com/NSPC911/themes) - Repository of the themes I use and have modified (1 day ago)
-- [NSPC911/rovr](https://github.com/NSPC911/rovr) - A post-modern cross-platform terminal file explorer. (1 day ago)
-- [NSPC911/textual-pdf](https://github.com/NSPC911/textual-pdf) - view pdfs with textual (3 days ago)
+- [NSPC911/nspc911.github.io](https://github.com/NSPC911/nspc911.github.io) - woah cool site (1 day ago)
+- [NSPC911/dotfiles](https://github.com/NSPC911/dotfiles) - A bunch of configurations (not themes) that I have for my apps (2 days ago)
+- [NSPC911/themes](https://github.com/NSPC911/themes) - Repository of the themes I use and have modified (2 days ago)
 
 #### 🔨 My recent Pull Requests!
 
-- [feat: add support for rar files](https://github.com/NSPC911/rovr/pull/35) on [NSPC911/rovr](https://github.com/NSPC911/rovr) (3 days ago)
-- [feat(core): add pdf preview support](https://github.com/NSPC911/rovr/pull/27) on [NSPC911/rovr](https://github.com/NSPC911/rovr) (4 days ago)
-- [feat(app): transparent ui](https://github.com/NSPC911/rovr/pull/9) on [NSPC911/rovr](https://github.com/NSPC911/rovr) (1 week ago)
+- [feat(app): add a proper screen when the width/height is too small](https://github.com/NSPC911/rovr/pull/43) on [NSPC911/rovr](https://github.com/NSPC911/rovr) (1 day ago)
+- [feat: add support for rar files](https://github.com/NSPC911/rovr/pull/35) on [NSPC911/rovr](https://github.com/NSPC911/rovr) (4 days ago)
+- [feat(core): add pdf preview support](https://github.com/NSPC911/rovr/pull/27) on [NSPC911/rovr](https://github.com/NSPC911/rovr) (5 days ago)
 
 #### 🖥 I'm available here!
 
