@@ -2,10 +2,10 @@
 
 #### 👷 Check out my recent contributions!
 
-- [NSPC911/dotfiles](https://github.com/NSPC911/dotfiles) - A bunch of configurations (not themes) that I have for my apps (2 days ago)
-- [NSPC911/themes](https://github.com/NSPC911/themes) - Repository of the themes I use and have modified (2 days ago)
-- [NSPC911/le-bucket](https://github.com/NSPC911/le-bucket) - A bunch of scoop apps that I thought to add but dunno which bucket to add (2 days ago)
-- [NSPC911/rovr](https://github.com/NSPC911/rovr) - A post-modern terminal file manager. (5 days ago)
+- [NSPC911/dotfiles](https://github.com/NSPC911/dotfiles) - A bunch of configurations (not themes) that I have for my apps (3 days ago)
+- [NSPC911/themes](https://github.com/NSPC911/themes) - Repository of the themes I use and have modified (3 days ago)
+- [NSPC911/le-bucket](https://github.com/NSPC911/le-bucket) - A bunch of scoop apps that I thought to add but dunno which bucket to add (3 days ago)
+- [NSPC911/rovr](https://github.com/NSPC911/rovr) - A post-modern terminal file manager. (6 days ago)
 - [NSPC911/nspc911.github.io](https://github.com/NSPC911/nspc911.github.io) - woah cool site (1 week ago)
 
 #### 🔨 My recent Pull Requests!
