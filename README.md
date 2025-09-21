@@ -2,9 +2,9 @@
 
 #### 👷 Check out my recent contributions!
 
-- [NSPC911/rovr](https://github.com/NSPC911/rovr) - A post-modern terminal file manager. (1 day ago)
-- [NSPC911/dotfiles](https://github.com/NSPC911/dotfiles) - A bunch of configurations (not themes) that I have for my apps (4 days ago)
-- [NSPC911/textual-pdf](https://github.com/NSPC911/textual-pdf) - view pdfs with textual (5 days ago)
+- [NSPC911/rovr](https://github.com/NSPC911/rovr) - A post-modern terminal file manager. (2 days ago)
+- [NSPC911/dotfiles](https://github.com/NSPC911/dotfiles) - A bunch of configurations (not themes) that I have for my apps (5 days ago)
+- [NSPC911/textual-pdf](https://github.com/NSPC911/textual-pdf) - view pdfs with textual (6 days ago)
 - [NSPC911/le-bucket](https://github.com/NSPC911/le-bucket) - A bunch of scoop apps that I thought to add but dunno which bucket to add (1 week ago)
 - [NSPC911/themes](https://github.com/NSPC911/themes) - Repository of the themes I use and have modified (1 week ago)
 
@@ -12,7 +12,7 @@
 
 - [feat(filelist): add hidden file/folder toggle](https://github.com/NSPC911/rovr/pull/46) on [NSPC911/rovr](https://github.com/NSPC911/rovr) (2 weeks ago)
 - [feat(app): add a proper screen when the width/height is too small](https://github.com/NSPC911/rovr/pull/43) on [NSPC911/rovr](https://github.com/NSPC911/rovr) (2 weeks ago)
-- [feat: add support for rar files](https://github.com/NSPC911/rovr/pull/35) on [NSPC911/rovr](https://github.com/NSPC911/rovr) (2 weeks ago)
+- [feat: add support for rar files](https://github.com/NSPC911/rovr/pull/35) on [NSPC911/rovr](https://github.com/NSPC911/rovr) (3 weeks ago)
 
 #### 🖥 I'm available here!
 
