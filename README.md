@@ -2,17 +2,17 @@
 
 #### 👷 Check out my recent contributions!
 
-- [NSPC911/dotfiles](https://github.com/NSPC911/dotfiles) - A bunch of configurations (not themes) that I have for my apps (today)
+- [NSPC911/dotfiles](https://github.com/NSPC911/dotfiles) - A bunch of configurations (not themes) that I have for my apps (1 day ago)
 - [NSPC911/rovr](https://github.com/NSPC911/rovr) - A post-modern terminal file manager. (1 day ago)
-- [NSPC911/textual-pdf](https://github.com/NSPC911/textual-pdf) - view pdfs with textual (1 week ago)
+- [NSPC911/textual-pdf](https://github.com/NSPC911/textual-pdf) - view pdfs with textual (2 weeks ago)
 - [NSPC911/le-bucket](https://github.com/NSPC911/le-bucket) - A bunch of scoop apps that I thought to add but dunno which bucket to add (2 weeks ago)
 - [NSPC911/themes](https://github.com/NSPC911/themes) - Repository of the themes I use and have modified (2 weeks ago)
 
 #### 🔨 My recent Pull Requests!
 
-- [refactor: move list bindings to constants](https://github.com/NSPC911/rovr/pull/88) on [NSPC911/rovr](https://github.com/NSPC911/rovr) (1 day ago)
-- [fix(zoxide): resolve scenario of no zoxide](https://github.com/NSPC911/rovr/pull/87) on [NSPC911/rovr](https://github.com/NSPC911/rovr) (1 day ago)
-- [feat: add CODE_OF_CONDUCT.md and CONTRIBUTING.md](https://github.com/NSPC911/rovr/pull/85) on [NSPC911/rovr](https://github.com/NSPC911/rovr) (2 days ago)
+- [fix(app&#43;filelist): prevent desync of watcher](https://github.com/NSPC911/rovr/pull/90) on [NSPC911/rovr](https://github.com/NSPC911/rovr) (1 day ago)
+- [fix(rename&#43;input): make it case-sensitive](https://github.com/NSPC911/rovr/pull/89) on [NSPC911/rovr](https://github.com/NSPC911/rovr) (1 day ago)
+- [refactor: move list bindings to constants](https://github.com/NSPC911/rovr/pull/88) on [NSPC911/rovr](https://github.com/NSPC911/rovr) (2 days ago)
 
 #### 🖥 I'm available here!
 
