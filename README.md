@@ -2,17 +2,17 @@
 
 #### 👷 Check out my recent contributions!
 
-- [NSPC911/rovr](https://github.com/NSPC911/rovr) - A post-modern terminal file manager. (3 days ago)
-- [NSPC911/dotfiles](https://github.com/NSPC911/dotfiles) - My extensive Windows 11 configuration. (5 days ago)
+- [NSPC911/rovr](https://github.com/NSPC911/rovr) - A post-modern terminal file manager. (4 days ago)
+- [NSPC911/dotfiles](https://github.com/NSPC911/dotfiles) - My extensive Windows 11 configuration. (6 days ago)
 - [NSPC911/textual-pdf](https://github.com/NSPC911/textual-pdf) - view pdfs with textual (2 weeks ago)
 - [NSPC911/le-bucket](https://github.com/NSPC911/le-bucket) - A bunch of scoop apps that I thought to add but dunno which bucket to add (3 weeks ago)
 - [NSPC911/themes](https://github.com/NSPC911/themes) - Repository of the themes I use and have modified (3 weeks ago)
 
 #### 🔨 My recent Pull Requests!
 
-- [fix(app&#43;filelist): prevent desync of watcher](https://github.com/NSPC911/rovr/pull/90) on [NSPC911/rovr](https://github.com/NSPC911/rovr) (5 days ago)
-- [fix(rename&#43;input): make it case-sensitive](https://github.com/NSPC911/rovr/pull/89) on [NSPC911/rovr](https://github.com/NSPC911/rovr) (5 days ago)
-- [refactor: move list bindings to constants](https://github.com/NSPC911/rovr/pull/88) on [NSPC911/rovr](https://github.com/NSPC911/rovr) (6 days ago)
+- [fix(app&#43;filelist): prevent desync of watcher](https://github.com/NSPC911/rovr/pull/90) on [NSPC911/rovr](https://github.com/NSPC911/rovr) (6 days ago)
+- [fix(rename&#43;input): make it case-sensitive](https://github.com/NSPC911/rovr/pull/89) on [NSPC911/rovr](https://github.com/NSPC911/rovr) (6 days ago)
+- [refactor: move list bindings to constants](https://github.com/NSPC911/rovr/pull/88) on [NSPC911/rovr](https://github.com/NSPC911/rovr) (1 week ago)
 
 #### 🖥 I'm available here!
 
