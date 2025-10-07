@@ -10,7 +10,7 @@
 
 #### 🔨 My recent Pull Requests!
 
-- [fix: prevent freeze when opening a file &#43; capture output to prevent tui overwrites](https://github.com/NSPC911/rovr/pull/114) on [NSPC911/rovr](https://github.com/NSPC911/rovr) (1 day ago)
+- [fix: prevent freeze when opening a file &#43; capture output to prevent tui overwrites](https://github.com/NSPC911/rovr/pull/114) on [NSPC911/rovr](https://github.com/NSPC911/rovr) (2 days ago)
 - [fix(app&#43;filelist): prevent desync of watcher](https://github.com/NSPC911/rovr/pull/90) on [NSPC911/rovr](https://github.com/NSPC911/rovr) (1 week ago)
 - [fix(rename&#43;input): make it case-sensitive](https://github.com/NSPC911/rovr/pull/89) on [NSPC911/rovr](https://github.com/NSPC911/rovr) (1 week ago)
 
