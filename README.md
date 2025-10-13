@@ -2,9 +2,9 @@
 
 #### 👷 Check out my recent contributions!
 
-- [NSPC911/rovr](https://github.com/NSPC911/rovr) - A post-modern terminal file manager. (today)
+- [NSPC911/rovr](https://github.com/NSPC911/rovr) - A post-modern terminal file manager. (1 day ago)
 - [NSPC911/dotfiles](https://github.com/NSPC911/dotfiles) - My extensive Windows 11 configuration. (2 weeks ago)
-- [NSPC911/textual-pdf](https://github.com/NSPC911/textual-pdf) - view pdfs with textual (3 weeks ago)
+- [NSPC911/textual-pdf](https://github.com/NSPC911/textual-pdf) - view pdfs with textual (4 weeks ago)
 - [NSPC911/le-bucket](https://github.com/NSPC911/le-bucket) - A bunch of scoop apps that I thought to add but dunno which bucket to add (1 month ago)
 - [NSPC911/themes](https://github.com/NSPC911/themes) - Repository of the themes I use and have modified (1 month ago)
 
