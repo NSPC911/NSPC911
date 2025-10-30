@@ -2,17 +2,17 @@
 
 #### 👷 Check out my recent contributions!
 
-- [NSPC911/dotfiles](https://github.com/NSPC911/dotfiles) - My extensive Windows 11 configuration. (today)
-- [NSPC911/human-errors](https://github.com/NSPC911/human-errors) - everyone makes mistakes, show the errors to them (2 days ago)
-- [NSPC911/le-bucket](https://github.com/NSPC911/le-bucket) - A bunch of scoop apps that I thought to add but dunno which bucket to add (3 days ago)
-- [NSPC911/rovr](https://github.com/NSPC911/rovr) - A post-modern terminal file manager. (6 days ago)
-- [NSPC911/textual-pdf](https://github.com/NSPC911/textual-pdf) - view pdfs with textual (1 week ago)
+- [NSPC911/dotfiles](https://github.com/NSPC911/dotfiles) - My extensive Windows 11 configuration. (1 day ago)
+- [NSPC911/rovr](https://github.com/NSPC911/rovr) - A post-modern terminal file manager. (1 day ago)
+- [NSPC911/human-errors](https://github.com/NSPC911/human-errors) - everyone makes mistakes, show the errors to them (3 days ago)
+- [NSPC911/le-bucket](https://github.com/NSPC911/le-bucket) - A bunch of scoop apps that I thought to add but dunno which bucket to add (4 days ago)
+- [NSPC911/textual-pdf](https://github.com/NSPC911/textual-pdf) - view pdfs with textual (2 weeks ago)
 
 #### 🔨 My recent Pull Requests!
 
+- [feat(app): improve compact mode](https://github.com/NSPC911/rovr/pull/138) on [NSPC911/rovr](https://github.com/NSPC911/rovr) (1 day ago)
 - [improve preview performance](https://github.com/NSPC911/rovr/pull/135) on [NSPC911/rovr](https://github.com/NSPC911/rovr) (1 week ago)
-- [add ai check workflow](https://github.com/NSPC911/rovr/pull/128) on [NSPC911/rovr](https://github.com/NSPC911/rovr) (1 week ago)
-- [refactor(app&#43;main): improve versioning system](https://github.com/NSPC911/rovr/pull/127) on [NSPC911/rovr](https://github.com/NSPC911/rovr) (2 weeks ago)
+- [add ai check workflow](https://github.com/NSPC911/rovr/pull/128) on [NSPC911/rovr](https://github.com/NSPC911/rovr) (2 weeks ago)
 
 #### 🖥 I'm available here!
 
