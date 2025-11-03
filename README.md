@@ -2,17 +2,17 @@
 
 #### 👷 Check out my recent contributions!
 
+- [NSPC911/human-errors](https://github.com/NSPC911/human-errors) - everyone makes mistakes, show the errors to them (today)
 - [NSPC911/nspc911.github.io](https://github.com/NSPC911/nspc911.github.io) - woah cool site (1 day ago)
-- [NSPC911/dotfiles](https://github.com/NSPC911/dotfiles) - My extensive Windows 11 configuration. (2 days ago)
-- [NSPC911/themes](https://github.com/NSPC911/themes) - Repository of the themes I use and have modified (2 days ago)
-- [NSPC911/rovr](https://github.com/NSPC911/rovr) - A post-modern terminal file manager. (4 days ago)
-- [NSPC911/human-errors](https://github.com/NSPC911/human-errors) - everyone makes mistakes, show the errors to them (6 days ago)
+- [NSPC911/dotfiles](https://github.com/NSPC911/dotfiles) - My extensive Windows 11 configuration. (3 days ago)
+- [NSPC911/themes](https://github.com/NSPC911/themes) - Repository of the themes I use and have modified (3 days ago)
+- [NSPC911/rovr](https://github.com/NSPC911/rovr) - A post-modern terminal file manager. (5 days ago)
 
 #### 🔨 My recent Pull Requests!
 
-- [feat(app): add scrolloff behaviour to filelist](https://github.com/NSPC911/rovr/pull/139) on [NSPC911/rovr](https://github.com/NSPC911/rovr) (3 days ago)
-- [feat(app): improve compact mode](https://github.com/NSPC911/rovr/pull/138) on [NSPC911/rovr](https://github.com/NSPC911/rovr) (4 days ago)
-- [improve preview performance](https://github.com/NSPC911/rovr/pull/135) on [NSPC911/rovr](https://github.com/NSPC911/rovr) (1 week ago)
+- [fix some static type checker issues](https://github.com/Nuitka/Tuitka/pull/10) on [Nuitka/Tuitka](https://github.com/Nuitka/Tuitka) (1 day ago)
+- [use scrollable container because not everyone has a large screen](https://github.com/Nuitka/Tuitka/pull/9) on [Nuitka/Tuitka](https://github.com/Nuitka/Tuitka) (1 day ago)
+- [astro time](https://github.com/NSPC911/nspc911.github.io/pull/1) on [NSPC911/nspc911.github.io](https://github.com/NSPC911/nspc911.github.io) (1 day ago)
 
 #### 🖥 I'm available here!
 
