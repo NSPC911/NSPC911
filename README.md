@@ -2,17 +2,17 @@
 
 #### 👷 Check out my recent contributions!
 
-- [NSPC911/human-errors](https://github.com/NSPC911/human-errors) - everyone makes mistakes, show the errors to them (today)
-- [NSPC911/nspc911.github.io](https://github.com/NSPC911/nspc911.github.io) - woah cool site (1 day ago)
-- [NSPC911/dotfiles](https://github.com/NSPC911/dotfiles) - My extensive Windows 11 configuration. (3 days ago)
-- [NSPC911/themes](https://github.com/NSPC911/themes) - Repository of the themes I use and have modified (3 days ago)
-- [NSPC911/rovr](https://github.com/NSPC911/rovr) - A post-modern terminal file manager. (5 days ago)
+- [NSPC911/nspc911.github.io](https://github.com/NSPC911/nspc911.github.io) - woah cool site (today)
+- [NSPC911/human-errors](https://github.com/NSPC911/human-errors) - everyone makes mistakes, show the errors to them (1 day ago)
+- [NSPC911/dotfiles](https://github.com/NSPC911/dotfiles) - My extensive Windows 11 configuration. (4 days ago)
+- [NSPC911/themes](https://github.com/NSPC911/themes) - Repository of the themes I use and have modified (4 days ago)
+- [NSPC911/rovr](https://github.com/NSPC911/rovr) - A post-modern terminal file manager. (6 days ago)
 
 #### 🔨 My recent Pull Requests!
 
-- [fix some static type checker issues](https://github.com/Nuitka/Tuitka/pull/10) on [Nuitka/Tuitka](https://github.com/Nuitka/Tuitka) (1 day ago)
-- [use scrollable container because not everyone has a large screen](https://github.com/Nuitka/Tuitka/pull/9) on [Nuitka/Tuitka](https://github.com/Nuitka/Tuitka) (1 day ago)
-- [astro time](https://github.com/NSPC911/nspc911.github.io/pull/1) on [NSPC911/nspc911.github.io](https://github.com/NSPC911/nspc911.github.io) (1 day ago)
+- [fix some static type checker issues](https://github.com/Nuitka/Tuitka/pull/10) on [Nuitka/Tuitka](https://github.com/Nuitka/Tuitka) (2 days ago)
+- [use scrollable container because not everyone has a large screen](https://github.com/Nuitka/Tuitka/pull/9) on [Nuitka/Tuitka](https://github.com/Nuitka/Tuitka) (2 days ago)
+- [astro time](https://github.com/NSPC911/nspc911.github.io/pull/1) on [NSPC911/nspc911.github.io](https://github.com/NSPC911/nspc911.github.io) (2 days ago)
 
 #### 🖥 I'm available here!
 
