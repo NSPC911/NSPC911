@@ -2,17 +2,17 @@
 
 #### 👷 Check out my recent contributions!
 
-- [NSPC911/human-errors](https://github.com/NSPC911/human-errors) - everyone makes mistakes, show the errors to them (1 day ago)
-- [NSPC911/nspc911.github.io](https://github.com/NSPC911/nspc911.github.io) - woah cool site (2 days ago)
-- [NSPC911/dotfiles](https://github.com/NSPC911/dotfiles) - My extensive Windows 11 configuration. (2 days ago)
-- [NSPC911/themes](https://github.com/NSPC911/themes) - Repository of the themes I use and have modified (6 days ago)
-- [NSPC911/rovr](https://github.com/NSPC911/rovr) - A post-modern terminal file manager. (1 week ago)
+- [NSPC911/dotfiles](https://github.com/NSPC911/dotfiles) - My extensive Windows 11 configuration. (today)
+- [Gaurav-Gosain/tuios](https://github.com/Gaurav-Gosain/tuios) - Terminal UI OS (Terminal Multiplexer) (1 day ago)
+- [NSPC911/themes](https://github.com/NSPC911/themes) - Repository of the themes I use and have modified (1 day ago)
+- [NSPC911/human-errors](https://github.com/NSPC911/human-errors) - everyone makes mistakes, show the errors to them (2 days ago)
+- [NSPC911/nspc911.github.io](https://github.com/NSPC911/nspc911.github.io) - woah cool site (3 days ago)
 
 #### 🔨 My recent Pull Requests!
 
-- [fix some static type checker issues](https://github.com/Nuitka/Tuitka/pull/10) on [Nuitka/Tuitka](https://github.com/Nuitka/Tuitka) (4 days ago)
-- [use scrollable container because not everyone has a large screen](https://github.com/Nuitka/Tuitka/pull/9) on [Nuitka/Tuitka](https://github.com/Nuitka/Tuitka) (4 days ago)
-- [astro time](https://github.com/NSPC911/nspc911.github.io/pull/1) on [NSPC911/nspc911.github.io](https://github.com/NSPC911/nspc911.github.io) (4 days ago)
+- [feat: add configurable shell](https://github.com/Gaurav-Gosain/tuios/pull/35) on [Gaurav-Gosain/tuios](https://github.com/Gaurav-Gosain/tuios) (1 day ago)
+- [fix some static type checker issues](https://github.com/Nuitka/Tuitka/pull/10) on [Nuitka/Tuitka](https://github.com/Nuitka/Tuitka) (5 days ago)
+- [use scrollable container because not everyone has a large screen](https://github.com/Nuitka/Tuitka/pull/9) on [Nuitka/Tuitka](https://github.com/Nuitka/Tuitka) (5 days ago)
 
 #### 🖥 I'm available here!
 
