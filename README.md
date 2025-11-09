@@ -2,17 +2,17 @@
 
 #### 👷 Check out my recent contributions!
 
-- [NSPC911/dotfiles](https://github.com/NSPC911/dotfiles) - My extensive Windows 11 configuration. (1 day ago)
-- [Gaurav-Gosain/tuios](https://github.com/Gaurav-Gosain/tuios) - Terminal UI OS (Terminal Multiplexer) (2 days ago)
-- [NSPC911/themes](https://github.com/NSPC911/themes) - Repository of the themes I use and have modified (2 days ago)
-- [NSPC911/human-errors](https://github.com/NSPC911/human-errors) - everyone makes mistakes, show the errors to them (3 days ago)
-- [NSPC911/nspc911.github.io](https://github.com/NSPC911/nspc911.github.io) - woah cool site (4 days ago)
+- [NSPC911/textual-trials](https://github.com/NSPC911/textual-trials) - A lot of trial and error scripts (1 day ago)
+- [NSPC911/dotfiles](https://github.com/NSPC911/dotfiles) - My extensive Windows 11 configuration. (2 days ago)
+- [NSPC911/themes](https://github.com/NSPC911/themes) - Repository of the themes I use and have modified (3 days ago)
+- [Gaurav-Gosain/tuios](https://github.com/Gaurav-Gosain/tuios) - Terminal UI OS (Terminal Multiplexer) (3 days ago)
+- [NSPC911/human-errors](https://github.com/NSPC911/human-errors) - everyone makes mistakes, show the errors to them (4 days ago)
 
 #### 🔨 My recent Pull Requests!
 
-- [feat: add configurable shell](https://github.com/Gaurav-Gosain/tuios/pull/35) on [Gaurav-Gosain/tuios](https://github.com/Gaurav-Gosain/tuios) (2 days ago)
-- [fix some static type checker issues](https://github.com/Nuitka/Tuitka/pull/10) on [Nuitka/Tuitka](https://github.com/Nuitka/Tuitka) (6 days ago)
-- [use scrollable container because not everyone has a large screen](https://github.com/Nuitka/Tuitka/pull/9) on [Nuitka/Tuitka](https://github.com/Nuitka/Tuitka) (6 days ago)
+- [perf &#43; refactor: reduce usage of string compression](https://github.com/NSPC911/rovr/pull/143) on [NSPC911/rovr](https://github.com/NSPC911/rovr) (1 day ago)
+- [feat: add configurable shell](https://github.com/Gaurav-Gosain/tuios/pull/35) on [Gaurav-Gosain/tuios](https://github.com/Gaurav-Gosain/tuios) (3 days ago)
+- [fix some static type checker issues](https://github.com/Nuitka/Tuitka/pull/10) on [Nuitka/Tuitka](https://github.com/Nuitka/Tuitka) (1 week ago)
 
 #### 🖥 I'm available here!
 
