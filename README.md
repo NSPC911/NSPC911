@@ -2,17 +2,17 @@
 
 #### 👷 Check out my recent contributions!
 
-- [NSPC911/textual-trials](https://github.com/NSPC911/textual-trials) - A lot of trial and error scripts (2 days ago)
-- [NSPC911/dotfiles](https://github.com/NSPC911/dotfiles) - My extensive Windows 11 configuration. (3 days ago)
-- [NSPC911/themes](https://github.com/NSPC911/themes) - Repository of the themes I use and have modified (4 days ago)
-- [Gaurav-Gosain/tuios](https://github.com/Gaurav-Gosain/tuios) - Terminal UI OS (Terminal Multiplexer) (4 days ago)
-- [NSPC911/human-errors](https://github.com/NSPC911/human-errors) - everyone makes mistakes, show the errors to them (5 days ago)
+- [NSPC911/dotfiles](https://github.com/NSPC911/dotfiles) - My extensive Windows 11 configuration. (today)
+- [NSPC911/textual-trials](https://github.com/NSPC911/textual-trials) - A lot of trial and error scripts (3 days ago)
+- [NSPC911/themes](https://github.com/NSPC911/themes) - Repository of the themes I use and have modified (5 days ago)
+- [Gaurav-Gosain/tuios](https://github.com/Gaurav-Gosain/tuios) - Terminal UI OS (Terminal Multiplexer) (5 days ago)
+- [NSPC911/human-errors](https://github.com/NSPC911/human-errors) - everyone makes mistakes, show the errors to them (6 days ago)
 
 #### 🔨 My recent Pull Requests!
 
-- [merge dev into master](https://github.com/NSPC911/rovr/pull/144) on [NSPC911/rovr](https://github.com/NSPC911/rovr) (1 day ago)
-- [perf &#43; refactor: reduce usage of string compression](https://github.com/NSPC911/rovr/pull/143) on [NSPC911/rovr](https://github.com/NSPC911/rovr) (2 days ago)
-- [feat: add configurable shell](https://github.com/Gaurav-Gosain/tuios/pull/35) on [Gaurav-Gosain/tuios](https://github.com/Gaurav-Gosain/tuios) (4 days ago)
+- [feat: add sort order switcher](https://github.com/NSPC911/rovr/pull/145) on [NSPC911/rovr](https://github.com/NSPC911/rovr) (1 day ago)
+- [merge dev into master](https://github.com/NSPC911/rovr/pull/144) on [NSPC911/rovr](https://github.com/NSPC911/rovr) (2 days ago)
+- [perf &#43; refactor: reduce usage of string compression](https://github.com/NSPC911/rovr/pull/143) on [NSPC911/rovr](https://github.com/NSPC911/rovr) (3 days ago)
 
 #### 🖥 I'm available here!
 
