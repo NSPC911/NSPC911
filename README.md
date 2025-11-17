@@ -2,17 +2,17 @@
 
 #### 👷 Check out my recent contributions!
 
-- [NSPC911/rovr](https://github.com/NSPC911/rovr) - A post-modern terminal file manager. (today)
-- [NSPC911/dotfiles](https://github.com/NSPC911/dotfiles) - My extensive Windows 11 configuration. (1 day ago)
-- [NSPC911/nspc911.github.io](https://github.com/NSPC911/nspc911.github.io) - woah cool site (1 day ago)
+- [NSPC911/rovr](https://github.com/NSPC911/rovr) - A post-modern terminal file manager. (1 day ago)
+- [NSPC911/nspc911.github.io](https://github.com/NSPC911/nspc911.github.io) - woah cool site (2 days ago)
+- [NSPC911/dotfiles](https://github.com/NSPC911/dotfiles) - My extensive Windows 11 configuration. (2 days ago)
 - [NSPC911/textual-trials](https://github.com/NSPC911/textual-trials) - A lot of trial and error scripts (1 week ago)
 - [NSPC911/themes](https://github.com/NSPC911/themes) - Repository of the themes I use and have modified (1 week ago)
 
 #### 🔨 My recent Pull Requests!
 
-- [fix: add set_options to SelectionList](https://github.com/Textualize/textual/pull/6224) on [Textualize/textual](https://github.com/Textualize/textual) (5 days ago)
-- [feat(app): add a state manager](https://github.com/NSPC911/rovr/pull/146) on [NSPC911/rovr](https://github.com/NSPC911/rovr) (5 days ago)
-- [feat: add hints for animate function](https://github.com/Textualize/textual/pull/6222) on [Textualize/textual](https://github.com/Textualize/textual) (5 days ago)
+- [feat(geometry): add support for css three value format](https://github.com/Textualize/textual/pull/6231) on [Textualize/textual](https://github.com/Textualize/textual) (1 day ago)
+- [fix: add set_options to SelectionList](https://github.com/Textualize/textual/pull/6224) on [Textualize/textual](https://github.com/Textualize/textual) (6 days ago)
+- [feat(app): add a state manager](https://github.com/NSPC911/rovr/pull/146) on [NSPC911/rovr](https://github.com/NSPC911/rovr) (6 days ago)
 
 #### 🖥 I'm available here!
 
