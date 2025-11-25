@@ -2,16 +2,16 @@
 
 #### 👷 Check out my recent contributions!
 
+- [NSPC911/rowelix](https://github.com/NSPC911/rowelix) - integrate rovr, wezterm and helix in a nice way (today)
 - [NSPC911/dotfiles](https://github.com/NSPC911/dotfiles) - My extensive Windows 11 configuration. (1 day ago)
-- [NSPC911/nspc911.github.io](https://github.com/NSPC911/nspc911.github.io) - woah cool site (5 days ago)
-- [NSPC911/le-bucket](https://github.com/NSPC911/le-bucket) - A bunch of scoop apps that I thought to add but dunno which bucket to add (5 days ago)
-- [NSPC911/human-errors](https://github.com/NSPC911/human-errors) - everyone makes mistakes, show the errors to them (1 week ago)
-- [NSPC911/rovr](https://github.com/NSPC911/rovr) - A post-modern terminal file manager. (1 week ago)
+- [NSPC911/rovr](https://github.com/NSPC911/rovr) - A post-modern terminal file manager. (1 day ago)
+- [NSPC911/le-bucket](https://github.com/NSPC911/le-bucket) - A bunch of scoop apps that I thought to add but dunno which bucket to add (6 days ago)
+- [NSPC911/nspc911.github.io](https://github.com/NSPC911/nspc911.github.io) - woah cool site (6 days ago)
 
 #### 🔨 My recent Pull Requests!
 
-- [Merge branch dev into master for dev release 1](https://github.com/NSPC911/rovr/pull/155) on [NSPC911/rovr](https://github.com/NSPC911/rovr) (1 day ago)
-- [feat: add pdf previewing with poppler](https://github.com/NSPC911/rovr/pull/153) on [NSPC911/rovr](https://github.com/NSPC911/rovr) (3 days ago)
+- [Merge branch dev into master for dev release 1](https://github.com/NSPC911/rovr/pull/155) on [NSPC911/rovr](https://github.com/NSPC911/rovr) (2 days ago)
+- [feat: add pdf previewing with poppler](https://github.com/NSPC911/rovr/pull/153) on [NSPC911/rovr](https://github.com/NSPC911/rovr) (4 days ago)
 - [feat(geometry): add support for css three value format](https://github.com/Textualize/textual/pull/6231) on [Textualize/textual](https://github.com/Textualize/textual) (1 week ago)
 
 #### 🖥 I'm available here!
