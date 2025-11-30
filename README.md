@@ -2,17 +2,17 @@
 
 #### 👷 Check out my recent contributions!
 
-- [NSPC911/dotfiles](https://github.com/NSPC911/dotfiles) - My extensive Windows 11 configuration. (1 day ago)
-- [NSPC911/le-bucket](https://github.com/NSPC911/le-bucket) - A bunch of scoop apps that I thought to add but dunno which bucket to add (1 day ago)
-- [NSPC911/rowelix](https://github.com/NSPC911/rowelix) - integrate rovr, wezterm and helix in a nice way (4 days ago)
-- [NSPC911/rovr](https://github.com/NSPC911/rovr) - A post-modern terminal file manager. (5 days ago)
+- [NSPC911/dotfiles](https://github.com/NSPC911/dotfiles) - My extensive Windows 11 configuration. (2 days ago)
+- [NSPC911/le-bucket](https://github.com/NSPC911/le-bucket) - A bunch of scoop apps that I thought to add but dunno which bucket to add (2 days ago)
+- [NSPC911/rowelix](https://github.com/NSPC911/rowelix) - integrate rovr, wezterm and helix in a nice way (5 days ago)
+- [NSPC911/rovr](https://github.com/NSPC911/rovr) - A post-modern terminal file manager. (6 days ago)
 - [NSPC911/nspc911.github.io](https://github.com/NSPC911/nspc911.github.io) - woah cool site (1 week ago)
 
 #### 🔨 My recent Pull Requests!
 
-- [add file(1) support](https://github.com/NSPC911/rovr/pull/157) on [NSPC911/rovr](https://github.com/NSPC911/rovr) (1 day ago)
-- [Merge branch dev into master for dev release 1](https://github.com/NSPC911/rovr/pull/155) on [NSPC911/rovr](https://github.com/NSPC911/rovr) (6 days ago)
-- [feat: add pdf previewing with poppler](https://github.com/NSPC911/rovr/pull/153) on [NSPC911/rovr](https://github.com/NSPC911/rovr) (1 week ago)
+- [feat(icons): use fnmatch for better matching](https://github.com/NSPC911/rovr/pull/158) on [NSPC911/rovr](https://github.com/NSPC911/rovr) (1 day ago)
+- [add file(1) support](https://github.com/NSPC911/rovr/pull/157) on [NSPC911/rovr](https://github.com/NSPC911/rovr) (2 days ago)
+- [Merge branch dev into master for dev release 1](https://github.com/NSPC911/rovr/pull/155) on [NSPC911/rovr](https://github.com/NSPC911/rovr) (1 week ago)
 
 #### 🖥 I'm available here!
 
