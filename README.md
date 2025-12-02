@@ -2,10 +2,10 @@
 
 #### 👷 Check out my recent contributions!
 
+- [NSPC911/rovr](https://github.com/NSPC911/rovr) - A post-modern terminal file manager. (today)
 - [NSPC911/dotfiles](https://github.com/NSPC911/dotfiles) - My extensive Windows 11 configuration. (1 day ago)
 - [NSPC911/le-bucket](https://github.com/NSPC911/le-bucket) - A bunch of scoop apps that I thought to add but dunno which bucket to add (2 days ago)
 - [NSPC911/rowelix](https://github.com/NSPC911/rowelix) - integrate rovr, wezterm and helix in a nice way (1 week ago)
-- [NSPC911/rovr](https://github.com/NSPC911/rovr) - A post-modern terminal file manager. (1 week ago)
 - [NSPC911/nspc911.github.io](https://github.com/NSPC911/nspc911.github.io) - woah cool site (1 week ago)
 
 #### 🔨 My recent Pull Requests!
