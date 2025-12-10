@@ -2,17 +2,17 @@
 
 #### 👷 Check out my recent contributions!
 
-- [NSPC911/dotfiles](https://github.com/NSPC911/dotfiles) - My extensive Windows 11 configuration. (2 days ago)
-- [NSPC911/nspc911.github.io](https://github.com/NSPC911/nspc911.github.io) - woah cool site (2 days ago)
-- [NSPC911/human-errors](https://github.com/NSPC911/human-errors) - everyone makes mistakes, show the errors to them (6 days ago)
+- [NSPC911/dotfiles](https://github.com/NSPC911/dotfiles) - My extensive Windows 11 configuration. (1 day ago)
+- [NSPC911/nspc911.github.io](https://github.com/NSPC911/nspc911.github.io) - woah cool site (3 days ago)
+- [NSPC911/human-errors](https://github.com/NSPC911/human-errors) - everyone makes mistakes, show the errors to them (1 week ago)
 - [NSPC911/rovr](https://github.com/NSPC911/rovr) - A post-modern terminal file manager. (1 week ago)
 - [NSPC911/le-bucket](https://github.com/NSPC911/le-bucket) - A bunch of scoop apps that I thought to add but dunno which bucket to add (1 week ago)
 
 #### 🔨 My recent Pull Requests!
 
-- [feat(fd): add configurable options](https://github.com/NSPC911/rovr/pull/163) on [NSPC911/rovr](https://github.com/NSPC911/rovr) (4 days ago)
-- [build(pip): switch to tomli for toml loading](https://github.com/NSPC911/rovr/pull/162) on [NSPC911/rovr](https://github.com/NSPC911/rovr) (6 days ago)
-- [feat(config): allow changing bindings in screen layers](https://github.com/NSPC911/rovr/pull/161) on [NSPC911/rovr](https://github.com/NSPC911/rovr) (6 days ago)
+- [feat(fd): add configurable options](https://github.com/NSPC911/rovr/pull/163) on [NSPC911/rovr](https://github.com/NSPC911/rovr) (5 days ago)
+- [build(pip): switch to tomli for toml loading](https://github.com/NSPC911/rovr/pull/162) on [NSPC911/rovr](https://github.com/NSPC911/rovr) (1 week ago)
+- [feat(config): allow changing bindings in screen layers](https://github.com/NSPC911/rovr/pull/161) on [NSPC911/rovr](https://github.com/NSPC911/rovr) (1 week ago)
 
 #### 🖥 I'm available here!
 
