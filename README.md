@@ -2,17 +2,17 @@
 
 #### 👷 Check out my recent contributions!
 
-- [NSPC911/themes](https://github.com/NSPC911/themes) - Repository of the themes I use and have modified (1 day ago)
-- [NSPC911/le-bucket](https://github.com/NSPC911/le-bucket) - A bunch of scoop apps that I thought to add but dunno which bucket to add (1 day ago)
-- [NSPC911/dotfiles](https://github.com/NSPC911/dotfiles) - My extensive Windows 11 configuration. (3 days ago)
-- [NSPC911/bongo-cat](https://github.com/NSPC911/bongo-cat) - A bongocat that lives on your taskbar. Made with Python. (3 days ago)
-- [NSPC911/rovr](https://github.com/NSPC911/rovr) - A post-modern terminal file manager. (4 days ago)
+- [NSPC911/dotfiles](https://github.com/NSPC911/dotfiles) - My extensive Windows 11 configuration. (today)
+- [NSPC911/rovr](https://github.com/NSPC911/rovr) - A post-modern terminal file manager. (1 day ago)
+- [NSPC911/ty-pre-commit](https://github.com/NSPC911/ty-pre-commit) - UNOFFICIAL pre-commit hook for ty. (1 day ago)
+- [NSPC911/themes](https://github.com/NSPC911/themes) - Repository of the themes I use and have modified (2 days ago)
+- [NSPC911/le-bucket](https://github.com/NSPC911/le-bucket) - A bunch of scoop apps that I thought to add but dunno which bucket to add (2 days ago)
 
 #### 🔨 My recent Pull Requests!
 
+- [feat!: preview overhaul &#43; better mime support with puremagic](https://github.com/NSPC911/rovr/pull/172) on [NSPC911/rovr](https://github.com/NSPC911/rovr) (1 day ago)
 - [refactor(sort_order)!: add custom keybind support](https://github.com/NSPC911/rovr/pull/168) on [NSPC911/rovr](https://github.com/NSPC911/rovr) (1 week ago)
 - [Merge branch dev into master for v0.6.0.pre1 and v0.6.0 if possible](https://github.com/NSPC911/rovr/pull/167) on [NSPC911/rovr](https://github.com/NSPC911/rovr) (1 week ago)
-- [feat(fd): add configurable options](https://github.com/NSPC911/rovr/pull/163) on [NSPC911/rovr](https://github.com/NSPC911/rovr) (2 weeks ago)
 
 #### 🖥 I'm available here!
 
