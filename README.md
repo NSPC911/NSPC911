@@ -2,17 +2,17 @@
 
 #### 👷 Check out my recent contributions!
 
-- [NSPC911/dotfiles](https://github.com/NSPC911/dotfiles) - My extensive Windows 11 configuration. (1 day ago)
-- [NSPC911/ty-pre-commit](https://github.com/NSPC911/ty-pre-commit) - UNOFFICIAL pre-commit hook for ty. (2 days ago)
-- [NSPC911/themes](https://github.com/NSPC911/themes) - Repository of the themes I use and have modified (4 days ago)
-- [NSPC911/nspc911.github.io](https://github.com/NSPC911/nspc911.github.io) - woah cool site (4 days ago)
-- [NSPC911/textual-trials](https://github.com/NSPC911/textual-trials) - A lot of trial and error scripts (5 days ago)
+- [NSPC911/dotfiles](https://github.com/NSPC911/dotfiles) - My extensive Windows 11 configuration. (2 days ago)
+- [NSPC911/ty-pre-commit](https://github.com/NSPC911/ty-pre-commit) - UNOFFICIAL pre-commit hook for ty. (3 days ago)
+- [NSPC911/themes](https://github.com/NSPC911/themes) - Repository of the themes I use and have modified (5 days ago)
+- [NSPC911/nspc911.github.io](https://github.com/NSPC911/nspc911.github.io) - woah cool site (5 days ago)
+- [NSPC911/textual-trials](https://github.com/NSPC911/textual-trials) - A lot of trial and error scripts (6 days ago)
 
 #### 🔨 My recent Pull Requests!
 
-- [Add activity feed API](https://github.com/NSPC911/rovr/pull/174) on [NSPC911/rovr](https://github.com/NSPC911/rovr) (3 days ago)
-- [feat!: preview overhaul &#43; better mime support with puremagic](https://github.com/NSPC911/rovr/pull/172) on [NSPC911/rovr](https://github.com/NSPC911/rovr) (6 days ago)
-- [refactor(sort_order)!: add custom keybind support](https://github.com/NSPC911/rovr/pull/168) on [NSPC911/rovr](https://github.com/NSPC911/rovr) (1 week ago)
+- [feat(plugins): add ripgrep plugin](https://github.com/NSPC911/rovr/pull/175) on [NSPC911/rovr](https://github.com/NSPC911/rovr) (1 day ago)
+- [Add activity feed API](https://github.com/NSPC911/rovr/pull/174) on [NSPC911/rovr](https://github.com/NSPC911/rovr) (4 days ago)
+- [feat!: preview overhaul &#43; better mime support with puremagic](https://github.com/NSPC911/rovr/pull/172) on [NSPC911/rovr](https://github.com/NSPC911/rovr) (1 week ago)
 
 #### 🖥 I'm available here!
 
