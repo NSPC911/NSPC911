@@ -2,17 +2,17 @@
 
 #### 👷 Check out my recent contributions!
 
-- [BEComTweaks/server-backend](https://github.com/BEComTweaks/server-backend) - A repo containing the server for becomtweaks.github.io (1 day ago)
-- [NSPC911/le-bucket](https://github.com/NSPC911/le-bucket) - A bunch of scoop apps that I thought to add but dunno which bucket to add (1 day ago)
-- [NSPC911/dotfiles](https://github.com/NSPC911/dotfiles) - My extensive Windows 11 configuration. (3 days ago)
-- [NSPC911/ty-pre-commit](https://github.com/NSPC911/ty-pre-commit) - UNOFFICIAL pre-commit hook for ty. (4 days ago)
-- [NSPC911/themes](https://github.com/NSPC911/themes) - Repository of the themes I use and have modified (6 days ago)
+- [NSPC911/ty-pre-commit](https://github.com/NSPC911/ty-pre-commit) - UNOFFICIAL pre-commit hook for ty. (1 day ago)
+- [BEComTweaks/server-backend](https://github.com/BEComTweaks/server-backend) - A repo containing the server for becomtweaks.github.io (2 days ago)
+- [NSPC911/le-bucket](https://github.com/NSPC911/le-bucket) - A bunch of scoop apps that I thought to add but dunno which bucket to add (2 days ago)
+- [NSPC911/dotfiles](https://github.com/NSPC911/dotfiles) - My extensive Windows 11 configuration. (4 days ago)
+- [NSPC911/themes](https://github.com/NSPC911/themes) - Repository of the themes I use and have modified (1 week ago)
 
 #### 🔨 My recent Pull Requests!
 
-- [feat(plugins): add ripgrep plugin](https://github.com/NSPC911/rovr/pull/175) on [NSPC911/rovr](https://github.com/NSPC911/rovr) (2 days ago)
-- [Add activity feed API](https://github.com/NSPC911/rovr/pull/174) on [NSPC911/rovr](https://github.com/NSPC911/rovr) (5 days ago)
-- [feat!: preview overhaul &#43; better mime support with puremagic](https://github.com/NSPC911/rovr/pull/172) on [NSPC911/rovr](https://github.com/NSPC911/rovr) (1 week ago)
+- [Merge branch dev into master for v0.7.0.dev1](https://github.com/NSPC911/rovr/pull/181) on [NSPC911/rovr](https://github.com/NSPC911/rovr) (1 day ago)
+- [[WIP] feat(peard): add segment](https://github.com/JanDeDobbeleer/oh-my-posh/pull/7096) on [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) (1 day ago)
+- [feat(preview): better thread image previews for large images](https://github.com/NSPC911/rovr/pull/178) on [NSPC911/rovr](https://github.com/NSPC911/rovr) (1 day ago)
 
 #### 🖥 I'm available here!
 
