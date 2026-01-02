@@ -2,17 +2,17 @@
 
 #### 👷 Check out my recent contributions!
 
-- [NSPC911/nspc911.github.io](https://github.com/NSPC911/nspc911.github.io) - woah cool site (today)
-- [NSPC911/rovr](https://github.com/NSPC911/rovr) - A post-modern terminal file manager. (today)
+- [NSPC911/nspc911.github.io](https://github.com/NSPC911/nspc911.github.io) - woah cool site (1 day ago)
 - [NSPC911/dotfiles](https://github.com/NSPC911/dotfiles) - My extensive Windows 11 configuration. (1 day ago)
-- [NSPBot911/ty-pre-commit](https://github.com/NSPBot911/ty-pre-commit) - UNOFFICIAL pre-commit hook for ty. (3 days ago)
-- [NSPC911/le-bucket](https://github.com/NSPC911/le-bucket) - A bunch of scoop apps that I thought to add but dunno which bucket to add (4 days ago)
+- [NSPC911/themes](https://github.com/NSPC911/themes) - Repository of the themes I use and have modified (1 day ago)
+- [NSPC911/rovr](https://github.com/NSPC911/rovr) - A post-modern terminal file manager. (1 day ago)
+- [NSPBot911/ty-pre-commit](https://github.com/NSPBot911/ty-pre-commit) - UNOFFICIAL pre-commit hook for ty. (4 days ago)
 
 #### 🔨 My recent Pull Requests!
 
-- [Merge branch dev into master for v0.7.0.dev1](https://github.com/NSPC911/rovr/pull/181) on [NSPC911/rovr](https://github.com/NSPC911/rovr) (3 days ago)
-- [[WIP] feat(peard): add segment](https://github.com/JanDeDobbeleer/oh-my-posh/pull/7096) on [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) (3 days ago)
-- [feat(preview): better thread image previews for large images](https://github.com/NSPC911/rovr/pull/178) on [NSPC911/rovr](https://github.com/NSPC911/rovr) (3 days ago)
+- [remove any_in_queue, use exclusivity](https://github.com/NSPC911/rovr/pull/183) on [NSPC911/rovr](https://github.com/NSPC911/rovr) (1 day ago)
+- [Merge branch dev into master for v0.7.0.dev1](https://github.com/NSPC911/rovr/pull/181) on [NSPC911/rovr](https://github.com/NSPC911/rovr) (4 days ago)
+- [[WIP] feat(peard): add segment](https://github.com/JanDeDobbeleer/oh-my-posh/pull/7096) on [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) (4 days ago)
 
 #### 🖥 I'm available here!
 
