@@ -2,17 +2,17 @@
 
 #### 👷 Check out my recent contributions!
 
-- [NSPC911/nspc911.github.io](https://github.com/NSPC911/nspc911.github.io) - woah cool site (1 day ago)
-- [NSPC911/dotfiles](https://github.com/NSPC911/dotfiles) - My extensive Windows 11 configuration. (1 day ago)
-- [NSPC911/themes](https://github.com/NSPC911/themes) - Repository of the themes I use and have modified (1 day ago)
-- [NSPC911/rovr](https://github.com/NSPC911/rovr) - A post-modern terminal file manager. (1 day ago)
-- [NSPBot911/ty-pre-commit](https://github.com/NSPBot911/ty-pre-commit) - UNOFFICIAL pre-commit hook for ty. (4 days ago)
+- [NSPC911/nspc911.github.io](https://github.com/NSPC911/nspc911.github.io) - woah cool site (2 days ago)
+- [NSPC911/dotfiles](https://github.com/NSPC911/dotfiles) - My extensive Windows 11 configuration. (2 days ago)
+- [NSPC911/themes](https://github.com/NSPC911/themes) - Repository of the themes I use and have modified (2 days ago)
+- [NSPC911/rovr](https://github.com/NSPC911/rovr) - A post-modern terminal file manager. (2 days ago)
+- [NSPBot911/ty-pre-commit](https://github.com/NSPBot911/ty-pre-commit) - UNOFFICIAL pre-commit hook for ty. (5 days ago)
 
 #### 🔨 My recent Pull Requests!
 
-- [remove any_in_queue, use exclusivity](https://github.com/NSPC911/rovr/pull/183) on [NSPC911/rovr](https://github.com/NSPC911/rovr) (1 day ago)
-- [Merge branch dev into master for v0.7.0.dev1](https://github.com/NSPC911/rovr/pull/181) on [NSPC911/rovr](https://github.com/NSPC911/rovr) (4 days ago)
-- [[WIP] feat(peard): add segment](https://github.com/JanDeDobbeleer/oh-my-posh/pull/7096) on [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) (4 days ago)
+- [feat(themes): add atom-one-dark and atom-one-light](https://github.com/Textualize/textual/pull/6301) on [Textualize/textual](https://github.com/Textualize/textual) (1 day ago)
+- [remove any_in_queue, use exclusivity](https://github.com/NSPC911/rovr/pull/183) on [NSPC911/rovr](https://github.com/NSPC911/rovr) (2 days ago)
+- [Merge branch dev into master for v0.7.0.dev1](https://github.com/NSPC911/rovr/pull/181) on [NSPC911/rovr](https://github.com/NSPC911/rovr) (5 days ago)
 
 #### 🖥 I'm available here!
 
