@@ -2,17 +2,17 @@
 
 #### 👷 Check out my recent contributions!
 
-- [NSPC911/nspc911.github.io](https://github.com/NSPC911/nspc911.github.io) - woah cool site (2 days ago)
-- [NSPC911/dotfiles](https://github.com/NSPC911/dotfiles) - My extensive Windows 11 configuration. (2 days ago)
-- [NSPC911/themes](https://github.com/NSPC911/themes) - Repository of the themes I use and have modified (2 days ago)
-- [NSPC911/rovr](https://github.com/NSPC911/rovr) - A post-modern terminal file manager. (2 days ago)
-- [NSPBot911/ty-pre-commit](https://github.com/NSPBot911/ty-pre-commit) - UNOFFICIAL pre-commit hook for ty. (5 days ago)
+- [NSPC911/rovr](https://github.com/NSPC911/rovr) - A post-modern terminal file manager. (1 day ago)
+- [NSPC911/themes](https://github.com/NSPC911/themes) - Repository of the themes I use and have modified (1 day ago)
+- [NSPC911/textual-trials](https://github.com/NSPC911/textual-trials) - A lot of trial and error scripts (1 day ago)
+- [Textualize/textual](https://github.com/Textualize/textual) - The lean application framework for Python.  Build sophisticated user interfaces with a simple Python API. Run your apps in the terminal and a web browser. (2 days ago)
+- [NSPC911/dotfiles](https://github.com/NSPC911/dotfiles) - My extensive Windows 11 configuration. (3 days ago)
 
 #### 🔨 My recent Pull Requests!
 
-- [feat(themes): add atom-one-dark and atom-one-light](https://github.com/Textualize/textual/pull/6301) on [Textualize/textual](https://github.com/Textualize/textual) (1 day ago)
-- [remove any_in_queue, use exclusivity](https://github.com/NSPC911/rovr/pull/183) on [NSPC911/rovr](https://github.com/NSPC911/rovr) (2 days ago)
-- [Merge branch dev into master for v0.7.0.dev1](https://github.com/NSPC911/rovr/pull/181) on [NSPC911/rovr](https://github.com/NSPC911/rovr) (5 days ago)
+- [feat(cli): allow setting config folder](https://github.com/NSPC911/rovr/pull/185) on [NSPC911/rovr](https://github.com/NSPC911/rovr) (1 day ago)
+- [feat(themes): add atom-one-dark and atom-one-light](https://github.com/Textualize/textual/pull/6301) on [Textualize/textual](https://github.com/Textualize/textual) (2 days ago)
+- [remove any_in_queue, use exclusivity](https://github.com/NSPC911/rovr/pull/183) on [NSPC911/rovr](https://github.com/NSPC911/rovr) (3 days ago)
 
 #### 🖥 I'm available here!
 
