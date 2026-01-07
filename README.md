@@ -2,17 +2,17 @@
 
 #### 👷 Check out my recent contributions!
 
-- [NSPBot911/ty-pre-commit](https://github.com/NSPBot911/ty-pre-commit) - UNOFFICIAL pre-commit hook for ty. (1 day ago)
-- [NSPC911/dotfiles](https://github.com/NSPC911/dotfiles) - My extensive Windows 11 configuration. (2 days ago)
-- [NSPC911/textual-trials](https://github.com/NSPC911/textual-trials) - A lot of trial and error scripts (3 days ago)
-- [NSPC911/themes](https://github.com/NSPC911/themes) - Repository of the themes I use and have modified (3 days ago)
-- [NSPC911/rovr](https://github.com/NSPC911/rovr) - A post-modern terminal file manager. (3 days ago)
+- [NSPC911/rovr](https://github.com/NSPC911/rovr) - A post-modern terminal file manager. (1 day ago)
+- [NSPBot911/ty-pre-commit](https://github.com/NSPBot911/ty-pre-commit) - UNOFFICIAL pre-commit hook for ty. (2 days ago)
+- [NSPC911/dotfiles](https://github.com/NSPC911/dotfiles) - My extensive Windows 11 configuration. (3 days ago)
+- [NSPC911/textual-trials](https://github.com/NSPC911/textual-trials) - A lot of trial and error scripts (4 days ago)
+- [NSPC911/themes](https://github.com/NSPC911/themes) - Repository of the themes I use and have modified (4 days ago)
 
 #### 🔨 My recent Pull Requests!
 
-- [feat(clipboard): slight refactor &#43; dim file list options that were cut](https://github.com/NSPC911/rovr/pull/188) on [NSPC911/rovr](https://github.com/NSPC911/rovr) (1 day ago)
-- [feat(cli): allow setting config folder](https://github.com/NSPC911/rovr/pull/185) on [NSPC911/rovr](https://github.com/NSPC911/rovr) (3 days ago)
-- [feat(themes): add atom-one-dark and atom-one-light](https://github.com/Textualize/textual/pull/6301) on [Textualize/textual](https://github.com/Textualize/textual) (4 days ago)
+- [feat: add option to remember for certain folders only](https://github.com/NSPC911/rovr/pull/193) on [NSPC911/rovr](https://github.com/NSPC911/rovr) (1 day ago)
+- [feat(clipboard): slight refactor &#43; dim file list options that were cut](https://github.com/NSPC911/rovr/pull/188) on [NSPC911/rovr](https://github.com/NSPC911/rovr) (2 days ago)
+- [feat(cli): allow setting config folder](https://github.com/NSPC911/rovr/pull/185) on [NSPC911/rovr](https://github.com/NSPC911/rovr) (4 days ago)
 
 #### 🖥 I'm available here!
 
