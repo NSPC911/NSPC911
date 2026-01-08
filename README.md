@@ -2,17 +2,17 @@
 
 #### 👷 Check out my recent contributions!
 
-- [anomalyco/opencode](https://github.com/anomalyco/opencode) - The open source coding agent. (today)
-- [NSPC911/rovr](https://github.com/NSPC911/rovr) - A post-modern terminal file manager. (1 day ago)
-- [NSPBot911/ty-pre-commit](https://github.com/NSPBot911/ty-pre-commit) - UNOFFICIAL pre-commit hook for ty. (2 days ago)
-- [NSPC911/dotfiles](https://github.com/NSPC911/dotfiles) - My extensive Windows 11 configuration. (3 days ago)
-- [NSPC911/textual-trials](https://github.com/NSPC911/textual-trials) - A lot of trial and error scripts (4 days ago)
+- [NSPBot911/ty-pre-commit](https://github.com/NSPBot911/ty-pre-commit) - UNOFFICIAL pre-commit hook for ty. (today)
+- [anomalyco/opencode](https://github.com/anomalyco/opencode) - The open source coding agent. (1 day ago)
+- [NSPC911/rovr](https://github.com/NSPC911/rovr) - A post-modern terminal file manager. (2 days ago)
+- [NSPC911/dotfiles](https://github.com/NSPC911/dotfiles) - My extensive Windows 11 configuration. (4 days ago)
+- [NSPC911/textual-trials](https://github.com/NSPC911/textual-trials) - A lot of trial and error scripts (5 days ago)
 
 #### 🔨 My recent Pull Requests!
 
-- [fix: escape backticks when passing to powershell](https://github.com/anomalyco/opencode/pull/7157) on [anomalyco/opencode](https://github.com/anomalyco/opencode) (today)
-- [feat: add option to remember for certain folders only](https://github.com/NSPC911/rovr/pull/193) on [NSPC911/rovr](https://github.com/NSPC911/rovr) (1 day ago)
-- [feat(clipboard): slight refactor &#43; dim file list options that were cut](https://github.com/NSPC911/rovr/pull/188) on [NSPC911/rovr](https://github.com/NSPC911/rovr) (2 days ago)
+- [fix: escape backticks when passing to powershell](https://github.com/anomalyco/opencode/pull/7157) on [anomalyco/opencode](https://github.com/anomalyco/opencode) (1 day ago)
+- [feat: add option to remember for certain folders only](https://github.com/NSPC911/rovr/pull/193) on [NSPC911/rovr](https://github.com/NSPC911/rovr) (2 days ago)
+- [feat(clipboard): slight refactor &#43; dim file list options that were cut](https://github.com/NSPC911/rovr/pull/188) on [NSPC911/rovr](https://github.com/NSPC911/rovr) (3 days ago)
 
 #### 🖥 I'm available here!
 
