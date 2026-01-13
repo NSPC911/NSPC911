@@ -2,17 +2,17 @@
 
 #### 👷 Check out my recent contributions!
 
-- [NSPC911/dotfiles](https://github.com/NSPC911/dotfiles) - My extensive Windows 11 configuration. (1 day ago)
-- [NSPC911/rovr](https://github.com/NSPC911/rovr) - A post-modern terminal file manager. (2 days ago)
-- [NSPBot911/ty-pre-commit](https://github.com/NSPBot911/ty-pre-commit) - UNOFFICIAL pre-commit hook for ty. (2 days ago)
-- [NSPC911/le-bucket](https://github.com/NSPC911/le-bucket) - A bunch of scoop apps that I thought to add but dunno which bucket to add (2 days ago)
-- [anomalyco/opencode](https://github.com/anomalyco/opencode) - The open source coding agent. (5 days ago)
+- [NSPC911/rovr](https://github.com/NSPC911/rovr) - A post-modern terminal file manager. (1 day ago)
+- [NSPC911/dotfiles](https://github.com/NSPC911/dotfiles) - My extensive Windows 11 configuration. (2 days ago)
+- [NSPBot911/ty-pre-commit](https://github.com/NSPBot911/ty-pre-commit) - UNOFFICIAL pre-commit hook for ty. (3 days ago)
+- [NSPC911/le-bucket](https://github.com/NSPC911/le-bucket) - A bunch of scoop apps that I thought to add but dunno which bucket to add (3 days ago)
+- [anomalyco/opencode](https://github.com/anomalyco/opencode) - The open source coding agent. (6 days ago)
 
 #### 🔨 My recent Pull Requests!
 
-- [merge branch dev into master for v0.7.0.dev2](https://github.com/NSPC911/rovr/pull/196) on [NSPC911/rovr](https://github.com/NSPC911/rovr) (1 day ago)
-- [feat(app)!: remove all references of `modes`](https://github.com/NSPC911/rovr/pull/195) on [NSPC911/rovr](https://github.com/NSPC911/rovr) (3 days ago)
-- [feat(app): add first launch screen to help onboarding ig](https://github.com/NSPC911/rovr/pull/194) on [NSPC911/rovr](https://github.com/NSPC911/rovr) (3 days ago)
+- [merge branch dev into master for v0.7.0.dev2](https://github.com/NSPC911/rovr/pull/196) on [NSPC911/rovr](https://github.com/NSPC911/rovr) (2 days ago)
+- [feat(app)!: remove all references of `modes`](https://github.com/NSPC911/rovr/pull/195) on [NSPC911/rovr](https://github.com/NSPC911/rovr) (4 days ago)
+- [feat(app): add first launch screen to help onboarding ig](https://github.com/NSPC911/rovr/pull/194) on [NSPC911/rovr](https://github.com/NSPC911/rovr) (4 days ago)
 
 #### 🖥 I'm available here!
 
