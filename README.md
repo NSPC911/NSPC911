@@ -41,7 +41,7 @@
 
 ### 📊 Stats about my account!
 <p align="center">
-  <img height="50%" width="auto" src="https://github-readme-stats.vercel.app/api?username=NSPC911&show_icons=true&count_private=true&theme=neon&hide_border=true&hide=prs&show=prs_merged&bg_color=00000000">
+  <img height="50%" width="auto" src="profile/stats.svg">
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=NSPC911&theme=neon&hide_border=true&background=00000000">
+  <img src="https://streak-stats.demolab.com?user=NSPC911&theme=nord&hide_border=true&date_format=j%20M%5B%20Y%5D">
 </p>
