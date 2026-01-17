@@ -2,17 +2,17 @@
 
 #### 👷 Check out my recent contributions!
 
-- [NSPBot911/ty-pre-commit](https://github.com/NSPBot911/ty-pre-commit) - UNOFFICIAL pre-commit hook for ty. (1 day ago)
-- [NSPC911/nspc911.github.io](https://github.com/NSPC911/nspc911.github.io) - woah cool site (1 day ago)
-- [NSPC911/rovr](https://github.com/NSPC911/rovr) - A post-modern terminal file manager. (2 days ago)
-- [NSPC911/le-bucket](https://github.com/NSPC911/le-bucket) - A bunch of scoop apps that I thought to add but dunno which bucket to add (3 days ago)
-- [NSPC911/dotfiles](https://github.com/NSPC911/dotfiles) - My extensive Windows 11 configuration. (5 days ago)
+- [NSPC911/dotfiles](https://github.com/NSPC911/dotfiles) - My extensive Windows 11 configuration. (1 day ago)
+- [NSPC911/nspc911.github.io](https://github.com/NSPC911/nspc911.github.io) - woah cool site (2 days ago)
+- [NSPBot911/ty-pre-commit](https://github.com/NSPBot911/ty-pre-commit) - UNOFFICIAL pre-commit hook for ty. (2 days ago)
+- [NSPC911/rovr](https://github.com/NSPC911/rovr) - A post-modern terminal file manager. (3 days ago)
+- [NSPC911/le-bucket](https://github.com/NSPC911/le-bucket) - A bunch of scoop apps that I thought to add but dunno which bucket to add (4 days ago)
 
 #### 🔨 My recent Pull Requests!
 
-- [feat(editor)!: refactor config &#43; add batch rename support](https://github.com/NSPC911/rovr/pull/198) on [NSPC911/rovr](https://github.com/NSPC911/rovr) (2 days ago)
-- [fix(clipboard): actually escape powershell commands](https://github.com/anomalyco/opencode/pull/8150) on [anomalyco/opencode](https://github.com/anomalyco/opencode) (3 days ago)
-- [feat(app): add force-tty option](https://github.com/NSPC911/rovr/pull/197) on [NSPC911/rovr](https://github.com/NSPC911/rovr) (3 days ago)
+- [feat(buttons): add copy to system clipboard button](https://github.com/NSPC911/rovr/pull/200) on [NSPC911/rovr](https://github.com/NSPC911/rovr) (1 day ago)
+- [feat(editor)!: refactor config &#43; add batch rename support](https://github.com/NSPC911/rovr/pull/198) on [NSPC911/rovr](https://github.com/NSPC911/rovr) (3 days ago)
+- [fix(clipboard): actually escape powershell commands](https://github.com/anomalyco/opencode/pull/8150) on [anomalyco/opencode](https://github.com/anomalyco/opencode) (4 days ago)
 
 #### 🖥 I'm available here!
 
