@@ -2,17 +2,17 @@
 
 #### 👷 Check out my recent contributions!
 
-- [NSPC911/dotfiles](https://github.com/NSPC911/dotfiles) - My extensive Windows 11 configuration. (1 day ago)
-- [NSPC911/themes](https://github.com/NSPC911/themes) - Repository of the themes I use and have modified (1 day ago)
-- [NSPC911/rovr](https://github.com/NSPC911/rovr) - A post-modern terminal file manager. (4 days ago)
+- [NSPC911/dotfiles](https://github.com/NSPC911/dotfiles) - My extensive Windows 11 configuration. (2 days ago)
+- [NSPC911/themes](https://github.com/NSPC911/themes) - Repository of the themes I use and have modified (2 days ago)
+- [NSPC911/rovr](https://github.com/NSPC911/rovr) - A post-modern terminal file manager. (5 days ago)
 - [NSPC911/le-bucket](https://github.com/NSPC911/le-bucket) - A bunch of scoop apps that I thought to add but dunno which bucket to add (1 week ago)
 - [NSPBot911/ty-pre-commit](https://github.com/NSPBot911/ty-pre-commit) - UNOFFICIAL pre-commit hook for ty. (2 weeks ago)
 
 #### 🔨 My recent Pull Requests!
 
-- [feat(zip): show options for algo and level](https://github.com/NSPC911/rovr/pull/204) on [NSPC911/rovr](https://github.com/NSPC911/rovr) (3 days ago)
-- [[v0.7.0.dev3] Merge branch dev into master](https://github.com/NSPC911/rovr/pull/203) on [NSPC911/rovr](https://github.com/NSPC911/rovr) (5 days ago)
-- [feat: Welcome Screen](https://github.com/helix-editor/helix/pull/15173) on [helix-editor/helix](https://github.com/helix-editor/helix) (6 days ago)
+- [try build](https://github.com/NSPC911/rovr/pull/206) on [NSPC911/rovr](https://github.com/NSPC911/rovr) (1 day ago)
+- [feat(zip): show options for algo and level](https://github.com/NSPC911/rovr/pull/204) on [NSPC911/rovr](https://github.com/NSPC911/rovr) (4 days ago)
+- [[v0.7.0.dev3] Merge branch dev into master](https://github.com/NSPC911/rovr/pull/203) on [NSPC911/rovr](https://github.com/NSPC911/rovr) (6 days ago)
 
 #### 🖥 I'm available here!
 
