@@ -2,17 +2,17 @@
 
 #### 👷 Check out my recent contributions!
 
-- [NSPC911/le-bucket](https://github.com/NSPC911/le-bucket) - A bunch of scoop apps that I thought to add but dunno which bucket to add (today)
+- [NSPC911/themes](https://github.com/NSPC911/themes) - Repository of the themes I use and have modified (1 day ago)
+- [NSPC911/le-bucket](https://github.com/NSPC911/le-bucket) - A bunch of scoop apps that I thought to add but dunno which bucket to add (1 day ago)
 - [NSPC911/rovr](https://github.com/NSPC911/rovr) - A post-modern terminal file manager. (1 day ago)
-- [NSPC911/dotfiles](https://github.com/NSPC911/dotfiles) - My extensive Windows 11 configuration. (2 days ago)
-- [NSPC911/themes](https://github.com/NSPC911/themes) - Repository of the themes I use and have modified (5 days ago)
+- [NSPC911/dotfiles](https://github.com/NSPC911/dotfiles) - My extensive Windows 11 configuration. (3 days ago)
 - [NSPC911/nspc911.github.io](https://github.com/NSPC911/nspc911.github.io) - woah cool site (2 weeks ago)
 
 #### 🔨 My recent Pull Requests!
 
-- [Merge branch dev into master for v0.7.0 final release](https://github.com/NSPC911/rovr/pull/207) on [NSPC911/rovr](https://github.com/NSPC911/rovr) (3 days ago)
-- [try build](https://github.com/NSPC911/rovr/pull/206) on [NSPC911/rovr](https://github.com/NSPC911/rovr) (4 days ago)
-- [feat(zip): show options for algo and level](https://github.com/NSPC911/rovr/pull/204) on [NSPC911/rovr](https://github.com/NSPC911/rovr) (1 week ago)
+- [feat(filelist): add bypass up and down support](https://github.com/NSPC911/rovr/pull/208) on [NSPC911/rovr](https://github.com/NSPC911/rovr) (1 day ago)
+- [Merge branch dev into master for v0.7.0 final release](https://github.com/NSPC911/rovr/pull/207) on [NSPC911/rovr](https://github.com/NSPC911/rovr) (4 days ago)
+- [try build](https://github.com/NSPC911/rovr/pull/206) on [NSPC911/rovr](https://github.com/NSPC911/rovr) (5 days ago)
 
 #### 🖥 I'm available here!
 
