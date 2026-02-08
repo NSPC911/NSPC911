@@ -3,16 +3,16 @@
 #### 👷 Check out my recent contributions!
 
 - [NSPC911/rovr](https://github.com/NSPC911/rovr) - A post-modern terminal file manager. (1 day ago)
-- [NSPC911/dotfiles](https://github.com/NSPC911/dotfiles) - My extensive Windows 11 configuration. (2 days ago)
-- [NSPC911/le-bucket](https://github.com/NSPC911/le-bucket) - A bunch of scoop apps that I thought to add but dunno which bucket to add (3 days ago)
-- [NSPC911/bongo-cat](https://github.com/NSPC911/bongo-cat) - A bongocat that lives on your taskbar. Made with Python. (3 days ago)
-- [NSPC911/themes](https://github.com/NSPC911/themes) - Repository of the themes I use and have modified (5 days ago)
+- [NSPC911/dotfiles](https://github.com/NSPC911/dotfiles) - My extensive Windows 11 configuration. (1 day ago)
+- [NSPC911/le-bucket](https://github.com/NSPC911/le-bucket) - A bunch of scoop apps that I thought to add but dunno which bucket to add (4 days ago)
+- [NSPC911/bongo-cat](https://github.com/NSPC911/bongo-cat) - A bongocat that lives on your taskbar. Made with Python. (4 days ago)
+- [NSPC911/themes](https://github.com/NSPC911/themes) - Repository of the themes I use and have modified (6 days ago)
 
 #### 🔨 My recent Pull Requests!
 
-- [feat: add resvg support](https://github.com/NSPC911/rovr/pull/213) on [NSPC911/rovr](https://github.com/NSPC911/rovr) (4 days ago)
-- [fix: should keep selections across tabs](https://github.com/NSPC911/rovr/pull/212) on [NSPC911/rovr](https://github.com/NSPC911/rovr) (4 days ago)
-- [feat(filelist): add bypass up and down support](https://github.com/NSPC911/rovr/pull/208) on [NSPC911/rovr](https://github.com/NSPC911/rovr) (5 days ago)
+- [feat(screens): add shell exec screen](https://github.com/NSPC911/rovr/pull/217) on [NSPC911/rovr](https://github.com/NSPC911/rovr) (1 day ago)
+- [feat: add resvg support](https://github.com/NSPC911/rovr/pull/213) on [NSPC911/rovr](https://github.com/NSPC911/rovr) (5 days ago)
+- [fix: should keep selections across tabs](https://github.com/NSPC911/rovr/pull/212) on [NSPC911/rovr](https://github.com/NSPC911/rovr) (5 days ago)
 
 #### 🖥 I'm available here!
 
