@@ -8,8 +8,8 @@
         role="img"
         aria-labelledby="descId"
       >
-        <title id="titleId">NSPC911's GitHub Stats, Rank: A</title>
-        <desc id="descId">Total Stars Earned: 248, Total Commits  (last year) : 1489, Total PRs Merged: 104, Total Issues: 101, Contributed to (last year): 46</desc>
+        <title id="titleId">NSPC911's GitHub Stats, Rank: A+</title>
+        <desc id="descId">Total Stars Earned: 280, Total Commits  (last year) : 1498, Total PRs Merged: 105, Total Issues: 101, Contributed to (last year): 46</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 31.763333967223694;
+        stroke-dashoffset: 29.940603370808798;
       }
     }
   
@@ -143,7 +143,7 @@
         <g class="rank-text">
           
         <text x="-5" y="3" alignment-baseline="central" dominant-baseline="central" text-anchor="middle" data-testid="level-rank-icon">
-          A
+          A+
         </text>
       
         </g>
@@ -162,7 +162,7 @@
         x="219.01"
         y="12.5"
         data-testid="stars"
-      >248</text>
+      >280</text>
     </g>
   </g><g transform="translate(0, 25)">
     <g class="stagger" style="animation-delay: 600ms" transform="translate(25, 0)">
@@ -192,7 +192,7 @@
         x="219.01"
         y="12.5"
         data-testid="prs_merged"
-      >104</text>
+      >105</text>
     </g>
   </g><g transform="translate(0, 75)">
     <g class="stagger" style="animation-delay: 900ms" transform="translate(25, 0)">

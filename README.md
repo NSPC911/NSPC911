@@ -2,17 +2,17 @@
 
 #### 👷 Check out my recent contributions!
 
-- [NSPC911/bongo-cat](https://github.com/NSPC911/bongo-cat) - A bongocat that lives on your taskbar. Made with Python. (today)
-- [NSPC911/dotfiles](https://github.com/NSPC911/dotfiles) - My extensive Windows 11 configuration. (1 day ago)
-- [NSPC911/rovr](https://github.com/NSPC911/rovr) - A post-modern terminal file manager. (1 day ago)
-- [NSPC911/le-bucket](https://github.com/NSPC911/le-bucket) - A bunch of scoop apps that I thought to add but dunno which bucket to add (4 days ago)
+- [NSPC911/rovr](https://github.com/NSPC911/rovr) - A post-modern terminal file manager. (today)
+- [NSPC911/bongo-cat](https://github.com/NSPC911/bongo-cat) - A bongocat that lives on your taskbar. Made with Python. (1 day ago)
+- [NSPC911/dotfiles](https://github.com/NSPC911/dotfiles) - My extensive Windows 11 configuration. (2 days ago)
+- [NSPC911/le-bucket](https://github.com/NSPC911/le-bucket) - A bunch of scoop apps that I thought to add but dunno which bucket to add (5 days ago)
 - [NSPC911/themes](https://github.com/NSPC911/themes) - Repository of the themes I use and have modified (2 weeks ago)
 
 #### 🔨 My recent Pull Requests!
 
-- [feat: add typed dict for config](https://github.com/NSPC911/rovr/pull/220) on [NSPC911/rovr](https://github.com/NSPC911/rovr) (1 day ago)
-- [Feat/powershell completions](https://github.com/nat-n/poethepoet/pull/358) on [nat-n/poethepoet](https://github.com/nat-n/poethepoet) (6 days ago)
-- [feat: include commit hash when building](https://github.com/NSPC911/rovr/pull/218) on [NSPC911/rovr](https://github.com/NSPC911/rovr) (1 week ago)
+- [refactor(preview): use custom pdf preview mech](https://github.com/NSPC911/rovr/pull/221) on [NSPC911/rovr](https://github.com/NSPC911/rovr) (1 day ago)
+- [feat: add typed dict for config](https://github.com/NSPC911/rovr/pull/220) on [NSPC911/rovr](https://github.com/NSPC911/rovr) (2 days ago)
+- [Feat/powershell completions](https://github.com/nat-n/poethepoet/pull/358) on [nat-n/poethepoet](https://github.com/nat-n/poethepoet) (1 week ago)
 
 #### 🖥 I'm available here!
 
