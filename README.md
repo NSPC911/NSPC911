@@ -2,17 +2,17 @@
 
 #### 👷 Check out my recent contributions!
 
-- [NSPC911/dotfiles](https://github.com/NSPC911/dotfiles) - My extensive Windows 11 configuration. (1 day ago)
-- [NSPC911/rovr](https://github.com/NSPC911/rovr) - A post-modern terminal file manager. (1 day ago)
-- [NSPC911/textual-trials](https://github.com/NSPC911/textual-trials) - A lot of trial and error scripts (2 days ago)
-- [NSPC911/bongo-cat](https://github.com/NSPC911/bongo-cat) - A bongocat that lives on your taskbar. Made with Python. (2 days ago)
-- [nat-n/poethepoet](https://github.com/nat-n/poethepoet) - A task runner that works well with poetry or uv. (4 days ago)
+- [NSPC911/rovr](https://github.com/NSPC911/rovr) - A post-modern terminal file manager. (today)
+- [NSPC911/textual-trials](https://github.com/NSPC911/textual-trials) - A lot of trial and error scripts (1 day ago)
+- [NSPC911/themes](https://github.com/NSPC911/themes) - Repository of the themes I use and have modified (1 day ago)
+- [NSPC911/we-ascii-clouds](https://github.com/NSPC911/we-ascii-clouds) - ascii-clouds for wallpaper engine, with reference to @caidanw&#39;s ascii-clouds portfolio (1 day ago)
+- [NSPC911/dotfiles](https://github.com/NSPC911/dotfiles) - My extensive Windows 11 configuration. (2 days ago)
 
 #### 🔨 My recent Pull Requests!
 
-- [feat(config): add max image &#43; resizing stuff](https://github.com/NSPC911/rovr/pull/226) on [NSPC911/rovr](https://github.com/NSPC911/rovr) (4 days ago)
-- [feat(preview): add font preview support](https://github.com/NSPC911/rovr/pull/225) on [NSPC911/rovr](https://github.com/NSPC911/rovr) (5 days ago)
-- [feat(mime)!: update puremagic &#43; improve detection](https://github.com/NSPC911/rovr/pull/224) on [NSPC911/rovr](https://github.com/NSPC911/rovr) (5 days ago)
+- [feat: add libuv as optional runtime](https://github.com/NSPC911/rovr/pull/228) on [NSPC911/rovr](https://github.com/NSPC911/rovr) (today)
+- [feat(config): add max image &#43; resizing stuff](https://github.com/NSPC911/rovr/pull/226) on [NSPC911/rovr](https://github.com/NSPC911/rovr) (5 days ago)
+- [feat(preview): add font preview support](https://github.com/NSPC911/rovr/pull/225) on [NSPC911/rovr](https://github.com/NSPC911/rovr) (6 days ago)
 
 #### 🖥 I'm available here!
 
