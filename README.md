@@ -2,18 +2,18 @@
 
 #### 👷 Check out my recent contributions!
 
-- [NSPC911/rovr](https://github.com/NSPC911/rovr) - A post-modern terminal file manager. (1 day ago)
-- [NSPC911/textual-trials](https://github.com/NSPC911/textual-trials) - A lot of trial and error scripts (2 days ago)
-- [NSPC911/themes](https://github.com/NSPC911/themes) - Repository of the themes I use and have modified (2 days ago)
-- [NSPC911/we-ascii-clouds](https://github.com/NSPC911/we-ascii-clouds) - ascii-clouds for wallpaper engine, with reference to @caidanw&#39;s ascii-clouds portfolio (2 days ago)
-- [NSPC911/dotfiles](https://github.com/NSPC911/dotfiles) - My extensive Windows 11 configuration. (3 days ago)
+- [NSPC911/rovr](https://github.com/NSPC911/rovr) - A post-modern terminal file manager. (2 days ago)
+- [NSPC911/textual-trials](https://github.com/NSPC911/textual-trials) - A lot of trial and error scripts (3 days ago)
+- [NSPC911/themes](https://github.com/NSPC911/themes) - Repository of the themes I use and have modified (3 days ago)
+- [NSPC911/we-ascii-clouds](https://github.com/NSPC911/we-ascii-clouds) - ascii-clouds for wallpaper engine, with reference to @caidanw&#39;s ascii-clouds portfolio (3 days ago)
+- [NSPC911/dotfiles](https://github.com/NSPC911/dotfiles) - My extensive Windows 11 configuration. (4 days ago)
 
 #### 🔨 My recent Pull Requests!
 
-- [fix(pilot): expose button](https://github.com/Textualize/textual/pull/6397) on [Textualize/textual](https://github.com/Textualize/textual) (1 day ago)
+- [feat: iterm2 inline image protocol support](https://github.com/lnqs/textual-image/pull/87) on [lnqs/textual-image](https://github.com/lnqs/textual-image) (1 day ago)
+- [fix(pilot): expose button](https://github.com/Textualize/textual/pull/6397) on [Textualize/textual](https://github.com/Textualize/textual) (2 days ago)
 - [feat: replace clippy with ctypes-based NSPasteboard for macOS clipboard
-](https://github.com/NSPC911/rovr/pull/229) on [NSPC911/rovr](https://github.com/NSPC911/rovr) (1 day ago)
-- [feat: add libuv as optional runtime](https://github.com/NSPC911/rovr/pull/228) on [NSPC911/rovr](https://github.com/NSPC911/rovr) (1 day ago)
+](https://github.com/NSPC911/rovr/pull/229) on [NSPC911/rovr](https://github.com/NSPC911/rovr) (2 days ago)
 
 #### 🖥 I'm available here!
 
