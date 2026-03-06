@@ -2,17 +2,17 @@
 
 #### 👷 Check out my recent contributions!
 
-- [NSPC911/dotfiles](https://github.com/NSPC911/dotfiles) - My extensive Windows 11 configuration. (today)
-- [NSPC911/rovr](https://github.com/NSPC911/rovr) - A post-modern terminal file manager. (1 day ago)
-- [NSPC911/textual-trials](https://github.com/NSPC911/textual-trials) - A lot of trial and error scripts (1 week ago)
+- [NSPC911/dotfiles](https://github.com/NSPC911/dotfiles) - My extensive Windows 11 configuration. (1 day ago)
+- [NSPC911/le-bucket](https://github.com/NSPC911/le-bucket) - A bunch of scoop apps that I thought to add but dunno which bucket to add (1 day ago)
+- [NSPC911/rovr](https://github.com/NSPC911/rovr) - A post-modern terminal file manager. (2 days ago)
 - [NSPC911/themes](https://github.com/NSPC911/themes) - Repository of the themes I use and have modified (1 week ago)
-- [NSPC911/we-ascii-clouds](https://github.com/NSPC911/we-ascii-clouds) - ascii-clouds for wallpaper engine, with reference to @caidanw&#39;s ascii-clouds portfolio (1 week ago)
+- [NSPC911/textual-trials](https://github.com/NSPC911/textual-trials) - A lot of trial and error scripts (1 week ago)
 
 #### 🔨 My recent Pull Requests!
 
-- [add test suite](https://github.com/NSPC911/rovr/pull/233) on [NSPC911/rovr](https://github.com/NSPC911/rovr) (4 days ago)
-- [feat: iterm2 inline image protocol support](https://github.com/lnqs/textual-image/pull/87) on [lnqs/textual-image](https://github.com/lnqs/textual-image) (5 days ago)
-- [fix(pilot): expose button](https://github.com/Textualize/textual/pull/6397) on [Textualize/textual](https://github.com/Textualize/textual) (6 days ago)
+- [add test suite](https://github.com/NSPC911/rovr/pull/233) on [NSPC911/rovr](https://github.com/NSPC911/rovr) (5 days ago)
+- [feat: iterm2 inline image protocol support](https://github.com/lnqs/textual-image/pull/87) on [lnqs/textual-image](https://github.com/lnqs/textual-image) (6 days ago)
+- [fix(pilot): expose button](https://github.com/Textualize/textual/pull/6397) on [Textualize/textual](https://github.com/Textualize/textual) (1 week ago)
 
 #### 🖥 I'm available here!
 
