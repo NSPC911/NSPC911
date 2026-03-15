@@ -2,16 +2,16 @@
 
 #### 👷 Check out my recent contributions!
 
-- [NSPC911/rovr](https://github.com/NSPC911/rovr) - A post-modern terminal file manager. (today)
-- [NSPC911/dotfiles](https://github.com/NSPC911/dotfiles) - My extensive Windows 11 configuration. (2 days ago)
-- [NSPC911/bongo-cat](https://github.com/NSPC911/bongo-cat) - A bongocat that lives on your taskbar. Made with Python. (3 days ago)
-- [NSPC911/textual-trials](https://github.com/NSPC911/textual-trials) - A lot of trial and error scripts (5 days ago)
-- [NSPC911/themes](https://github.com/NSPC911/themes) - Repository of the themes I use and have modified (1 week ago)
+- [NSPC911/textual-trials](https://github.com/NSPC911/textual-trials) - A lot of trial and error scripts (today)
+- [NSPC911/themes](https://github.com/NSPC911/themes) - Repository of the themes I use and have modified (1 day ago)
+- [NSPC911/rovr](https://github.com/NSPC911/rovr) - A post-modern terminal file manager. (1 day ago)
+- [NSPC911/dotfiles](https://github.com/NSPC911/dotfiles) - My extensive Windows 11 configuration. (3 days ago)
+- [NSPC911/bongo-cat](https://github.com/NSPC911/bongo-cat) - A bongocat that lives on your taskbar. Made with Python. (4 days ago)
 
 #### 🔨 My recent Pull Requests!
 
-- [refactor: switch to an `actions_` oriented method api](https://github.com/NSPC911/rovr/pull/238) on [NSPC911/rovr](https://github.com/NSPC911/rovr) (6 days ago)
-- [add test suite](https://github.com/NSPC911/rovr/pull/233) on [NSPC911/rovr](https://github.com/NSPC911/rovr) (1 week ago)
+- [refactor: switch to an `actions_` oriented method api](https://github.com/NSPC911/rovr/pull/238) on [NSPC911/rovr](https://github.com/NSPC911/rovr) (1 week ago)
+- [add test suite](https://github.com/NSPC911/rovr/pull/233) on [NSPC911/rovr](https://github.com/NSPC911/rovr) (2 weeks ago)
 - [feat: iterm2 inline image protocol support](https://github.com/lnqs/textual-image/pull/87) on [lnqs/textual-image](https://github.com/lnqs/textual-image) (2 weeks ago)
 
 #### 🖥 I'm available here!
