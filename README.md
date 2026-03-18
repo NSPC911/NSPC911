@@ -4,9 +4,9 @@
 
 - [NSPC911/rovr](https://github.com/NSPC911/rovr) - A post-modern terminal file manager. (today)
 - [NSPC911/dotfiles](https://github.com/NSPC911/dotfiles) - My extensive Windows 11 configuration. (today)
-- [NSPC911/textual-chafa](https://github.com/NSPC911/textual-chafa) - like textual-image but with the chafa.py thing as backend (1 day ago)
-- [NSPC911/textual-trials](https://github.com/NSPC911/textual-trials) - A lot of trial and error scripts (2 days ago)
-- [NSPC911/themes](https://github.com/NSPC911/themes) - Repository of the themes I use and have modified (3 days ago)
+- [NSPC911/textual-chafa](https://github.com/NSPC911/textual-chafa) - like textual-image but with the chafa.py thing as backend (2 days ago)
+- [NSPC911/textual-trials](https://github.com/NSPC911/textual-trials) - A lot of trial and error scripts (3 days ago)
+- [NSPC911/themes](https://github.com/NSPC911/themes) - Repository of the themes I use and have modified (4 days ago)
 
 #### 🔨 My recent Pull Requests!
 
