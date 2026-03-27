@@ -2,17 +2,17 @@
 
 #### 👷 Check out my recent contributions!
 
-- [NSPC911/dotfiles](https://github.com/NSPC911/dotfiles) - My extensive Windows 11 configuration. (1 day ago)
-- [NSPC911/bongo-cat](https://github.com/NSPC911/bongo-cat) - A bongocat that lives on your taskbar. Made with Python. (1 day ago)
-- [NSPC911/themes](https://github.com/NSPC911/themes) - Repository of the themes I use and have modified (3 days ago)
-- [NSPC911/le-bucket](https://github.com/NSPC911/le-bucket) - A bunch of scoop apps that I thought to add but dunno which bucket to add (3 days ago)
-- [NSPC911/textual-chafa](https://github.com/NSPC911/textual-chafa) - like textual-image but with the chafa.py thing as backend (4 days ago)
+- [NSPC911/dotfiles](https://github.com/NSPC911/dotfiles) - My extensive Windows 11 configuration. (2 days ago)
+- [NSPC911/bongo-cat](https://github.com/NSPC911/bongo-cat) - A bongocat that lives on your taskbar. Made with Python. (2 days ago)
+- [NSPC911/themes](https://github.com/NSPC911/themes) - Repository of the themes I use and have modified (4 days ago)
+- [NSPC911/le-bucket](https://github.com/NSPC911/le-bucket) - A bunch of scoop apps that I thought to add but dunno which bucket to add (4 days ago)
+- [NSPC911/textual-chafa](https://github.com/NSPC911/textual-chafa) - like textual-image but with the chafa.py thing as backend (5 days ago)
 
 #### 🔨 My recent Pull Requests!
 
-- [use rich-argparse](https://github.com/NSPC911/rovr/pull/241) on [NSPC911/rovr](https://github.com/NSPC911/rovr) (2 days ago)
-- [perf improvements i guess](https://github.com/NSPC911/rovr/pull/240) on [NSPC911/rovr](https://github.com/NSPC911/rovr) (2 days ago)
-- [fix: prevent pwsh from exiting after test launch](https://github.com/zellij-org/zellij-org.github.io/pull/295) on [zellij-org/zellij-org.github.io](https://github.com/zellij-org/zellij-org.github.io) (3 days ago)
+- [feat(cli): add tool support](https://github.com/Bingdom/Nuitka-Compile-Report-Parser/pull/1) on [Bingdom/Nuitka-Compile-Report-Parser](https://github.com/Bingdom/Nuitka-Compile-Report-Parser) (today)
+- [use rich-argparse](https://github.com/NSPC911/rovr/pull/241) on [NSPC911/rovr](https://github.com/NSPC911/rovr) (3 days ago)
+- [perf improvements i guess](https://github.com/NSPC911/rovr/pull/240) on [NSPC911/rovr](https://github.com/NSPC911/rovr) (3 days ago)
 
 #### 🖥 I'm available here!
 
