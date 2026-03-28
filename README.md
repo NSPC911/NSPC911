@@ -2,17 +2,17 @@
 
 #### 👷 Check out my recent contributions!
 
-- [NSPC911/dotfiles](https://github.com/NSPC911/dotfiles) - My extensive Windows 11 configuration. (2 days ago)
-- [NSPC911/bongo-cat](https://github.com/NSPC911/bongo-cat) - A bongocat that lives on your taskbar. Made with Python. (2 days ago)
-- [NSPC911/themes](https://github.com/NSPC911/themes) - Repository of the themes I use and have modified (4 days ago)
-- [NSPC911/le-bucket](https://github.com/NSPC911/le-bucket) - A bunch of scoop apps that I thought to add but dunno which bucket to add (4 days ago)
-- [NSPC911/textual-chafa](https://github.com/NSPC911/textual-chafa) - like textual-image but with the chafa.py thing as backend (5 days ago)
+- [Bingdom/Nuitka-Compile-Report-Parser](https://github.com/Bingdom/Nuitka-Compile-Report-Parser) - A python module that generates a .html report with graphs, based on the Nuitka compilation report (1 day ago)
+- [NSPC911/dotfiles](https://github.com/NSPC911/dotfiles) - My extensive Windows 11 configuration. (3 days ago)
+- [NSPC911/bongo-cat](https://github.com/NSPC911/bongo-cat) - A bongocat that lives on your taskbar. Made with Python. (3 days ago)
+- [NSPC911/themes](https://github.com/NSPC911/themes) - Repository of the themes I use and have modified (5 days ago)
+- [NSPC911/le-bucket](https://github.com/NSPC911/le-bucket) - A bunch of scoop apps that I thought to add but dunno which bucket to add (5 days ago)
 
 #### 🔨 My recent Pull Requests!
 
-- [feat(cli): add tool support](https://github.com/Bingdom/Nuitka-Compile-Report-Parser/pull/1) on [Bingdom/Nuitka-Compile-Report-Parser](https://github.com/Bingdom/Nuitka-Compile-Report-Parser) (today)
-- [use rich-argparse](https://github.com/NSPC911/rovr/pull/241) on [NSPC911/rovr](https://github.com/NSPC911/rovr) (3 days ago)
-- [perf improvements i guess](https://github.com/NSPC911/rovr/pull/240) on [NSPC911/rovr](https://github.com/NSPC911/rovr) (3 days ago)
+- [pull from bedrocktweaks/files@5.2.5&#43; for update 3.3.0](https://github.com/BEComTweaks/resource-packs/pull/51) on [BEComTweaks/resource-packs](https://github.com/BEComTweaks/resource-packs) (1 day ago)
+- [feat(cli): add tool support](https://github.com/Bingdom/Nuitka-Compile-Report-Parser/pull/1) on [Bingdom/Nuitka-Compile-Report-Parser](https://github.com/Bingdom/Nuitka-Compile-Report-Parser) (1 day ago)
+- [use rich-argparse](https://github.com/NSPC911/rovr/pull/241) on [NSPC911/rovr](https://github.com/NSPC911/rovr) (4 days ago)
 
 #### 🖥 I'm available here!
 
