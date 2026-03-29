@@ -2,17 +2,17 @@
 
 #### 👷 Check out my recent contributions!
 
-- [Bingdom/Nuitka-Compile-Report-Parser](https://github.com/Bingdom/Nuitka-Compile-Report-Parser) - A python module that generates a .html report with graphs, based on the Nuitka compilation report (1 day ago)
-- [NSPC911/dotfiles](https://github.com/NSPC911/dotfiles) - My extensive Windows 11 configuration. (3 days ago)
-- [NSPC911/bongo-cat](https://github.com/NSPC911/bongo-cat) - A bongocat that lives on your taskbar. Made with Python. (3 days ago)
-- [NSPC911/themes](https://github.com/NSPC911/themes) - Repository of the themes I use and have modified (5 days ago)
-- [NSPC911/le-bucket](https://github.com/NSPC911/le-bucket) - A bunch of scoop apps that I thought to add but dunno which bucket to add (5 days ago)
+- [NSPC911/rovr](https://github.com/NSPC911/rovr) - A post-modern terminal file manager. (today)
+- [BEComTweaks/resource-packs](https://github.com/BEComTweaks/resource-packs) - A repo containing every single resource pack ported from vanillatweaks.net (1 day ago)
+- [Bingdom/Nuitka-Compile-Report-Parser](https://github.com/Bingdom/Nuitka-Compile-Report-Parser) - A python module that generates a .html report with graphs, based on the Nuitka compilation report (2 days ago)
+- [NSPC911/bongo-cat](https://github.com/NSPC911/bongo-cat) - A bongocat that lives on your taskbar. Made with Python. (4 days ago)
+- [NSPC911/dotfiles](https://github.com/NSPC911/dotfiles) - My extensive Windows 11 configuration. (4 days ago)
 
 #### 🔨 My recent Pull Requests!
 
-- [pull from bedrocktweaks/files@5.2.5&#43; for update 3.3.0](https://github.com/BEComTweaks/resource-packs/pull/51) on [BEComTweaks/resource-packs](https://github.com/BEComTweaks/resource-packs) (1 day ago)
-- [feat(cli): add tool support](https://github.com/Bingdom/Nuitka-Compile-Report-Parser/pull/1) on [Bingdom/Nuitka-Compile-Report-Parser](https://github.com/Bingdom/Nuitka-Compile-Report-Parser) (1 day ago)
-- [use rich-argparse](https://github.com/NSPC911/rovr/pull/241) on [NSPC911/rovr](https://github.com/NSPC911/rovr) (4 days ago)
+- [feat(app): watch mtime and update preview if it changes](https://github.com/NSPC911/rovr/pull/242) on [NSPC911/rovr](https://github.com/NSPC911/rovr) (1 day ago)
+- [feat: use puremagic instead of python-magic](https://github.com/whyisdifficult/jiratui/pull/188) on [whyisdifficult/jiratui](https://github.com/whyisdifficult/jiratui) (1 day ago)
+- [pull from bedrocktweaks/files@5.2.5&#43; for update 3.3.0](https://github.com/BEComTweaks/resource-packs/pull/51) on [BEComTweaks/resource-packs](https://github.com/BEComTweaks/resource-packs) (2 days ago)
 
 #### 🖥 I'm available here!
 
