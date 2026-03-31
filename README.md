@@ -2,17 +2,17 @@
 
 #### 👷 Check out my recent contributions!
 
-- [NSPC911/rovr](https://github.com/NSPC911/rovr) - A post-modern terminal file manager. (today)
-- [whyisdifficult/jiratui](https://github.com/whyisdifficult/jiratui) - A Textual User Interface for interacting with Atlassian Jira from your shell (today)
-- [BEComTweaks/resource-packs](https://github.com/BEComTweaks/resource-packs) - A repo containing every single resource pack ported from vanillatweaks.net (2 days ago)
-- [Bingdom/Nuitka-Compile-Report-Parser](https://github.com/Bingdom/Nuitka-Compile-Report-Parser) - A python module that generates a .html report with graphs, based on the Nuitka compilation report (3 days ago)
-- [NSPC911/bongo-cat](https://github.com/NSPC911/bongo-cat) - A bongocat that lives on your taskbar. Made with Python. (5 days ago)
+- [NSPC911/bongo-cat](https://github.com/NSPC911/bongo-cat) - A bongocat that lives on your taskbar. Made with Python. (today)
+- [whyisdifficult/jiratui](https://github.com/whyisdifficult/jiratui) - A Textual User Interface for interacting with Atlassian Jira from your shell (1 day ago)
+- [BEComTweaks/resource-packs](https://github.com/BEComTweaks/resource-packs) - A repo containing every single resource pack ported from vanillatweaks.net (1 day ago)
+- [NSPC911/rovr](https://github.com/NSPC911/rovr) - A post-modern terminal file manager. (1 day ago)
+- [Bingdom/Nuitka-Compile-Report-Parser](https://github.com/Bingdom/Nuitka-Compile-Report-Parser) - A python module that generates a .html report with graphs, based on the Nuitka compilation report (4 days ago)
 
 #### 🔨 My recent Pull Requests!
 
-- [feat(app): watch mtime and update preview if it changes](https://github.com/NSPC911/rovr/pull/242) on [NSPC911/rovr](https://github.com/NSPC911/rovr) (2 days ago)
-- [feat: use puremagic instead of python-magic](https://github.com/whyisdifficult/jiratui/pull/188) on [whyisdifficult/jiratui](https://github.com/whyisdifficult/jiratui) (2 days ago)
-- [pull from bedrocktweaks/files@5.2.5&#43; for update 3.3.0](https://github.com/BEComTweaks/resource-packs/pull/51) on [BEComTweaks/resource-packs](https://github.com/BEComTweaks/resource-packs) (3 days ago)
+- [feat(app): watch mtime and update preview if it changes](https://github.com/NSPC911/rovr/pull/242) on [NSPC911/rovr](https://github.com/NSPC911/rovr) (3 days ago)
+- [feat: use puremagic instead of python-magic](https://github.com/whyisdifficult/jiratui/pull/188) on [whyisdifficult/jiratui](https://github.com/whyisdifficult/jiratui) (3 days ago)
+- [pull from bedrocktweaks/files@5.2.5&#43; for update 3.3.0](https://github.com/BEComTweaks/resource-packs/pull/51) on [BEComTweaks/resource-packs](https://github.com/BEComTweaks/resource-packs) (4 days ago)
 
 #### 🖥 I'm available here!
 
