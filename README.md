@@ -2,11 +2,11 @@
 
 #### 👷 Check out my recent contributions!
 
+- [NSPC911/dotfiles](https://github.com/NSPC911/dotfiles) - My extensive Windows 11 configuration. (today)
 - [NSPC911/rovr](https://github.com/NSPC911/rovr) - A post-modern terminal file manager. (today)
-- [NSPC911/recycler](https://github.com/NSPC911/recycler) - attempt at a cross platform recycle bin handler (today)
-- [BEComTweaks/resource-packs](https://github.com/BEComTweaks/resource-packs) - A repo containing every single resource pack ported from vanillatweaks.net (1 day ago)
-- [BEComTweaks/becomtweaks.github.io](https://github.com/BEComTweaks/becomtweaks.github.io) - Landing Page for the website (3 days ago)
-- [BEComTweaks/behaviour-packs](https://github.com/BEComTweaks/behaviour-packs) - A repo containing every single behaviour pack ported from vanillatweaks.net (3 days ago)
+- [NSPC911/recycler](https://github.com/NSPC911/recycler) - attempt at a cross platform recycle bin handler (1 day ago)
+- [BEComTweaks/resource-packs](https://github.com/BEComTweaks/resource-packs) - A repo containing every single resource pack ported from vanillatweaks.net (2 days ago)
+- [BEComTweaks/crafting-tweaks](https://github.com/BEComTweaks/crafting-tweaks) - A repo containing every single crafting tweak ported from vanillatweaks.net (4 days ago)
 
 #### 🔨 My recent Pull Requests!
 
