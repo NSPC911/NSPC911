@@ -34,7 +34,7 @@
 <div align="center">
   <img height="50%" width="auto" src="profile/stats.svg">
   <br>
-  <img src="https://streak-stats.demolab.com?user=NSPC911&theme=nord&hide_border=true&date_format=j%20M%5B%20Y%5D">
+  <img src="https://streak-stats.demolab.com?user=NSPC911&theme=nord&hide_border=true&background=00000000">
   <br>
   <img src="https://wakatime.com/share/@920196c3-0c98-4596-9981-f28a594ff484/ca112808-5633-41b1-9214-68047f07e73d.svg" width="50%">
   <img src="https://wakatime.com/share/@920196c3-0c98-4596-9981-f28a594ff484/a69fb9f5-7faf-4c15-9121-a8df30fede5b.svg" width="50%">
