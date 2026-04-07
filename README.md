@@ -2,11 +2,11 @@
 
 #### 👷 Check out my recent contributions!
 
-- [NSPC911/bongo-cat](https://github.com/NSPC911/bongo-cat) - A bongocat that lives on your taskbar. Made with Python. (1 day ago)
-- [NSPC911/dotfiles](https://github.com/NSPC911/dotfiles) - My extensive Windows 11 configuration. (1 day ago)
 - [NSPC911/rovr](https://github.com/NSPC911/rovr) - A post-modern terminal file manager. (1 day ago)
-- [NSPC911/recycler](https://github.com/NSPC911/recycler) - attempt at a cross platform recycle bin handler (2 days ago)
-- [BEComTweaks/resource-packs](https://github.com/BEComTweaks/resource-packs) - A repo containing every single resource pack ported from vanillatweaks.net (3 days ago)
+- [NSPC911/bongo-cat](https://github.com/NSPC911/bongo-cat) - A bongocat that lives on your taskbar. Made with Python. (2 days ago)
+- [NSPC911/dotfiles](https://github.com/NSPC911/dotfiles) - My extensive Windows 11 configuration. (2 days ago)
+- [NSPC911/recycler](https://github.com/NSPC911/recycler) - attempt at a cross platform recycle bin handler (3 days ago)
+- [BEComTweaks/resource-packs](https://github.com/BEComTweaks/resource-packs) - A repo containing every single resource pack ported from vanillatweaks.net (4 days ago)
 
 #### 🔨 My recent Pull Requests!
 
