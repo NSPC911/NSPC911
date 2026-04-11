@@ -2,17 +2,17 @@
 
 #### 👷 Check out my recent contributions!
 
-- [NSPC911/rovr](https://github.com/NSPC911/rovr) - A post-modern terminal file manager. (today)
-- [NSPC911/themes](https://github.com/NSPC911/themes) - Repository of the themes I use and have modified (1 day ago)
-- [NSPC911/dotfiles](https://github.com/NSPC911/dotfiles) - My extensive Windows 11 configuration. (5 days ago)
-- [NSPC911/bongo-cat](https://github.com/NSPC911/bongo-cat) - A bongocat that lives on your taskbar. Made with Python. (5 days ago)
+- [NSPC911/rovr](https://github.com/NSPC911/rovr) - A post-modern terminal file manager. (1 day ago)
+- [NSPC911/themes](https://github.com/NSPC911/themes) - Repository of the themes I use and have modified (2 days ago)
+- [NSPC911/dotfiles](https://github.com/NSPC911/dotfiles) - My extensive Windows 11 configuration. (6 days ago)
+- [NSPC911/bongo-cat](https://github.com/NSPC911/bongo-cat) - A bongocat that lives on your taskbar. Made with Python. (6 days ago)
 - [BEComTweaks/resource-packs](https://github.com/BEComTweaks/resource-packs) - A repo containing every single resource pack ported from vanillatweaks.net (1 week ago)
 
 #### 🔨 My recent Pull Requests!
 
-- [feat(path_input): some major fixes and improvements](https://github.com/NSPC911/rovr/pull/256) on [NSPC911/rovr](https://github.com/NSPC911/rovr) (2 days ago)
-- [feat: add configurable keybind for toggling file selection in visual mode**](https://github.com/NSPC911/rovr/pull/255) on [NSPC911/rovr](https://github.com/NSPC911/rovr) (3 days ago)
-- [feat(app): watch mtime and update preview if it changes](https://github.com/NSPC911/rovr/pull/242) on [NSPC911/rovr](https://github.com/NSPC911/rovr) (1 week ago)
+- [add gil support](https://github.com/willmcgugan/textual-speedups/pull/8) on [willmcgugan/textual-speedups](https://github.com/willmcgugan/textual-speedups) (1 day ago)
+- [feat(path_input): some major fixes and improvements](https://github.com/NSPC911/rovr/pull/256) on [NSPC911/rovr](https://github.com/NSPC911/rovr) (3 days ago)
+- [feat: add configurable keybind for toggling file selection in visual mode**](https://github.com/NSPC911/rovr/pull/255) on [NSPC911/rovr](https://github.com/NSPC911/rovr) (4 days ago)
 
 #### 🖥 I'm available here!
 
