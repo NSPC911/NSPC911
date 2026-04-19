@@ -2,17 +2,17 @@
 
 #### 👷 Check out my recent contributions!
 
-- [NSPC911/rovr](https://github.com/NSPC911/rovr) - A post-modern terminal file manager. (1 day ago)
-- [NSPC911/dotfiles](https://github.com/NSPC911/dotfiles) - My extensive Windows 11 configuration. (3 days ago)
-- [BEComTweaks/resource-packs](https://github.com/BEComTweaks/resource-packs) - A repo containing every single resource pack ported from vanillatweaks.net (5 days ago)
+- [NSPC911/dotfiles](https://github.com/NSPC911/dotfiles) - My extensive Windows 11 configuration. (today)
+- [raphamorim/rio](https://github.com/raphamorim/rio) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers. (1 day ago)
+- [NSPC911/rovr](https://github.com/NSPC911/rovr) - A post-modern terminal file manager. (2 days ago)
+- [BEComTweaks/resource-packs](https://github.com/BEComTweaks/resource-packs) - A repo containing every single resource pack ported from vanillatweaks.net (6 days ago)
 - [NSPC911/themes](https://github.com/NSPC911/themes) - Repository of the themes I use and have modified (1 week ago)
-- [NSPC911/bongo-cat](https://github.com/NSPC911/bongo-cat) - A bongocat that lives on your taskbar. Made with Python. (1 week ago)
 
 #### 🔨 My recent Pull Requests!
 
-- [use `ACCENT_ENABLE_BLURBEHIND` on windows to keep blur nice](https://github.com/raphamorim/rio/pull/1527) on [raphamorim/rio](https://github.com/raphamorim/rio) (1 day ago)
-- [feat(image): use resampler based on config](https://github.com/NSPC911/rovr/pull/265) on [NSPC911/rovr](https://github.com/NSPC911/rovr) (1 day ago)
-- [perf(filelist): monkey patch line renderer to render on demand](https://github.com/NSPC911/rovr/pull/263) on [NSPC911/rovr](https://github.com/NSPC911/rovr) (1 week ago)
+- [fix halfcell for transparency](https://github.com/lnqs/textual-image/pull/101) on [lnqs/textual-image](https://github.com/lnqs/textual-image) (1 day ago)
+- [add two extra flags for cli](https://github.com/lnqs/textual-image/pull/100) on [lnqs/textual-image](https://github.com/lnqs/textual-image) (1 day ago)
+- [use `ACCENT_ENABLE_BLURBEHIND` on windows to keep blur nice](https://github.com/raphamorim/rio/pull/1527) on [raphamorim/rio](https://github.com/raphamorim/rio) (2 days ago)
 
 #### 🖥 I'm available here!
 
