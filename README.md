@@ -2,17 +2,17 @@
 
 #### 👷 Check out my recent contributions!
 
-- [NSPC911/le-bucket](https://github.com/NSPC911/le-bucket) - A bunch of scoop apps that I thought to add but dunno which bucket to add (1 day ago)
-- [NSPC911/rovr](https://github.com/NSPC911/rovr) - A post-modern terminal file manager. (1 day ago)
-- [NSPC911/dotfiles](https://github.com/NSPC911/dotfiles) - My extensive Windows 11 configuration. (2 days ago)
-- [raphamorim/rio](https://github.com/raphamorim/rio) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers. (3 days ago)
+- [NSPC911/rovr](https://github.com/NSPC911/rovr) - A post-modern terminal file manager. (today)
+- [NSPC911/dotfiles](https://github.com/NSPC911/dotfiles) - My extensive Windows 11 configuration. (1 day ago)
+- [NSPC911/le-bucket](https://github.com/NSPC911/le-bucket) - A bunch of scoop apps that I thought to add but dunno which bucket to add (2 days ago)
+- [raphamorim/rio](https://github.com/raphamorim/rio) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers. (4 days ago)
 - [BEComTweaks/resource-packs](https://github.com/BEComTweaks/resource-packs) - A repo containing every single resource pack ported from vanillatweaks.net (1 week ago)
 
 #### 🔨 My recent Pull Requests!
 
-- [fix: handle ctrl&#43;c attempt on windows if running bat/cmd scripts](https://github.com/nat-n/poethepoet/pull/381) on [nat-n/poethepoet](https://github.com/nat-n/poethepoet) (1 day ago)
-- [fix halfcell for transparency](https://github.com/lnqs/textual-image/pull/101) on [lnqs/textual-image](https://github.com/lnqs/textual-image) (3 days ago)
-- [add two extra flags for cli](https://github.com/lnqs/textual-image/pull/100) on [lnqs/textual-image](https://github.com/lnqs/textual-image) (3 days ago)
+- [fix: handle ctrl&#43;c attempt on windows if running bat/cmd scripts](https://github.com/nat-n/poethepoet/pull/381) on [nat-n/poethepoet](https://github.com/nat-n/poethepoet) (2 days ago)
+- [fix halfcell for transparency](https://github.com/lnqs/textual-image/pull/101) on [lnqs/textual-image](https://github.com/lnqs/textual-image) (4 days ago)
+- [add two extra flags for cli](https://github.com/lnqs/textual-image/pull/100) on [lnqs/textual-image](https://github.com/lnqs/textual-image) (4 days ago)
 
 #### 🖥 I'm available here!
 
