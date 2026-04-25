@@ -3,16 +3,16 @@
 #### 👷 Check out my recent contributions!
 
 - [NSPC911/rovr](https://github.com/NSPC911/rovr) - A post-modern terminal file manager. (today)
-- [NSPC911/themes](https://github.com/NSPC911/themes) - Repository of the themes I use and have modified (1 day ago)
-- [NSPC911/le-bucket](https://github.com/NSPC911/le-bucket) - A bunch of scoop apps that I thought to add but dunno which bucket to add (2 days ago)
-- [NSPC911/dotfiles](https://github.com/NSPC911/dotfiles) - My extensive Windows 11 configuration. (3 days ago)
-- [raphamorim/rio](https://github.com/raphamorim/rio) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers. (6 days ago)
+- [NSPC911/themes](https://github.com/NSPC911/themes) - Repository of the themes I use and have modified (2 days ago)
+- [NSPC911/le-bucket](https://github.com/NSPC911/le-bucket) - A bunch of scoop apps that I thought to add but dunno which bucket to add (3 days ago)
+- [NSPC911/dotfiles](https://github.com/NSPC911/dotfiles) - My extensive Windows 11 configuration. (4 days ago)
+- [raphamorim/rio](https://github.com/raphamorim/rio) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers. (1 week ago)
 
 #### 🔨 My recent Pull Requests!
 
-- [fix: handle ctrl&#43;c attempt on windows if running bat/cmd scripts](https://github.com/nat-n/poethepoet/pull/381) on [nat-n/poethepoet](https://github.com/nat-n/poethepoet) (4 days ago)
-- [fix halfcell for transparency](https://github.com/lnqs/textual-image/pull/101) on [lnqs/textual-image](https://github.com/lnqs/textual-image) (6 days ago)
-- [add two extra flags for cli](https://github.com/lnqs/textual-image/pull/100) on [lnqs/textual-image](https://github.com/lnqs/textual-image) (6 days ago)
+- [perf(screens): make fd and rg add options progressively](https://github.com/NSPC911/rovr/pull/268) on [NSPC911/rovr](https://github.com/NSPC911/rovr) (1 day ago)
+- [fix: handle ctrl&#43;c attempt on windows if running bat/cmd scripts](https://github.com/nat-n/poethepoet/pull/381) on [nat-n/poethepoet](https://github.com/nat-n/poethepoet) (5 days ago)
+- [fix halfcell for transparency](https://github.com/lnqs/textual-image/pull/101) on [lnqs/textual-image](https://github.com/lnqs/textual-image) (1 week ago)
 
 #### 🖥 I'm available here!
 
