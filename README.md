@@ -1,6 +1,6 @@
 👋 Hi, I’m NSPG911!
 
-#### 👷 Check out my recent contributions!
+### 👷 Check out my recent contributions!
 
 - [NSPC911/nspc911.github.io](https://github.com/NSPC911/nspc911.github.io) - woah cool site (1 day ago)
 - [NSPC911/dotfiles](https://github.com/NSPC911/dotfiles) - My extensive Windows 11 configuration. (1 day ago)
