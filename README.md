@@ -1,8 +1,8 @@
 👋 Hi, I’m NSPG911!
 
-### 👷 Check out my recent contributions!
+#### 👷 Check out my recent contributions!
 
-- [NSPC911/nspc911.github.io](https://github.com/NSPC911/nspc911.github.io) - woah cool site (1 day ago)
+- [NSPC911/nspc911.github.io](https://github.com/NSPC911/nspc911.github.io) - woah cool site (today)
 - [NSPC911/dotfiles](https://github.com/NSPC911/dotfiles) - My extensive Windows 11 configuration. (1 day ago)
 - [NSPC911/rovr](https://github.com/NSPC911/rovr) - A post-modern terminal file manager. (2 days ago)
 - [NSPC911/themes](https://github.com/NSPC911/themes) - Repository of the themes I use and have modified (4 days ago)
