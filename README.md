@@ -2,15 +2,15 @@
 
 #### 👷 Check out my recent contributions!
 
-- [NSPC911/nspc911.github.io](https://github.com/NSPC911/nspc911.github.io) - woah cool site (today)
+- [NSPC911/nspc911.github.io](https://github.com/NSPC911/nspc911.github.io) - woah cool site (1 day ago)
 - [NSPC911/rovr](https://github.com/NSPC911/rovr) - A post-modern terminal file manager. (1 day ago)
-- [NSPC911/multiarchive](https://github.com/NSPC911/multiarchive) - A high level implementation to open any archive files. (2 days ago)
-- [NSPC911/dotfiles](https://github.com/NSPC911/dotfiles) - My extensive Windows 11 configuration. (5 days ago)
+- [NSPC911/multiarchive](https://github.com/NSPC911/multiarchive) - A high level implementation to open any archive files. (3 days ago)
+- [NSPC911/dotfiles](https://github.com/NSPC911/dotfiles) - My extensive Windows 11 configuration. (6 days ago)
 - [nat-n/poethepoet](https://github.com/nat-n/poethepoet) - A task runner that works well with poetry or uv. (1 week ago)
 
 #### 🔨 My recent Pull Requests!
 
-- [fix(process): forcefully disable multiprocessing if the user&#39;s machine is bad](https://github.com/NSPC911/rovr/pull/273) on [NSPC911/rovr](https://github.com/NSPC911/rovr) (6 days ago)
+- [fix(process): forcefully disable multiprocessing if the user&#39;s machine is bad](https://github.com/NSPC911/rovr/pull/273) on [NSPC911/rovr](https://github.com/NSPC911/rovr) (1 week ago)
 - [fix: prevent crash on broken symlink &#43; visibly distinct broken symlink](https://github.com/NSPC911/rovr/pull/271) on [NSPC911/rovr](https://github.com/NSPC911/rovr) (1 week ago)
 - [perf(screens): make fd and rg add options progressively](https://github.com/NSPC911/rovr/pull/268) on [NSPC911/rovr](https://github.com/NSPC911/rovr) (1 week ago)
 
