@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">NSPC911's GitHub Stats, Rank: A+</title>
-        <desc id="descId">Total Stars Earned: 450, Total Commits  (last year) : 1699, Total PRs Merged: 128, Total Issues: 123, Contributed to (last year): 54</desc>
+        <desc id="descId">Total Stars Earned: 450, Total Commits  (last year) : 1700, Total PRs Merged: 128, Total Issues: 123, Contributed to (last year): 54</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 19.866537291882292;
+        stroke-dashoffset: 19.865493600036874;
       }
     }
   
