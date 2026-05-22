@@ -2,16 +2,16 @@
 
 #### 👷 Check out my recent contributions!
 
-- [NSPC911/rovr](https://github.com/NSPC911/rovr) - A post-modern terminal file manager. (1 day ago)
-- [BEComTweaks/server-backend](https://github.com/BEComTweaks/server-backend) - A repo containing the server for becomtweaks.github.io (2 days ago)
-- [NSPC911/le-bucket](https://github.com/NSPC911/le-bucket) - A bunch of scoop apps that I thought to add but dunno which bucket to add (2 days ago)
-- [NSPC911/dotfiles](https://github.com/NSPC911/dotfiles) - My extensive Windows 11 configuration. (5 days ago)
+- [NSPC911/dotfiles](https://github.com/NSPC911/dotfiles) - My extensive Windows 11 configuration. (today)
+- [NSPC911/rovr](https://github.com/NSPC911/rovr) - A post-modern terminal file manager. (today)
+- [BEComTweaks/server-backend](https://github.com/BEComTweaks/server-backend) - A repo containing the server for becomtweaks.github.io (3 days ago)
+- [NSPC911/le-bucket](https://github.com/NSPC911/le-bucket) - A bunch of scoop apps that I thought to add but dunno which bucket to add (3 days ago)
 - [NSPC911/multiarchive](https://github.com/NSPC911/multiarchive) - A high level implementation to open any archive files. (1 week ago)
 
 #### 🔨 My recent Pull Requests!
 
-- [refactor(key): use a custom keybind handler](https://github.com/NSPC911/rovr/pull/282) on [NSPC911/rovr](https://github.com/NSPC911/rovr) (1 day ago)
-- [feat: add custom openers that use glob matching](https://github.com/NSPC911/rovr/pull/281) on [NSPC911/rovr](https://github.com/NSPC911/rovr) (3 days ago)
+- [refactor(key): use a custom keybind handler](https://github.com/NSPC911/rovr/pull/282) on [NSPC911/rovr](https://github.com/NSPC911/rovr) (2 days ago)
+- [feat: add custom openers that use glob matching](https://github.com/NSPC911/rovr/pull/281) on [NSPC911/rovr](https://github.com/NSPC911/rovr) (4 days ago)
 - [feat: right click options](https://github.com/NSPC911/rovr/pull/279) on [NSPC911/rovr](https://github.com/NSPC911/rovr) (1 week ago)
 
 #### 🖥 I'm available here!
