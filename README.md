@@ -2,17 +2,17 @@
 
 #### 👷 Check out my recent contributions!
 
-- [NSPC911/rovr](https://github.com/NSPC911/rovr) - A post-modern terminal file manager. (1 day ago)
-- [NSPC911/dotfiles](https://github.com/NSPC911/dotfiles) - My extensive Windows 11 configuration. (2 days ago)
-- [NSPC911/themes](https://github.com/NSPC911/themes) - Repository of the themes I use and have modified (2 days ago)
-- [BEComTweaks/server-backend](https://github.com/BEComTweaks/server-backend) - A repo containing the server for becomtweaks.github.io (5 days ago)
-- [NSPC911/le-bucket](https://github.com/NSPC911/le-bucket) - A bunch of scoop apps that I thought to add but dunno which bucket to add (5 days ago)
+- [NSPC911/textual-trials](https://github.com/NSPC911/textual-trials) - A lot of trial and error scripts (today)
+- [NSPC911/rovr](https://github.com/NSPC911/rovr) - A post-modern terminal file manager. (today)
+- [NSPC911/dotfiles](https://github.com/NSPC911/dotfiles) - My extensive Windows 11 configuration. (3 days ago)
+- [NSPC911/themes](https://github.com/NSPC911/themes) - Repository of the themes I use and have modified (3 days ago)
+- [BEComTweaks/server-backend](https://github.com/BEComTweaks/server-backend) - A repo containing the server for becomtweaks.github.io (6 days ago)
 
 #### 🔨 My recent Pull Requests!
 
-- [feat(new_item)!: add batch creation support](https://github.com/NSPC911/rovr/pull/283) on [NSPC911/rovr](https://github.com/NSPC911/rovr) (2 days ago)
-- [refactor(key): use a custom keybind handler](https://github.com/NSPC911/rovr/pull/282) on [NSPC911/rovr](https://github.com/NSPC911/rovr) (4 days ago)
-- [feat: add custom openers that use glob matching](https://github.com/NSPC911/rovr/pull/281) on [NSPC911/rovr](https://github.com/NSPC911/rovr) (6 days ago)
+- [feat(filelist): add configurable styles for certain files/folders](https://github.com/NSPC911/rovr/pull/284) on [NSPC911/rovr](https://github.com/NSPC911/rovr) (1 day ago)
+- [feat(new_item)!: add batch creation support](https://github.com/NSPC911/rovr/pull/283) on [NSPC911/rovr](https://github.com/NSPC911/rovr) (3 days ago)
+- [refactor(key): use a custom keybind handler](https://github.com/NSPC911/rovr/pull/282) on [NSPC911/rovr](https://github.com/NSPC911/rovr) (5 days ago)
 
 #### 🖥 I'm available here!
 
