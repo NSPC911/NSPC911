@@ -3,16 +3,16 @@
 #### 👷 Check out my recent contributions!
 
 - [NSPC911/rovr](https://github.com/NSPC911/rovr) - a stylish, batteries-included terminal file manager. (today)
-- [BEComTweaks/btrp-updater](https://github.com/BEComTweaks/btrp-updater) - Update previously made Bedrock Tweaks resource packs with this tool! (1 day ago)
-- [NSPC911/textual-trials](https://github.com/NSPC911/textual-trials) - A lot of trial and error scripts (2 days ago)
-- [NSPC911/themes](https://github.com/NSPC911/themes) - Repository of the themes I use and have modified (6 days ago)
-- [NSPC911/dotfiles](https://github.com/NSPC911/dotfiles) - My extensive Windows 11 configuration. (6 days ago)
+- [BEComTweaks/btrp-updater](https://github.com/BEComTweaks/btrp-updater) - Update previously made Bedrock Tweaks resource packs with this tool! (2 days ago)
+- [NSPC911/textual-trials](https://github.com/NSPC911/textual-trials) - A lot of trial and error scripts (3 days ago)
+- [NSPC911/themes](https://github.com/NSPC911/themes) - Repository of the themes I use and have modified (1 week ago)
+- [NSPC911/dotfiles](https://github.com/NSPC911/dotfiles) - My extensive Windows 11 configuration. (1 week ago)
 
 #### 🔨 My recent Pull Requests!
 
-- [feat(app): allow drag and drop from gui to terminal using bracketed paste](https://github.com/NSPC911/rovr/pull/285) on [NSPC911/rovr](https://github.com/NSPC911/rovr) (1 day ago)
-- [feat(filelist): add configurable styles for certain files/folders](https://github.com/NSPC911/rovr/pull/284) on [NSPC911/rovr](https://github.com/NSPC911/rovr) (4 days ago)
-- [feat(new_item)!: add batch creation support](https://github.com/NSPC911/rovr/pull/283) on [NSPC911/rovr](https://github.com/NSPC911/rovr) (6 days ago)
+- [feat(app): allow drag and drop from gui to terminal using bracketed paste](https://github.com/NSPC911/rovr/pull/285) on [NSPC911/rovr](https://github.com/NSPC911/rovr) (2 days ago)
+- [feat(filelist): add configurable styles for certain files/folders](https://github.com/NSPC911/rovr/pull/284) on [NSPC911/rovr](https://github.com/NSPC911/rovr) (5 days ago)
+- [feat(new_item)!: add batch creation support](https://github.com/NSPC911/rovr/pull/283) on [NSPC911/rovr](https://github.com/NSPC911/rovr) (1 week ago)
 
 #### 🖥 I'm available here!
 
