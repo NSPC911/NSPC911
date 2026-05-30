@@ -2,17 +2,17 @@
 
 #### 👷 Check out my recent contributions!
 
-- [NSPC911/rovr](https://github.com/NSPC911/rovr) - a stylish, batteries-included terminal file manager. (today)
-- [BEComTweaks/btrp-updater](https://github.com/BEComTweaks/btrp-updater) - Update previously made Bedrock Tweaks resource packs with this tool! (2 days ago)
-- [NSPC911/textual-trials](https://github.com/NSPC911/textual-trials) - A lot of trial and error scripts (3 days ago)
+- [NSPC911/rovr](https://github.com/NSPC911/rovr) - a stylish, batteries-included terminal file manager. (1 day ago)
+- [BEComTweaks/btrp-updater](https://github.com/BEComTweaks/btrp-updater) - Update previously made Bedrock Tweaks resource packs with this tool! (3 days ago)
+- [NSPC911/textual-trials](https://github.com/NSPC911/textual-trials) - A lot of trial and error scripts (4 days ago)
 - [NSPC911/themes](https://github.com/NSPC911/themes) - Repository of the themes I use and have modified (1 week ago)
 - [NSPC911/dotfiles](https://github.com/NSPC911/dotfiles) - My extensive Windows 11 configuration. (1 week ago)
 
 #### 🔨 My recent Pull Requests!
 
-- [feat(app): allow drag and drop from gui to terminal using bracketed paste](https://github.com/NSPC911/rovr/pull/285) on [NSPC911/rovr](https://github.com/NSPC911/rovr) (2 days ago)
-- [feat(filelist): add configurable styles for certain files/folders](https://github.com/NSPC911/rovr/pull/284) on [NSPC911/rovr](https://github.com/NSPC911/rovr) (5 days ago)
-- [feat(new_item)!: add batch creation support](https://github.com/NSPC911/rovr/pull/283) on [NSPC911/rovr](https://github.com/NSPC911/rovr) (1 week ago)
+- [feat: add basic kitty protocol support](https://github.com/lnqs/textual-image/pull/120) on [lnqs/textual-image](https://github.com/lnqs/textual-image) (1 day ago)
+- [installation commands ig](https://github.com/NSPC911/rovr/pull/290) on [NSPC911/rovr](https://github.com/NSPC911/rovr) (1 day ago)
+- [feat(drives): add config for hiding drive paths ](https://github.com/NSPC911/rovr/pull/289) on [NSPC911/rovr](https://github.com/NSPC911/rovr) (1 day ago)
 
 #### 🖥 I'm available here!
 
