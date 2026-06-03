@@ -2,17 +2,17 @@
 
 #### 👷 Check out my recent contributions!
 
+- [NSPC911/themes](https://github.com/NSPC911/themes) - Repository of the themes I use and have modified (1 day ago)
 - [NSPC911/textual-drivers](https://github.com/NSPC911/textual-drivers) - a drop in, feature-rich version of textual&#39;s drivers (1 day ago)
 - [NSPC911/rovr](https://github.com/NSPC911/rovr) - a stylish, batteries-included terminal file manager. (1 day ago)
-- [BEComTweaks/btrp-updater](https://github.com/BEComTweaks/btrp-updater) - Update previously made Bedrock Tweaks resource packs with this tool! (6 days ago)
+- [BEComTweaks/btrp-updater](https://github.com/BEComTweaks/btrp-updater) - Update previously made Bedrock Tweaks resource packs with this tool! (1 week ago)
 - [NSPC911/textual-trials](https://github.com/NSPC911/textual-trials) - A lot of trial and error scripts (1 week ago)
-- [NSPC911/dotfiles](https://github.com/NSPC911/dotfiles) - My extensive Windows 11 configuration. (1 week ago)
 
 #### 🔨 My recent Pull Requests!
 
-- [feat: add basic kitty protocol support](https://github.com/lnqs/textual-image/pull/120) on [lnqs/textual-image](https://github.com/lnqs/textual-image) (4 days ago)
-- [feat: add installation scripts yipee](https://github.com/NSPC911/rovr/pull/290) on [NSPC911/rovr](https://github.com/NSPC911/rovr) (4 days ago)
-- [feat(drives): add config for hiding drive paths ](https://github.com/NSPC911/rovr/pull/289) on [NSPC911/rovr](https://github.com/NSPC911/rovr) (4 days ago)
+- [merge from master](https://github.com/nik-contrib/helix/pull/2) on [nik-contrib/helix](https://github.com/nik-contrib/helix) (1 day ago)
+- [feat: add libuv as optional runtime](https://github.com/NSPC911/rovr/pull/294) on [NSPC911/rovr](https://github.com/NSPC911/rovr) (1 day ago)
+- [feat(metadata): show mime type as section](https://github.com/NSPC911/rovr/pull/293) on [NSPC911/rovr](https://github.com/NSPC911/rovr) (1 day ago)
 
 #### 🖥 I'm available here!
 
