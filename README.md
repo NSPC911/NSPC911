@@ -2,17 +2,17 @@
 
 #### 👷 Check out my recent contributions!
 
-- [NSPC911/rovr](https://github.com/NSPC911/rovr) - a stylish, batteries-included terminal file manager. (today)
-- [NSPC911/textual-drivers](https://github.com/NSPC911/textual-drivers) - a drop in, feature-rich version of textual&#39;s drivers (1 day ago)
-- [NSPC911/themes](https://github.com/NSPC911/themes) - Repository of the themes I use and have modified (2 days ago)
+- [NSPC911/textual-trials](https://github.com/NSPC911/textual-trials) - A lot of trial and error scripts (1 day ago)
+- [NSPC911/rovr](https://github.com/NSPC911/rovr) - a stylish, batteries-included terminal file manager. (1 day ago)
+- [NSPC911/textual-drivers](https://github.com/NSPC911/textual-drivers) - a drop in, feature-rich version of textual&#39;s drivers (2 days ago)
+- [NSPC911/themes](https://github.com/NSPC911/themes) - Repository of the themes I use and have modified (3 days ago)
 - [BEComTweaks/btrp-updater](https://github.com/BEComTweaks/btrp-updater) - Update previously made Bedrock Tweaks resource packs with this tool! (1 week ago)
-- [NSPC911/textual-trials](https://github.com/NSPC911/textual-trials) - A lot of trial and error scripts (1 week ago)
 
 #### 🔨 My recent Pull Requests!
 
-- [fix(shell): use separate bg implementation instead of orphans](https://github.com/NSPC911/rovr/pull/295) on [NSPC911/rovr](https://github.com/NSPC911/rovr) (1 day ago)
-- [merge from master](https://github.com/nik-contrib/helix/pull/2) on [nik-contrib/helix](https://github.com/nik-contrib/helix) (2 days ago)
-- [feat: add libuv as optional runtime](https://github.com/NSPC911/rovr/pull/294) on [NSPC911/rovr](https://github.com/NSPC911/rovr) (2 days ago)
+- [feat(contextmenu)!: dont use stupid strings](https://github.com/NSPC911/rovr/pull/296) on [NSPC911/rovr](https://github.com/NSPC911/rovr) (1 day ago)
+- [fix: warp mouse when switching between recent windows](https://github.com/niri-wm/niri/pull/4144) on [niri-wm/niri](https://github.com/niri-wm/niri) (1 day ago)
+- [fix(shell): use separate bg implementation instead of orphans](https://github.com/NSPC911/rovr/pull/295) on [NSPC911/rovr](https://github.com/NSPC911/rovr) (2 days ago)
 
 #### 🖥 I'm available here!
 
