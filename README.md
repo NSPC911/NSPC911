@@ -2,17 +2,17 @@
 
 #### 👷 Check out my recent contributions!
 
-- [NSPC911/rovr](https://github.com/NSPC911/rovr) - a stylish, batteries-included terminal file manager. (1 day ago)
-- [niri-wm/niri](https://github.com/niri-wm/niri) - A scrollable-tiling Wayland compositor. (2 days ago)
-- [NSPC911/textual-trials](https://github.com/NSPC911/textual-trials) - A lot of trial and error scripts (2 days ago)
-- [NSPC911/textual-drivers](https://github.com/NSPC911/textual-drivers) - a drop in, feature-rich version of textual&#39;s drivers (3 days ago)
-- [NSPC911/themes](https://github.com/NSPC911/themes) - Repository of the themes I use and have modified (4 days ago)
+- [NSPC911/rovr](https://github.com/NSPC911/rovr) - a stylish, batteries-included terminal file manager. (today)
+- [niri-wm/niri](https://github.com/niri-wm/niri) - A scrollable-tiling Wayland compositor. (3 days ago)
+- [NSPC911/textual-trials](https://github.com/NSPC911/textual-trials) - A lot of trial and error scripts (3 days ago)
+- [NSPC911/textual-drivers](https://github.com/NSPC911/textual-drivers) - a drop in, feature-rich version of textual&#39;s drivers (4 days ago)
+- [NSPC911/themes](https://github.com/NSPC911/themes) - Repository of the themes I use and have modified (5 days ago)
 
 #### 🔨 My recent Pull Requests!
 
-- [feat(contextmenu)!: dont use stupid strings](https://github.com/NSPC911/rovr/pull/296) on [NSPC911/rovr](https://github.com/NSPC911/rovr) (2 days ago)
-- [fix: warp mouse when switching between recent windows](https://github.com/niri-wm/niri/pull/4144) on [niri-wm/niri](https://github.com/niri-wm/niri) (2 days ago)
-- [fix(shell): use separate bg implementation instead of orphans](https://github.com/NSPC911/rovr/pull/295) on [NSPC911/rovr](https://github.com/NSPC911/rovr) (3 days ago)
+- [feat(contextmenu)!: dont use stupid strings](https://github.com/NSPC911/rovr/pull/296) on [NSPC911/rovr](https://github.com/NSPC911/rovr) (3 days ago)
+- [fix: warp mouse when switching between recent windows](https://github.com/niri-wm/niri/pull/4144) on [niri-wm/niri](https://github.com/niri-wm/niri) (3 days ago)
+- [fix(shell): use separate bg implementation instead of orphans](https://github.com/NSPC911/rovr/pull/295) on [NSPC911/rovr](https://github.com/NSPC911/rovr) (4 days ago)
 
 #### 🖥 I'm available here!
 
