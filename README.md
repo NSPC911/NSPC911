@@ -3,16 +3,16 @@
 #### 👷 Check out my recent contributions!
 
 - [NSPC911/rovr](https://github.com/NSPC911/rovr) - a stylish, batteries-included terminal file manager. (today)
-- [NSPC911/dotfiles](https://github.com/NSPC911/dotfiles) - My extensive Windows 11 configuration. (1 day ago)
-- [NSPC911/textual-drivers](https://github.com/NSPC911/textual-drivers) - a drop in, feature-rich version of textual&#39;s drivers (1 day ago)
-- [NSPC911/textual-trials](https://github.com/NSPC911/textual-trials) - A lot of trial and error scripts (5 days ago)
-- [niri-wm/niri](https://github.com/niri-wm/niri) - A scrollable-tiling Wayland compositor. (5 days ago)
+- [NSPC911/dotfiles](https://github.com/NSPC911/dotfiles) - My extensive Windows 11 configuration. (2 days ago)
+- [NSPC911/textual-drivers](https://github.com/NSPC911/textual-drivers) - a drop in, feature-rich version of textual&#39;s drivers (2 days ago)
+- [NSPC911/textual-trials](https://github.com/NSPC911/textual-trials) - A lot of trial and error scripts (6 days ago)
+- [niri-wm/niri](https://github.com/niri-wm/niri) - A scrollable-tiling Wayland compositor. (6 days ago)
 
 #### 🔨 My recent Pull Requests!
 
-- [feat(contextmenu)!: dont use stupid strings](https://github.com/NSPC911/rovr/pull/296) on [NSPC911/rovr](https://github.com/NSPC911/rovr) (5 days ago)
-- [fix: warp mouse when switching between recent windows](https://github.com/niri-wm/niri/pull/4144) on [niri-wm/niri](https://github.com/niri-wm/niri) (5 days ago)
-- [fix(shell): use separate bg implementation instead of orphans](https://github.com/NSPC911/rovr/pull/295) on [NSPC911/rovr](https://github.com/NSPC911/rovr) (6 days ago)
+- [feat(contextmenu)!: dont use stupid strings](https://github.com/NSPC911/rovr/pull/296) on [NSPC911/rovr](https://github.com/NSPC911/rovr) (6 days ago)
+- [fix: warp mouse when switching between recent windows](https://github.com/niri-wm/niri/pull/4144) on [niri-wm/niri](https://github.com/niri-wm/niri) (6 days ago)
+- [fix(shell): use separate bg implementation instead of orphans](https://github.com/NSPC911/rovr/pull/295) on [NSPC911/rovr](https://github.com/NSPC911/rovr) (1 week ago)
 
 #### 🖥 I'm available here!
 
