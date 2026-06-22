@@ -2,17 +2,17 @@
 
 #### 👷 Check out my recent contributions!
 
-- [NSPC911/textual-drivers](https://github.com/NSPC911/textual-drivers) - a drop in, feature-rich version of textual&#39;s drivers (1 day ago)
 - [NSPC911/rovr](https://github.com/NSPC911/rovr) - a stylish, batteries-included terminal file manager. (1 day ago)
+- [NSPC911/textual-drivers](https://github.com/NSPC911/textual-drivers) - a drop in, feature-rich version of textual&#39;s drivers (2 days ago)
 - [NSPC911/themes](https://github.com/NSPC911/themes) - Repository of the themes I use and have modified (1 week ago)
 - [NSPC911/textual-trials](https://github.com/NSPC911/textual-trials) - A lot of trial and error scripts (1 week ago)
-- [NSPC911/dotfiles](https://github.com/NSPC911/dotfiles) - My extensive Windows 11 configuration. (1 week ago)
+- [NSPC911/dotfiles](https://github.com/NSPC911/dotfiles) - My extensive Windows 11 configuration. (2 weeks ago)
 
 #### 🔨 My recent Pull Requests!
 
-- [feat: add `prepend_` and `append_` support for config](https://github.com/NSPC911/rovr/pull/298) on [NSPC911/rovr](https://github.com/NSPC911/rovr) (2 days ago)
+- [feat: allow command to be definted with list](https://github.com/NSPC911/rovr/pull/299) on [NSPC911/rovr](https://github.com/NSPC911/rovr) (1 day ago)
+- [feat: add `prepend_` and `append_` support for config](https://github.com/NSPC911/rovr/pull/298) on [NSPC911/rovr](https://github.com/NSPC911/rovr) (3 days ago)
 - [feat: allow configuring center area](https://github.com/niri-wm/niri/pull/4174) on [niri-wm/niri](https://github.com/niri-wm/niri) (1 week ago)
-- [feat(contextmenu)!: dont use stupid strings](https://github.com/NSPC911/rovr/pull/296) on [NSPC911/rovr](https://github.com/NSPC911/rovr) (2 weeks ago)
 
 #### 🖥 I'm available here!
 
