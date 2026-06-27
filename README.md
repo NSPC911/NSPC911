@@ -2,17 +2,17 @@
 
 #### 👷 Check out my recent contributions!
 
-- [NSPC911/rovr](https://github.com/NSPC911/rovr) - a stylish, batteries-included terminal file manager. (2 days ago)
-- [NSPC911/textual-drivers](https://github.com/NSPC911/textual-drivers) - a drop in, feature-rich version of textual&#39;s drivers (6 days ago)
-- [NSPC911/themes](https://github.com/NSPC911/themes) - Repository of the themes I use and have modified (1 week ago)
-- [NSPC911/textual-trials](https://github.com/NSPC911/textual-trials) - A lot of trial and error scripts (2 weeks ago)
+- [NSPC911/textual-drivers](https://github.com/NSPC911/textual-drivers) - a drop in, feature-rich version of textual&#39;s drivers (today)
+- [NSPC911/rovr](https://github.com/NSPC911/rovr) - a stylish, batteries-included terminal file manager. (today)
+- [NSPC911/textual-trials](https://github.com/NSPC911/textual-trials) - A lot of trial and error scripts (1 day ago)
+- [NSPC911/themes](https://github.com/NSPC911/themes) - Repository of the themes I use and have modified (2 weeks ago)
 - [NSPC911/dotfiles](https://github.com/NSPC911/dotfiles) - My extensive Windows 11 configuration. (2 weeks ago)
 
 #### 🔨 My recent Pull Requests!
 
-- [feat: allow command to be definted with list](https://github.com/NSPC911/rovr/pull/299) on [NSPC911/rovr](https://github.com/NSPC911/rovr) (5 days ago)
+- [fix: refresh hover styles only when necessary](https://github.com/Textualize/textual/pull/6603) on [Textualize/textual](https://github.com/Textualize/textual) (1 day ago)
+- [feat: allow command to be definted with list](https://github.com/NSPC911/rovr/pull/299) on [NSPC911/rovr](https://github.com/NSPC911/rovr) (6 days ago)
 - [feat: add `prepend_` and `append_` support for config](https://github.com/NSPC911/rovr/pull/298) on [NSPC911/rovr](https://github.com/NSPC911/rovr) (1 week ago)
-- [feat: allow configuring center area](https://github.com/niri-wm/niri/pull/4174) on [niri-wm/niri](https://github.com/niri-wm/niri) (2 weeks ago)
 
 #### 🖥 I'm available here!
 
