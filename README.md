@@ -2,16 +2,16 @@
 
 #### 👷 Check out my recent contributions!
 
-- [NSPC911/textual-drivers](https://github.com/NSPC911/textual-drivers) - a drop in, feature-rich version of textual&#39;s drivers (today)
-- [NSPC911/rovr](https://github.com/NSPC911/rovr) - a stylish, batteries-included terminal file manager. (today)
-- [NSPC911/textual-trials](https://github.com/NSPC911/textual-trials) - A lot of trial and error scripts (2 days ago)
-- [NSPC911/themes](https://github.com/NSPC911/themes) - Repository of the themes I use and have modified (2 weeks ago)
-- [NSPC911/dotfiles](https://github.com/NSPC911/dotfiles) - My extensive Windows 11 configuration. (2 weeks ago)
+- [NSPC911/le-bucket](https://github.com/NSPC911/le-bucket) - A bunch of scoop apps that I thought to add but dunno which bucket to add (today)
+- [NSPC911/dotfiles](https://github.com/NSPC911/dotfiles) - My extensive Windows 11 configuration. (1 day ago)
+- [NSPC911/textual-drivers](https://github.com/NSPC911/textual-drivers) - a drop in, feature-rich version of textual&#39;s drivers (1 day ago)
+- [NSPC911/rovr](https://github.com/NSPC911/rovr) - a stylish, batteries-included terminal file manager. (1 day ago)
+- [NSPC911/textual-trials](https://github.com/NSPC911/textual-trials) - A lot of trial and error scripts (3 days ago)
 
 #### 🔨 My recent Pull Requests!
 
-- [feat(app): add drag and drop support](https://github.com/NSPC911/rovr/pull/300) on [NSPC911/rovr](https://github.com/NSPC911/rovr) (1 day ago)
-- [fix: refresh hover styles only when necessary](https://github.com/Textualize/textual/pull/6603) on [Textualize/textual](https://github.com/Textualize/textual) (2 days ago)
+- [feat(app): add drag and drop support](https://github.com/NSPC911/rovr/pull/300) on [NSPC911/rovr](https://github.com/NSPC911/rovr) (2 days ago)
+- [fix: refresh hover styles only when necessary](https://github.com/Textualize/textual/pull/6603) on [Textualize/textual](https://github.com/Textualize/textual) (3 days ago)
 - [feat: allow command to be definted with list](https://github.com/NSPC911/rovr/pull/299) on [NSPC911/rovr](https://github.com/NSPC911/rovr) (1 week ago)
 
 #### 🖥 I'm available here!
