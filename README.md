@@ -3,10 +3,10 @@
 #### 👷 Check out my recent contributions!
 
 - [NSPC911/rovr](https://github.com/NSPC911/rovr) - a stylish, batteries-included terminal file manager. (today)
-- [NSPC911/multiarchive](https://github.com/NSPC911/multiarchive) - A high level implementation to open any archive files. (3 days ago)
-- [NSPC911/dotfiles](https://github.com/NSPC911/dotfiles) - My extensive Windows 11 configuration. (3 days ago)
-- [BEComTweaks/resource-packs](https://github.com/BEComTweaks/resource-packs) - A repo containing every single resource pack ported from vanillatweaks.net (3 days ago)
-- [NSPC911/textual-drivers](https://github.com/NSPC911/textual-drivers) - a drop in, feature-rich version of textual&#39;s drivers (4 days ago)
+- [NSPC911/textual-drivers](https://github.com/NSPC911/textual-drivers) - a drop in, feature-rich version of textual&#39;s drivers (1 day ago)
+- [BEComTweaks/resource-packs](https://github.com/BEComTweaks/resource-packs) - A repo containing every single resource pack ported from vanillatweaks.net (4 days ago)
+- [NSPC911/dotfiles](https://github.com/NSPC911/dotfiles) - My extensive Windows 11 configuration. (4 days ago)
+- [NSPC911/multiarchive](https://github.com/NSPC911/multiarchive) - A high level implementation to open any archive files. (4 days ago)
 
 #### 🔨 My recent Pull Requests!
 
