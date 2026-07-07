@@ -3,16 +3,16 @@
 #### 👷 Check out my recent contributions!
 
 - [NSPC911/rovr](https://github.com/NSPC911/rovr) - a stylish, batteries-included terminal file manager. (today)
-- [NSPC911/textual-drivers](https://github.com/NSPC911/textual-drivers) - a drop in, feature-rich version of textual&#39;s drivers (1 day ago)
-- [BEComTweaks/resource-packs](https://github.com/BEComTweaks/resource-packs) - A repo containing every single resource pack ported from vanillatweaks.net (4 days ago)
-- [NSPC911/dotfiles](https://github.com/NSPC911/dotfiles) - My extensive Windows 11 configuration. (4 days ago)
-- [NSPC911/multiarchive](https://github.com/NSPC911/multiarchive) - A high level implementation to open any archive files. (4 days ago)
+- [BEComTweaks/server-backend](https://github.com/BEComTweaks/server-backend) - A repo containing the server for becomtweaks.github.io (1 day ago)
+- [NSPC911/textual-drivers](https://github.com/NSPC911/textual-drivers) - a drop in, feature-rich version of textual&#39;s drivers (2 days ago)
+- [NSPC911/multiarchive](https://github.com/NSPC911/multiarchive) - A high level implementation to open any archive files. (5 days ago)
+- [BEComTweaks/resource-packs](https://github.com/BEComTweaks/resource-packs) - A repo containing every single resource pack ported from vanillatweaks.net (5 days ago)
 
 #### 🔨 My recent Pull Requests!
 
+- [refactor(openers)!: implement grouping mechanism](https://github.com/NSPC911/rovr/pull/302) on [NSPC911/rovr](https://github.com/NSPC911/rovr) (1 day ago)
+- [feat: detail columns in file list](https://github.com/NSPC911/rovr/pull/301) on [NSPC911/rovr](https://github.com/NSPC911/rovr) (1 day ago)
 - [feat(app): add drag and drop support](https://github.com/NSPC911/rovr/pull/300) on [NSPC911/rovr](https://github.com/NSPC911/rovr) (1 week ago)
-- [fix: refresh hover styles only when necessary](https://github.com/Textualize/textual/pull/6603) on [Textualize/textual](https://github.com/Textualize/textual) (1 week ago)
-- [feat: allow command to be definted with list](https://github.com/NSPC911/rovr/pull/299) on [NSPC911/rovr](https://github.com/NSPC911/rovr) (2 weeks ago)
 
 #### 🖥 I'm available here!
 
