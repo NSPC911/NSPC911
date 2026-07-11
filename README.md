@@ -2,17 +2,17 @@
 
 #### 👷 Check out my recent contributions!
 
-- [NSPC911/somnum](https://github.com/NSPC911/somnum) - numbers are variables. (1 day ago)
 - [NSPC911/rovr](https://github.com/NSPC911/rovr) - a stylish, batteries-included terminal file manager. (1 day ago)
-- [BEComTweaks/server-backend](https://github.com/BEComTweaks/server-backend) - A repo containing the server for becomtweaks.github.io (4 days ago)
-- [NSPC911/textual-drivers](https://github.com/NSPC911/textual-drivers) - a drop in, feature-rich version of textual&#39;s drivers (5 days ago)
+- [NSPC911/textual-drivers](https://github.com/NSPC911/textual-drivers) - a drop in, feature-rich version of textual&#39;s drivers (1 day ago)
+- [NSPC911/somnum](https://github.com/NSPC911/somnum) - numbers are variables. (2 days ago)
+- [BEComTweaks/server-backend](https://github.com/BEComTweaks/server-backend) - A repo containing the server for becomtweaks.github.io (5 days ago)
 - [NSPC911/dotfiles](https://github.com/NSPC911/dotfiles) - My extensive Windows 11 configuration. (1 week ago)
 
 #### 🔨 My recent Pull Requests!
 
-- [refactor(openers)!: implement grouping mechanism](https://github.com/NSPC911/rovr/pull/302) on [NSPC911/rovr](https://github.com/NSPC911/rovr) (4 days ago)
-- [feat: detail columns in file list](https://github.com/NSPC911/rovr/pull/301) on [NSPC911/rovr](https://github.com/NSPC911/rovr) (4 days ago)
-- [feat(app): add drag and drop support](https://github.com/NSPC911/rovr/pull/300) on [NSPC911/rovr](https://github.com/NSPC911/rovr) (1 week ago)
+- [refactor(openers)!: implement grouping mechanism](https://github.com/NSPC911/rovr/pull/302) on [NSPC911/rovr](https://github.com/NSPC911/rovr) (5 days ago)
+- [feat: detail columns in file list](https://github.com/NSPC911/rovr/pull/301) on [NSPC911/rovr](https://github.com/NSPC911/rovr) (5 days ago)
+- [feat(app): add drag and drop support](https://github.com/NSPC911/rovr/pull/300) on [NSPC911/rovr](https://github.com/NSPC911/rovr) (2 weeks ago)
 
 #### 🖥 I'm available here!
 
