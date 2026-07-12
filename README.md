@@ -2,16 +2,16 @@
 
 #### 👷 Check out my recent contributions!
 
-- [NSPC911/trashy](https://github.com/NSPC911/trashy) - high level api for recycling (1 day ago)
+- [NSPC911/textual-trials](https://github.com/NSPC911/textual-trials) - A lot of trial and error scripts (1 day ago)
+- [NSPC911/pytrash](https://github.com/NSPC911/pytrash) - high level api for recycling (1 day ago)
 - [NSPC911/rovr](https://github.com/NSPC911/rovr) - a stylish, batteries-included terminal file manager. (1 day ago)
-- [NSPC911/textual-drivers](https://github.com/NSPC911/textual-drivers) - a drop in, feature-rich version of textual&#39;s drivers (1 day ago)
-- [NSPC911/somnum](https://github.com/NSPC911/somnum) - numbers are variables. (2 days ago)
-- [BEComTweaks/server-backend](https://github.com/BEComTweaks/server-backend) - A repo containing the server for becomtweaks.github.io (5 days ago)
+- [NSPC911/textual-drivers](https://github.com/NSPC911/textual-drivers) - a drop in, feature-rich version of textual&#39;s drivers (2 days ago)
+- [NSPC911/somnum](https://github.com/NSPC911/somnum) - numbers are variables. (3 days ago)
 
 #### 🔨 My recent Pull Requests!
 
-- [refactor(openers)!: implement grouping mechanism](https://github.com/NSPC911/rovr/pull/302) on [NSPC911/rovr](https://github.com/NSPC911/rovr) (5 days ago)
-- [feat: detail columns in file list](https://github.com/NSPC911/rovr/pull/301) on [NSPC911/rovr](https://github.com/NSPC911/rovr) (5 days ago)
+- [refactor(openers)!: implement grouping mechanism](https://github.com/NSPC911/rovr/pull/302) on [NSPC911/rovr](https://github.com/NSPC911/rovr) (6 days ago)
+- [feat: detail columns in file list](https://github.com/NSPC911/rovr/pull/301) on [NSPC911/rovr](https://github.com/NSPC911/rovr) (6 days ago)
 - [feat(app): add drag and drop support](https://github.com/NSPC911/rovr/pull/300) on [NSPC911/rovr](https://github.com/NSPC911/rovr) (2 weeks ago)
 
 #### 🖥 I'm available here!
