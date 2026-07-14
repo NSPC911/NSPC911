@@ -2,16 +2,16 @@
 
 #### 👷 Check out my recent contributions!
 
-- [NSPC911/somnum](https://github.com/NSPC911/somnum) - numbers are variables. (1 day ago)
-- [NSPC911/nspc911.github.io](https://github.com/NSPC911/nspc911.github.io) - woah cool site (1 day ago)
-- [NSPC911/pytrash](https://github.com/NSPC911/pytrash) - high level api for recycling (2 days ago)
-- [NSPC911/rovr](https://github.com/NSPC911/rovr) - a stylish, batteries-included terminal file manager. (2 days ago)
-- [NSPC911/textual-trials](https://github.com/NSPC911/textual-trials) - A lot of trial and error scripts (2 days ago)
+- [NSPC911/pytrash](https://github.com/NSPC911/pytrash) - high level api for recycling (1 day ago)
+- [NSPC911/rovr](https://github.com/NSPC911/rovr) - a stylish, batteries-included terminal file manager. (1 day ago)
+- [NSPC911/textual-drivers](https://github.com/NSPC911/textual-drivers) - a drop in, feature-rich version of textual&#39;s drivers (1 day ago)
+- [NSPC911/themes](https://github.com/NSPC911/themes) - Repository of the themes I use and have modified (1 day ago)
+- [NSPC911/nspc911.github.io](https://github.com/NSPC911/nspc911.github.io) - woah cool site (2 days ago)
 
 #### 🔨 My recent Pull Requests!
 
-- [feat: remove psutil](https://github.com/NSPC911/rovr/pull/305) on [NSPC911/rovr](https://github.com/NSPC911/rovr) (today)
-- [feat: add trash bin support](https://github.com/NSPC911/rovr/pull/304) on [NSPC911/rovr](https://github.com/NSPC911/rovr) (today)
+- [feat: remove psutil](https://github.com/NSPC911/rovr/pull/305) on [NSPC911/rovr](https://github.com/NSPC911/rovr) (1 day ago)
+- [feat: add trash bin support](https://github.com/NSPC911/rovr/pull/304) on [NSPC911/rovr](https://github.com/NSPC911/rovr) (1 day ago)
 - [refactor(openers)!: implement grouping mechanism](https://github.com/NSPC911/rovr/pull/302) on [NSPC911/rovr](https://github.com/NSPC911/rovr) (1 week ago)
 
 #### 🖥 I'm available here!
