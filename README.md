@@ -2,17 +2,17 @@
 
 #### 👷 Check out my recent contributions!
 
-- [NSPC911/pytrash](https://github.com/NSPC911/pytrash) - high level api for recycling (2 days ago)
-- [NSPC911/rovr](https://github.com/NSPC911/rovr) - a stylish, batteries-included terminal file manager. (2 days ago)
-- [NSPC911/textual-drivers](https://github.com/NSPC911/textual-drivers) - a drop in, feature-rich version of textual&#39;s drivers (4 days ago)
-- [NSPC911/themes](https://github.com/NSPC911/themes) - Repository of the themes I use and have modified (4 days ago)
-- [NSPC911/nspc911.github.io](https://github.com/NSPC911/nspc911.github.io) - woah cool site (5 days ago)
+- [NSPC911/rovr](https://github.com/NSPC911/rovr) - a stylish, batteries-included terminal file manager. (1 day ago)
+- [NSPC911/pytrash](https://github.com/NSPC911/pytrash) - high level api for recycling (3 days ago)
+- [NSPC911/textual-drivers](https://github.com/NSPC911/textual-drivers) - a drop in, feature-rich version of textual&#39;s drivers (5 days ago)
+- [NSPC911/themes](https://github.com/NSPC911/themes) - Repository of the themes I use and have modified (5 days ago)
+- [NSPC911/nspc911.github.io](https://github.com/NSPC911/nspc911.github.io) - woah cool site (6 days ago)
 
 #### 🔨 My recent Pull Requests!
 
-- [feat: remove psutil](https://github.com/NSPC911/rovr/pull/305) on [NSPC911/rovr](https://github.com/NSPC911/rovr) (4 days ago)
-- [feat: add trash bin support](https://github.com/NSPC911/rovr/pull/304) on [NSPC911/rovr](https://github.com/NSPC911/rovr) (4 days ago)
-- [refactor(openers)!: implement grouping mechanism](https://github.com/NSPC911/rovr/pull/302) on [NSPC911/rovr](https://github.com/NSPC911/rovr) (1 week ago)
+- [perf(filelist)?: evict history after a given limit](https://github.com/NSPC911/rovr/pull/306) on [NSPC911/rovr](https://github.com/NSPC911/rovr) (1 day ago)
+- [feat: remove psutil](https://github.com/NSPC911/rovr/pull/305) on [NSPC911/rovr](https://github.com/NSPC911/rovr) (5 days ago)
+- [feat: add trash bin support](https://github.com/NSPC911/rovr/pull/304) on [NSPC911/rovr](https://github.com/NSPC911/rovr) (5 days ago)
 
 #### 🖥 I'm available here!
 
