@@ -3,16 +3,16 @@
 #### 👷 Check out my recent contributions!
 
 - [NSPC911/rovr](https://github.com/NSPC911/rovr) - a stylish, batteries-included terminal file manager. (1 day ago)
-- [NSPC911/pytrash](https://github.com/NSPC911/pytrash) - high level api for recycling (1 day ago)
+- [NSPC911/pytrash](https://github.com/NSPC911/pytrash) - high level api for recycling (2 days ago)
 - [NSPC911/textual-drivers](https://github.com/NSPC911/textual-drivers) - a drop in, feature-rich version of textual&#39;s drivers (1 week ago)
 - [NSPC911/themes](https://github.com/NSPC911/themes) - Repository of the themes I use and have modified (1 week ago)
-- [NSPC911/nspc911.github.io](https://github.com/NSPC911/nspc911.github.io) - woah cool site (1 week ago)
+- [NSPC911/somnum](https://github.com/NSPC911/somnum) - numbers are variables. (1 week ago)
 
 #### 🔨 My recent Pull Requests!
 
-- [perf(filelist)?: evict history after a given limit](https://github.com/NSPC911/rovr/pull/306) on [NSPC911/rovr](https://github.com/NSPC911/rovr) (3 days ago)
+- [feat!: better themes handler](https://github.com/NSPC911/rovr/pull/308) on [NSPC911/rovr](https://github.com/NSPC911/rovr) (1 day ago)
+- [perf(filelist)?: evict history after a given limit](https://github.com/NSPC911/rovr/pull/306) on [NSPC911/rovr](https://github.com/NSPC911/rovr) (4 days ago)
 - [feat: remove psutil](https://github.com/NSPC911/rovr/pull/305) on [NSPC911/rovr](https://github.com/NSPC911/rovr) (1 week ago)
-- [feat: add trash bin support](https://github.com/NSPC911/rovr/pull/304) on [NSPC911/rovr](https://github.com/NSPC911/rovr) (1 week ago)
 
 #### 🖥 I'm available here!
 
