@@ -1,16 +1,20 @@
-👋 Hi, I’m NSPG911!
+Hi, I’m NSPG911!
 
-#### 👷 Check out my recent contributions!
+I'm a 18 year old student studying in Singapore.
+
+I am proficient in Python, HTML, CSS and JS
+
+#### My recently committed repositories!
 {{range recentContributions 5}}
 - [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .OccurredAt}})
 {{- end}}
 
-#### 🔨 My recent Pull Requests!
+#### My recent Pull Requests!
 {{range recentPullRequests 3}}
 - [{{.Title}}]({{.URL}}) on [{{.Repo.Name}}]({{.Repo.URL}}) ({{humanize .CreatedAt}})
 {{- end}}
 
-#### 🖥 I'm available here!
+#### You can find me in these places!
 
 <div align="center">
   <a href="https://youtube.com/@nspg911" alt="YouTube" title="YouTube">
@@ -30,7 +34,7 @@
   </a>
 </div>
 
-### 📊 Stats about my account!
+### Mildly useful stats about my account
 <div align="center">
   <img height="50%" width="auto" src="profile/stats.svg">
   <br>
