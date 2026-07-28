@@ -7,14 +7,14 @@ I am proficient in Python, HTML, CSS and JS
 #### My recently committed repositories!
 
 - [NSPC911/rovr](https://github.com/NSPC911/rovr) - a stylish, batteries-included terminal file manager. (1 day ago)
-- [NSPC911/pytrash](https://github.com/NSPC911/pytrash) - high level api for recycling (2 days ago)
-- [BEComTweaks/resource-packs](https://github.com/BEComTweaks/resource-packs) - A repo containing every single resource pack ported from vanillatweaks.net (3 days ago)
+- [NSPC911/pytrash](https://github.com/NSPC911/pytrash) - high level api for recycling (3 days ago)
+- [BEComTweaks/resource-packs](https://github.com/BEComTweaks/resource-packs) - A repo containing every single resource pack ported from vanillatweaks.net (4 days ago)
 - [NSPC911/themes](https://github.com/NSPC911/themes) - Repository of the themes I use and have modified (2 weeks ago)
 - [NSPC911/textual-drivers](https://github.com/NSPC911/textual-drivers) - a drop in, feature-rich version of textual&#39;s drivers (2 weeks ago)
 
 #### My recent Pull Requests!
 
-- [feat: add copr installation](https://github.com/NSPC911/rovr/pull/309) on [NSPC911/rovr](https://github.com/NSPC911/rovr) (1 day ago)
+- [feat: add copr installation](https://github.com/NSPC911/rovr/pull/309) on [NSPC911/rovr](https://github.com/NSPC911/rovr) (2 days ago)
 - [feat!: better themes handler](https://github.com/NSPC911/rovr/pull/308) on [NSPC911/rovr](https://github.com/NSPC911/rovr) (1 week ago)
 - [perf(filelist)?: evict history after a given limit](https://github.com/NSPC911/rovr/pull/306) on [NSPC911/rovr](https://github.com/NSPC911/rovr) (1 week ago)
 
