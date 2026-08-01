@@ -6,17 +6,17 @@ I am proficient in Python, HTML, CSS and JS
 
 #### My recently committed repositories!
 
-- [NSPC911/nspc911.github.io](https://github.com/NSPC911/nspc911.github.io) - woah cool site (1 day ago)
+- [NSPC911/dotfiles](https://github.com/NSPC911/dotfiles) - My extensive Windows 11 configuration. (1 day ago)
 - [NSPC911/rovr](https://github.com/NSPC911/rovr) - a stylish, batteries-included terminal file manager. (1 day ago)
-- [NSPC911/pytrash](https://github.com/NSPC911/pytrash) - high level api for recycling (6 days ago)
+- [NSPC911/nspc911.github.io](https://github.com/NSPC911/nspc911.github.io) - woah cool site (2 days ago)
+- [NSPC911/pytrash](https://github.com/NSPC911/pytrash) - high level api for recycling (1 week ago)
 - [BEComTweaks/resource-packs](https://github.com/BEComTweaks/resource-packs) - A repo containing every single resource pack ported from vanillatweaks.net (1 week ago)
-- [NSPC911/dotfiles](https://github.com/NSPC911/dotfiles) - My extensive Windows 11 configuration. (2 weeks ago)
 
 #### My recent Pull Requests!
 
-- [fix: prevent `Process`-es from importing from cwd](https://github.com/NSPC911/rovr/pull/313) on [NSPC911/rovr](https://github.com/NSPC911/rovr) (2 days ago)
-- [refactor: use asyncio&#39;s shell as far as possible](https://github.com/NSPC911/rovr/pull/312) on [NSPC911/rovr](https://github.com/NSPC911/rovr) (2 days ago)
-- [feat: add transparent halfcell](https://github.com/NSPC911/rovr/pull/311) on [NSPC911/rovr](https://github.com/NSPC911/rovr) (3 days ago)
+- [fix: prevent `Process`-es from importing from cwd](https://github.com/NSPC911/rovr/pull/313) on [NSPC911/rovr](https://github.com/NSPC911/rovr) (3 days ago)
+- [refactor: use asyncio&#39;s shell as far as possible](https://github.com/NSPC911/rovr/pull/312) on [NSPC911/rovr](https://github.com/NSPC911/rovr) (3 days ago)
+- [feat: add transparent halfcell](https://github.com/NSPC911/rovr/pull/311) on [NSPC911/rovr](https://github.com/NSPC911/rovr) (4 days ago)
 
 #### You can find me in these places!
 
