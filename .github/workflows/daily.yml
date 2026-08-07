@@ -24,8 +24,16 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: stats
-          options: username=NSPC911&show_icons=true&count_private=true&theme=neon&hide_border=true&hide=prs&show=prs_merged&bg_color=00000000
+          options: username=NSPC911&show_icons=true&include_all_commits=true&theme=nord
           path: profile/stats.svg
+          token: ${{ secrets.PERSONAL_GITHUB_TOKEN }}
+
+      - name: Generate wakatime card
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: wakatime
+          options: username=920196c3-0c98-4596-9981-f28a594ff484&layout=compact&custom_title=Languages%20used%20in%20the%20last%207%20days&langs_count=6&theme=nord
+          path: profile/wakatime.svg
           token: ${{ secrets.PERSONAL_GITHUB_TOKEN }}
 
       - name: Commit and push changes
