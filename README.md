@@ -7,16 +7,16 @@ I am proficient in Python, HTML, CSS and JS
 #### My recently committed repositories!
 
 - [NSPC911/rovr](https://github.com/NSPC911/rovr) - a stylish, batteries-included terminal file manager. (1 day ago)
-- [NSPC911/nspc911.github.io](https://github.com/NSPC911/nspc911.github.io) - woah cool site (3 days ago)
-- [NSPC911/vencord-themes](https://github.com/NSPC911/vencord-themes) - repository of vencord themes i use and have modified (3 days ago)
-- [NSPC911/textual-drivers](https://github.com/NSPC911/textual-drivers) - a drop in, feature-rich version of textual&#39;s drivers (3 days ago)
+- [NSPC911/textual-drivers](https://github.com/NSPC911/textual-drivers) - a drop in, feature-rich version of textual&#39;s drivers (1 day ago)
+- [NSPC911/nspc911.github.io](https://github.com/NSPC911/nspc911.github.io) - woah cool site (4 days ago)
+- [NSPC911/vencord-themes](https://github.com/NSPC911/vencord-themes) - repository of vencord themes i use and have modified (4 days ago)
 - [NSPC911/le-bucket](https://github.com/NSPC911/le-bucket) - A bunch of scoop apps that I thought to add but dunno which bucket to add (1 week ago)
 
 #### My recent Pull Requests!
 
-- [fix(app): allow variable substitution for gradients](https://github.com/NSPC911/rovr/pull/319) on [NSPC911/rovr](https://github.com/NSPC911/rovr) (3 days ago)
-- [fix(app): follow a better variable resolution order](https://github.com/NSPC911/rovr/pull/318) on [NSPC911/rovr](https://github.com/NSPC911/rovr) (3 days ago)
-- [feat: allow multiple paths in cli](https://github.com/NSPC911/rovr/pull/317) on [NSPC911/rovr](https://github.com/NSPC911/rovr) (6 days ago)
+- [feat: make drop more interactive](https://github.com/NSPC911/rovr/pull/327) on [NSPC911/rovr](https://github.com/NSPC911/rovr) (1 day ago)
+- [feat: update to textual-drivers v0.8](https://github.com/NSPC911/rovr/pull/326) on [NSPC911/rovr](https://github.com/NSPC911/rovr) (1 day ago)
+- [feat: keep a virtual path of current directory](https://github.com/NSPC911/rovr/pull/325) on [NSPC911/rovr](https://github.com/NSPC911/rovr) (1 day ago)
 
 #### You can find me in these places!
 
