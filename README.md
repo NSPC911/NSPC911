@@ -6,17 +6,17 @@ I am proficient in Python, HTML, CSS and JS
 
 #### My recently committed repositories!
 
-- [NSPC911/dotfiles](https://github.com/NSPC911/dotfiles) - My extensive Windows 11 configuration. (today)
 - [NSPC911/rovr](https://github.com/NSPC911/rovr) - a stylish, batteries-included terminal file manager. (1 day ago)
+- [NSPC911/dotfiles](https://github.com/NSPC911/dotfiles) - My extensive Windows 11 configuration. (1 day ago)
 - [NSPC911/textual-drivers](https://github.com/NSPC911/textual-drivers) - a drop in, feature-rich version of textual&#39;s drivers (1 day ago)
-- [NSPC911/vencord-themes](https://github.com/NSPC911/vencord-themes) - repository of vencord themes i use and have modified (6 days ago)
-- [NSPC911/nspc911.github.io](https://github.com/NSPC911/nspc911.github.io) - woah cool site (6 days ago)
+- [NSPC911/textual-trials](https://github.com/NSPC911/textual-trials) - A lot of trial and error scripts (1 day ago)
+- [NSPC911/vencord-themes](https://github.com/NSPC911/vencord-themes) - repository of vencord themes i use and have modified (1 week ago)
 
 #### My recent Pull Requests!
 
-- [feat: make drop more interactive](https://github.com/NSPC911/rovr/pull/327) on [NSPC911/rovr](https://github.com/NSPC911/rovr) (3 days ago)
-- [feat: use images in drag and drop](https://github.com/NSPC911/rovr/pull/326) on [NSPC911/rovr](https://github.com/NSPC911/rovr) (3 days ago)
-- [feat: keep a virtual path of current directory](https://github.com/NSPC911/rovr/pull/325) on [NSPC911/rovr](https://github.com/NSPC911/rovr) (3 days ago)
+- [feat: make drop more interactive](https://github.com/NSPC911/rovr/pull/327) on [NSPC911/rovr](https://github.com/NSPC911/rovr) (4 days ago)
+- [feat: use images in drag and drop](https://github.com/NSPC911/rovr/pull/326) on [NSPC911/rovr](https://github.com/NSPC911/rovr) (4 days ago)
+- [feat: keep a virtual path of current directory](https://github.com/NSPC911/rovr/pull/325) on [NSPC911/rovr](https://github.com/NSPC911/rovr) (4 days ago)
 
 #### You can find me in these places!
 
