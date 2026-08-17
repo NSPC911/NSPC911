@@ -6,17 +6,17 @@ I am proficient in Python, HTML, CSS and JS
 
 #### My recently committed repositories!
 
-- [NSPC911/rovr](https://github.com/NSPC911/rovr) - a stylish, batteries-included terminal file manager. (1 day ago)
-- [NSPC911/textual-trials](https://github.com/NSPC911/textual-trials) - A lot of trial and error scripts (2 days ago)
-- [NSPC911/bongo-cat](https://github.com/NSPC911/bongo-cat) - A bongocat that lives on your taskbar. Made with Python. (3 days ago)
-- [NSPC911/textual-drivers](https://github.com/NSPC911/textual-drivers) - a drop in, feature-rich version of textual&#39;s drivers (4 days ago)
-- [niri-wm/niri](https://github.com/niri-wm/niri) - A scrollable-tiling Wayland compositor. (4 days ago)
+- [NSPC911/textual-trials](https://github.com/NSPC911/textual-trials) - A lot of trial and error scripts (today)
+- [NSPC911/rovr](https://github.com/NSPC911/rovr) - a stylish, batteries-included terminal file manager. (today)
+- [NSPC911/bongo-cat](https://github.com/NSPC911/bongo-cat) - A bongocat that lives on your taskbar. Made with Python. (4 days ago)
+- [niri-wm/niri](https://github.com/niri-wm/niri) - A scrollable-tiling Wayland compositor. (5 days ago)
+- [NSPC911/textual-drivers](https://github.com/NSPC911/textual-drivers) - a drop in, feature-rich version of textual&#39;s drivers (5 days ago)
 
 #### My recent Pull Requests!
 
-- [fix: use `active_window` for geometry calculation](https://github.com/niri-wm/niri/pull/4435) on [niri-wm/niri](https://github.com/niri-wm/niri) (4 days ago)
-- [fix(app): refactor to better support chooser file](https://github.com/NSPC911/rovr/pull/333) on [NSPC911/rovr](https://github.com/NSPC911/rovr) (4 days ago)
-- [feat: auto-enter and exit select mode](https://github.com/NSPC911/rovr/pull/332) on [NSPC911/rovr](https://github.com/NSPC911/rovr) (4 days ago)
+- [feat: `%` expansions](https://github.com/NSPC911/rovr/pull/335) on [NSPC911/rovr](https://github.com/NSPC911/rovr) (1 day ago)
+- [fix: use `active_window` for geometry calculation](https://github.com/niri-wm/niri/pull/4435) on [niri-wm/niri](https://github.com/niri-wm/niri) (5 days ago)
+- [fix(app): refactor to better support chooser file](https://github.com/NSPC911/rovr/pull/333) on [NSPC911/rovr](https://github.com/NSPC911/rovr) (5 days ago)
 
 #### You can find me in these places!
 
