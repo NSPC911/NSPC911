@@ -7,14 +7,14 @@ I am proficient in Python, HTML, CSS and JS
 #### My recently committed repositories!
 
 - [NSPC911/rovr](https://github.com/NSPC911/rovr) - a stylish, batteries-included terminal file manager. (1 day ago)
-- [NSPC911/multiarchive](https://github.com/NSPC911/multiarchive) - A high level implementation to open any archive files. (1 day ago)
-- [NSPC911/textual-trials](https://github.com/NSPC911/textual-trials) - A lot of trial and error scripts (3 days ago)
+- [NSPC911/dotfiles](https://github.com/NSPC911/dotfiles) - My extensive Windows 11 configuration. (1 day ago)
+- [NSPC911/multiarchive](https://github.com/NSPC911/multiarchive) - A high level implementation to open any archive files. (2 days ago)
+- [NSPC911/textual-trials](https://github.com/NSPC911/textual-trials) - A lot of trial and error scripts (4 days ago)
 - [NSPC911/bongo-cat](https://github.com/NSPC911/bongo-cat) - A bongocat that lives on your taskbar. Made with Python. (1 week ago)
-- [NSPC911/textual-drivers](https://github.com/NSPC911/textual-drivers) - a drop in, feature-rich version of textual&#39;s drivers (1 week ago)
 
 #### My recent Pull Requests!
 
-- [feat: `%` expansions](https://github.com/NSPC911/rovr/pull/335) on [NSPC911/rovr](https://github.com/NSPC911/rovr) (4 days ago)
+- [feat: `%` expansions](https://github.com/NSPC911/rovr/pull/335) on [NSPC911/rovr](https://github.com/NSPC911/rovr) (5 days ago)
 - [fix: use `active_window` for geometry calculation](https://github.com/niri-wm/niri/pull/4435) on [niri-wm/niri](https://github.com/niri-wm/niri) (1 week ago)
 - [fix(app): refactor to better support chooser file](https://github.com/NSPC911/rovr/pull/333) on [NSPC911/rovr](https://github.com/NSPC911/rovr) (1 week ago)
 
