@@ -7,16 +7,16 @@ I am proficient in Python, HTML, CSS and JS
 #### My recently committed repositories!
 
 - [NSPC911/rovr](https://github.com/NSPC911/rovr) - a stylish, batteries-included terminal file manager. (1 day ago)
-- [NSPC911/textual-trials](https://github.com/NSPC911/textual-trials) - A lot of trial and error scripts (2 days ago)
-- [NSPC911/dotfiles](https://github.com/NSPC911/dotfiles) - My extensive Windows 11 configuration. (6 days ago)
+- [NSPC911/textual-trials](https://github.com/NSPC911/textual-trials) - A lot of trial and error scripts (3 days ago)
+- [NSPC911/dotfiles](https://github.com/NSPC911/dotfiles) - My extensive Windows 11 configuration. (1 week ago)
 - [NSPC911/multiarchive](https://github.com/NSPC911/multiarchive) - A high level implementation to open any archive files. (1 week ago)
-- [NSPC911/bongo-cat](https://github.com/NSPC911/bongo-cat) - A bongocat that lives on your taskbar. Made with Python. (1 week ago)
+- [NSPC911/bongo-cat](https://github.com/NSPC911/bongo-cat) - A bongocat that lives on your taskbar. Made with Python. (2 weeks ago)
 
 #### My recent Pull Requests!
 
-- [window: use cursor-icon cursor types](https://github.com/wezterm/wezterm/pull/8100) on [wezterm/wezterm](https://github.com/wezterm/wezterm) (today)
-- [feat: add support for Kitty Pointer Shapes Protocol](https://github.com/wezterm/wezterm/pull/8092) on [wezterm/wezterm](https://github.com/wezterm/wezterm) (1 day ago)
-- [feat!!: refactor to a new keybind handler](https://github.com/NSPC911/rovr/pull/338) on [NSPC911/rovr](https://github.com/NSPC911/rovr) (4 days ago)
+- [feat: cached previews](https://github.com/NSPC911/rovr/pull/339) on [NSPC911/rovr](https://github.com/NSPC911/rovr) (1 day ago)
+- [window: use cursor-icon cursor types](https://github.com/wezterm/wezterm/pull/8100) on [wezterm/wezterm](https://github.com/wezterm/wezterm) (1 day ago)
+- [feat: add support for Kitty Pointer Shapes Protocol](https://github.com/wezterm/wezterm/pull/8092) on [wezterm/wezterm](https://github.com/wezterm/wezterm) (2 days ago)
 
 #### You can find me in these places!
 
