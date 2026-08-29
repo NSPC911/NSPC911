@@ -7,16 +7,16 @@ I am proficient in Python, HTML, CSS and JS
 #### My recently committed repositories!
 
 - [NSPC911/rovr](https://github.com/NSPC911/rovr) - a stylish, batteries-included terminal file manager. (today)
-- [wezterm/wezterm](https://github.com/wezterm/wezterm) - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust (1 day ago)
-- [NSPC911/textual-trials](https://github.com/NSPC911/textual-trials) - A lot of trial and error scripts (4 days ago)
+- [wezterm/wezterm](https://github.com/wezterm/wezterm) - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust (2 days ago)
+- [NSPC911/textual-trials](https://github.com/NSPC911/textual-trials) - A lot of trial and error scripts (5 days ago)
 - [NSPC911/dotfiles](https://github.com/NSPC911/dotfiles) - My extensive Windows 11 configuration. (1 week ago)
 - [NSPC911/multiarchive](https://github.com/NSPC911/multiarchive) - A high level implementation to open any archive files. (1 week ago)
 
 #### My recent Pull Requests!
 
-- [feat: scrollable text preview](https://github.com/NSPC911/rovr/pull/340) on [NSPC911/rovr](https://github.com/NSPC911/rovr) (today)
-- [feat: cached previews](https://github.com/NSPC911/rovr/pull/339) on [NSPC911/rovr](https://github.com/NSPC911/rovr) (2 days ago)
-- [window: Replace MouseCursor with cursor-icon from winit](https://github.com/wezterm/wezterm/pull/8100) on [wezterm/wezterm](https://github.com/wezterm/wezterm) (2 days ago)
+- [feat: chord keys](https://github.com/NSPC911/rovr/pull/341) on [NSPC911/rovr](https://github.com/NSPC911/rovr) (1 day ago)
+- [feat: scrollable text preview](https://github.com/NSPC911/rovr/pull/340) on [NSPC911/rovr](https://github.com/NSPC911/rovr) (1 day ago)
+- [feat: cached previews](https://github.com/NSPC911/rovr/pull/339) on [NSPC911/rovr](https://github.com/NSPC911/rovr) (3 days ago)
 
 #### You can find me in these places!
 
