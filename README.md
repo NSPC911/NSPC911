@@ -6,17 +6,17 @@ I am proficient in Python, HTML, CSS and JS
 
 #### My recently committed repositories!
 
-- [NSPC911/rovr](https://github.com/NSPC911/rovr) - a stylish, batteries-included terminal file manager. (1 day ago)
-- [NSPC911/le-bucket](https://github.com/NSPC911/le-bucket) - A bunch of scoop apps that I thought to add but dunno which bucket to add (2 days ago)
-- [wezterm/wezterm](https://github.com/wezterm/wezterm) - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust (5 days ago)
+- [NSPC911/rovr](https://github.com/NSPC911/rovr) - a stylish, batteries-included terminal file manager. (today)
+- [NSPC911/dotfiles](https://github.com/NSPC911/dotfiles) - My extensive Windows 11 and Linux dotfiles (1 day ago)
+- [NSPC911/le-bucket](https://github.com/NSPC911/le-bucket) - A bunch of scoop apps that I thought to add but dunno which bucket to add (3 days ago)
+- [wezterm/wezterm](https://github.com/wezterm/wezterm) - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust (6 days ago)
 - [NSPC911/textual-trials](https://github.com/NSPC911/textual-trials) - A lot of trial and error scripts (1 week ago)
-- [NSPC911/dotfiles](https://github.com/NSPC911/dotfiles) - My extensive Windows 11 and Linux dotfiles (1 week ago)
 
 #### My recent Pull Requests!
 
-- [feat: arrange scrollbars on border](https://github.com/NSPC911/rovr/pull/345) on [NSPC911/rovr](https://github.com/NSPC911/rovr) (1 day ago)
-- [feat: scrollable preview](https://github.com/NSPC911/rovr/pull/344) on [NSPC911/rovr](https://github.com/NSPC911/rovr) (1 day ago)
-- [feat: chord keys](https://github.com/NSPC911/rovr/pull/341) on [NSPC911/rovr](https://github.com/NSPC911/rovr) (4 days ago)
+- [feat: arrange scrollbars on border](https://github.com/NSPC911/rovr/pull/345) on [NSPC911/rovr](https://github.com/NSPC911/rovr) (2 days ago)
+- [feat: scrollable preview](https://github.com/NSPC911/rovr/pull/344) on [NSPC911/rovr](https://github.com/NSPC911/rovr) (2 days ago)
+- [feat: chord keys](https://github.com/NSPC911/rovr/pull/341) on [NSPC911/rovr](https://github.com/NSPC911/rovr) (5 days ago)
 
 #### You can find me in these places!
 
