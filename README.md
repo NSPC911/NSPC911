@@ -7,16 +7,16 @@ I am proficient in Python, HTML, CSS and JS
 #### My recently committed repositories!
 
 - [NSPC911/rovr](https://github.com/NSPC911/rovr) - a stylish, batteries-included terminal file manager. (today)
-- [NSPC911/dotfiles](https://github.com/NSPC911/dotfiles) - My extensive Windows 11 and Linux dotfiles (6 days ago)
+- [NSPC911/vencord-themes](https://github.com/NSPC911/vencord-themes) - repository of vencord themes i use and have modified (1 day ago)
+- [NSPC911/dotfiles](https://github.com/NSPC911/dotfiles) - My extensive Windows 11 and Linux dotfiles (1 week ago)
 - [NSPC911/le-bucket](https://github.com/NSPC911/le-bucket) - A bunch of scoop apps that I thought to add but dunno which bucket to add (1 week ago)
 - [wezterm/wezterm](https://github.com/wezterm/wezterm) - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust (1 week ago)
-- [NSPC911/textual-trials](https://github.com/NSPC911/textual-trials) - A lot of trial and error scripts (2 weeks ago)
 
 #### My recent Pull Requests!
 
-- [feat: follow symlinks](https://github.com/NSPC911/rovr/pull/351) on [NSPC911/rovr](https://github.com/NSPC911/rovr) (5 days ago)
-- [fix(xterm): remove alt check](https://github.com/Textualize/textual/pull/6709) on [Textualize/textual](https://github.com/Textualize/textual) (5 days ago)
-- [fix(xterm): remove alt check](https://github.com/NSPC911-forks/textual/pull/1) on [NSPC911-forks/textual](https://github.com/NSPC911-forks/textual) (5 days ago)
+- [feat(app): ipc control](https://github.com/NSPC911/rovr/pull/358) on [NSPC911/rovr](https://github.com/NSPC911/rovr) (1 day ago)
+- [feat: have concurrent holds timed separately](https://github.com/niri-wm/niri/pull/4544) on [niri-wm/niri](https://github.com/niri-wm/niri) (1 day ago)
+- [feat: follow symlinks](https://github.com/NSPC911/rovr/pull/351) on [NSPC911/rovr](https://github.com/NSPC911/rovr) (6 days ago)
 
 #### You can find me in these places!
 
