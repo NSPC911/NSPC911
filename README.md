@@ -6,17 +6,17 @@ I am proficient in Python, HTML, CSS and JS
 
 #### My recently committed repositories!
 
-- [NSPC911/rovr](https://github.com/NSPC911/rovr) - a stylish, batteries-included terminal file manager. (today)
-- [NSPC911/vencord-themes](https://github.com/NSPC911/vencord-themes) - repository of vencord themes i use and have modified (1 day ago)
+- [NSPC911/rovr](https://github.com/NSPC911/rovr) - a stylish, batteries-included terminal file manager. (1 day ago)
+- [NSPC911/vencord-themes](https://github.com/NSPC911/vencord-themes) - repository of vencord themes i use and have modified (2 days ago)
 - [NSPC911/dotfiles](https://github.com/NSPC911/dotfiles) - My extensive Windows 11 and Linux dotfiles (1 week ago)
 - [NSPC911/le-bucket](https://github.com/NSPC911/le-bucket) - A bunch of scoop apps that I thought to add but dunno which bucket to add (1 week ago)
 - [wezterm/wezterm](https://github.com/wezterm/wezterm) - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust (1 week ago)
 
 #### My recent Pull Requests!
 
-- [feat(app): ipc control](https://github.com/NSPC911/rovr/pull/358) on [NSPC911/rovr](https://github.com/NSPC911/rovr) (1 day ago)
-- [feat: have concurrent holds timed separately](https://github.com/niri-wm/niri/pull/4544) on [niri-wm/niri](https://github.com/niri-wm/niri) (1 day ago)
-- [feat: follow symlinks](https://github.com/NSPC911/rovr/pull/351) on [NSPC911/rovr](https://github.com/NSPC911/rovr) (6 days ago)
+- [feat(app): ipc control](https://github.com/NSPC911/rovr/pull/358) on [NSPC911/rovr](https://github.com/NSPC911/rovr) (2 days ago)
+- [feat: have concurrent holds timed separately](https://github.com/niri-wm/niri/pull/4544) on [niri-wm/niri](https://github.com/niri-wm/niri) (2 days ago)
+- [feat: follow symlinks](https://github.com/NSPC911/rovr/pull/351) on [NSPC911/rovr](https://github.com/NSPC911/rovr) (1 week ago)
 
 #### You can find me in these places!
 
