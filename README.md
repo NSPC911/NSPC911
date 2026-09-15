@@ -6,11 +6,11 @@ I am proficient in Python, HTML, CSS and JS
 
 #### My recently committed repositories!
 
+- [NSPC911/nspc911.github.io](https://github.com/NSPC911/nspc911.github.io) - woah cool site (1 day ago)
 - [NSPC911/rovr](https://github.com/NSPC911/rovr) - a stylish, batteries-included terminal file manager. (1 day ago)
-- [NSPC911/multiarchive](https://github.com/NSPC911/multiarchive) - A high level implementation to open any archive files. (4 days ago)
+- [NSPC911/multiarchive](https://github.com/NSPC911/multiarchive) - A high level implementation to open any archive files. (5 days ago)
 - [NSPC911/vencord-themes](https://github.com/NSPC911/vencord-themes) - repository of vencord themes i use and have modified (1 week ago)
-- [NSPC911/dotfiles](https://github.com/NSPC911/dotfiles) - My extensive Windows 11 and Linux dotfiles (1 week ago)
-- [NSPC911/le-bucket](https://github.com/NSPC911/le-bucket) - A bunch of scoop apps that I thought to add but dunno which bucket to add (2 weeks ago)
+- [NSPC911/dotfiles](https://github.com/NSPC911/dotfiles) - My extensive Windows 11 and Linux dotfiles (2 weeks ago)
 
 #### My recent Pull Requests!
 
