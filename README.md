@@ -6,16 +6,16 @@ I am proficient in Python, HTML, CSS and JS
 
 #### My recently committed repositories!
 
-- [NSPC911/rovr](https://github.com/NSPC911/rovr) - a stylish, batteries-included terminal file manager. (1 day ago)
-- [NSPC911/vencord-themes](https://github.com/NSPC911/vencord-themes) - repository of vencord themes i use and have modified (2 days ago)
-- [NSPC911/le-bucket](https://github.com/NSPC911/le-bucket) - A bunch of scoop apps that I thought to add but dunno which bucket to add (2 days ago)
-- [NSPC911/nspc911.github.io](https://github.com/NSPC911/nspc911.github.io) - woah cool site (3 days ago)
+- [NSPC911/rovr](https://github.com/NSPC911/rovr) - a stylish, batteries-included terminal file manager. (today)
+- [NSPC911/nspc911.github.io](https://github.com/NSPC911/nspc911.github.io) - woah cool site (1 day ago)
+- [NSPC911/vencord-themes](https://github.com/NSPC911/vencord-themes) - repository of vencord themes i use and have modified (1 day ago)
+- [NSPC911/le-bucket](https://github.com/NSPC911/le-bucket) - A bunch of scoop apps that I thought to add but dunno which bucket to add (3 days ago)
 - [NSPC911/multiarchive](https://github.com/NSPC911/multiarchive) - A high level implementation to open any archive files. (1 week ago)
 
 #### My recent Pull Requests!
 
-- [feat(resvg): add configurable options](https://github.com/NSPC911/rovr/pull/366) on [NSPC911/rovr](https://github.com/NSPC911/rovr) (2 days ago)
-- [feat(preview): allow using extensions to preview](https://github.com/NSPC911/rovr/pull/365) on [NSPC911/rovr](https://github.com/NSPC911/rovr) (2 days ago)
+- [feat(resvg): add configurable options](https://github.com/NSPC911/rovr/pull/366) on [NSPC911/rovr](https://github.com/NSPC911/rovr) (3 days ago)
+- [feat(preview): allow using extensions to preview](https://github.com/NSPC911/rovr/pull/365) on [NSPC911/rovr](https://github.com/NSPC911/rovr) (3 days ago)
 - [feat(app): ipc control](https://github.com/NSPC911/rovr/pull/358) on [NSPC911/rovr](https://github.com/NSPC911/rovr) (1 week ago)
 
 #### You can find me in these places!
