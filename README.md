@@ -6,16 +6,16 @@ I am proficient in Python, HTML, CSS and JS
 
 #### My recently committed repositories!
 
-- [BEComTweaks/crafting-tweaks](https://github.com/BEComTweaks/crafting-tweaks) - A repo containing every single crafting tweak ported from vanillatweaks.net (1 day ago)
-- [NSPC911/textual-drivers](https://github.com/NSPC911/textual-drivers) - a drop in, feature-rich version of textual&#39;s drivers (1 day ago)
-- [BEComTweaks/resource-packs](https://github.com/BEComTweaks/resource-packs) - A repo containing every single resource pack ported from vanillatweaks.net (1 day ago)
-- [BEComTweaks/behaviour-packs](https://github.com/BEComTweaks/behaviour-packs) - A repo containing every single behaviour pack ported from vanillatweaks.net (1 day ago)
-- [NSPC911/rovr](https://github.com/NSPC911/rovr) - a stylish, batteries-included terminal file manager. (2 days ago)
+- [NSPC911/rovr](https://github.com/NSPC911/rovr) - a stylish, batteries-included terminal file manager. (1 day ago)
+- [BEComTweaks/crafting-tweaks](https://github.com/BEComTweaks/crafting-tweaks) - A repo containing every single crafting tweak ported from vanillatweaks.net (3 days ago)
+- [NSPC911/textual-drivers](https://github.com/NSPC911/textual-drivers) - a drop in, feature-rich version of textual&#39;s drivers (3 days ago)
+- [BEComTweaks/resource-packs](https://github.com/BEComTweaks/resource-packs) - A repo containing every single resource pack ported from vanillatweaks.net (3 days ago)
+- [BEComTweaks/behaviour-packs](https://github.com/BEComTweaks/behaviour-packs) - A repo containing every single behaviour pack ported from vanillatweaks.net (3 days ago)
 
 #### My recent Pull Requests!
 
-- [feat(resvg): add configurable options](https://github.com/NSPC911/rovr/pull/366) on [NSPC911/rovr](https://github.com/NSPC911/rovr) (6 days ago)
-- [feat(preview): allow using extensions to preview](https://github.com/NSPC911/rovr/pull/365) on [NSPC911/rovr](https://github.com/NSPC911/rovr) (6 days ago)
+- [feat(resvg): add configurable options](https://github.com/NSPC911/rovr/pull/366) on [NSPC911/rovr](https://github.com/NSPC911/rovr) (1 week ago)
+- [feat(preview): allow using extensions to preview](https://github.com/NSPC911/rovr/pull/365) on [NSPC911/rovr](https://github.com/NSPC911/rovr) (1 week ago)
 - [feat(app): ipc control](https://github.com/NSPC911/rovr/pull/358) on [NSPC911/rovr](https://github.com/NSPC911/rovr) (2 weeks ago)
 
 #### You can find me in these places!
