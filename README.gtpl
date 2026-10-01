@@ -4,6 +4,8 @@ I'm an 18-year-old student studying in Singapore.
 
 I am proficient in Python, HTML, CSS and JS
 
+I'm currently away from GitHub (hopefully) for the next 1.5 months. I will be back on 17th November.
+
 #### My recently committed repositories!
 {{range recentContributions 5}}
 - [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .OccurredAt}})
