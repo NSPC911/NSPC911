@@ -8,7 +8,7 @@ I'm currently away from GitHub (hopefully) for the next 1.5 months. I will be ba
 
 #### My recently committed repositories!
 
-- [NSPC911/nspc911.github.io](https://github.com/NSPC911/nspc911.github.io) - woah cool site (3 days ago)
+- [NSPC911/nspc911.github.io](https://github.com/NSPC911/nspc911.github.io) - woah cool site (4 days ago)
 - [NSPC911/rovr](https://github.com/NSPC911/rovr) - a stylish, batteries-included terminal file manager. (1 week ago)
 - [BEComTweaks/resource-packs](https://github.com/BEComTweaks/resource-packs) - A repo containing every single resource pack ported from vanillatweaks.net (1 week ago)
 - [NSPC911/dotfiles](https://github.com/NSPC911/dotfiles) - My extensive Windows 11 and Linux dotfiles (1 week ago)
@@ -16,7 +16,7 @@ I'm currently away from GitHub (hopefully) for the next 1.5 months. I will be ba
 
 #### My recent Pull Requests!
 
-- [feat: show control images](https://github.com/NSPC911/rovr/pull/368) on [NSPC911/rovr](https://github.com/NSPC911/rovr) (1 week ago)
+- [feat: show control images](https://github.com/NSPC911/rovr/pull/368) on [NSPC911/rovr](https://github.com/NSPC911/rovr) (2 weeks ago)
 - [feat(preview): use imagemagick for unsupported images](https://github.com/NSPC911/rovr/pull/367) on [NSPC911/rovr](https://github.com/NSPC911/rovr) (2 weeks ago)
 - [feat(resvg): add configurable options](https://github.com/NSPC911/rovr/pull/366) on [NSPC911/rovr](https://github.com/NSPC911/rovr) (3 weeks ago)
 
