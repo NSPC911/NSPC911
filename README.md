@@ -18,7 +18,7 @@ I'm currently away from GitHub (hopefully) for the next 1.5 months. I will be ba
 
 - [feat: show control images](https://github.com/NSPC911/rovr/pull/368) on [NSPC911/rovr](https://github.com/NSPC911/rovr) (2 weeks ago)
 - [feat(preview): use imagemagick for unsupported images](https://github.com/NSPC911/rovr/pull/367) on [NSPC911/rovr](https://github.com/NSPC911/rovr) (3 weeks ago)
-- [feat(resvg): add configurable options](https://github.com/NSPC911/rovr/pull/366) on [NSPC911/rovr](https://github.com/NSPC911/rovr) (4 weeks ago)
+- [feat(resvg): add configurable options](https://github.com/NSPC911/rovr/pull/366) on [NSPC911/rovr](https://github.com/NSPC911/rovr) (1 month ago)
 
 #### You can find me in these places!
 
