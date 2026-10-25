@@ -8,16 +8,16 @@ I'm currently away from GitHub (hopefully) for the next 1.5 months. I will be ba
 
 #### My recently committed repositories!
 
-- [NSPC911/vencord-themes](https://github.com/NSPC911/vencord-themes) - repository of vencord themes i use and have modified (today)
-- [NSPC911/textual-drivers](https://github.com/NSPC911/textual-drivers) - a drop in, feature-rich version of textual&#39;s drivers (3 days ago)
-- [NSPC911/pytrash](https://github.com/NSPC911/pytrash) - high level api for handling recycle bins across platforms (3 days ago)
+- [NSPC911/vencord-themes](https://github.com/NSPC911/vencord-themes) - repository of vencord themes i use and have modified (1 day ago)
+- [NSPC911/textual-drivers](https://github.com/NSPC911/textual-drivers) - a drop in, feature-rich version of textual&#39;s drivers (4 days ago)
+- [NSPC911/pytrash](https://github.com/NSPC911/pytrash) - high level api for handling recycle bins across platforms (4 days ago)
 - [NSPC911/nspc911.github.io](https://github.com/NSPC911/nspc911.github.io) - woah cool site (2 weeks ago)
-- [NSPC911/rovr](https://github.com/NSPC911/rovr) - a stylish, batteries-included terminal file manager. (2 weeks ago)
+- [NSPC911/rovr](https://github.com/NSPC911/rovr) - a stylish, batteries-included terminal file manager. (3 weeks ago)
 
 #### My recent Pull Requests!
 
 - [feat: show control images](https://github.com/NSPC911/rovr/pull/368) on [NSPC911/rovr](https://github.com/NSPC911/rovr) (3 weeks ago)
-- [feat(preview): use imagemagick for unsupported images](https://github.com/NSPC911/rovr/pull/367) on [NSPC911/rovr](https://github.com/NSPC911/rovr) (4 weeks ago)
+- [feat(preview): use imagemagick for unsupported images](https://github.com/NSPC911/rovr/pull/367) on [NSPC911/rovr](https://github.com/NSPC911/rovr) (1 month ago)
 - [feat(resvg): add configurable options](https://github.com/NSPC911/rovr/pull/366) on [NSPC911/rovr](https://github.com/NSPC911/rovr) (1 month ago)
 
 #### You can find me in these places!
