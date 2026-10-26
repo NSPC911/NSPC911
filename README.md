@@ -8,9 +8,9 @@ I'm currently away from GitHub (hopefully) for the next 1.5 months. I will be ba
 
 #### My recently committed repositories!
 
-- [NSPC911/vencord-themes](https://github.com/NSPC911/vencord-themes) - repository of vencord themes i use and have modified (1 day ago)
-- [NSPC911/textual-drivers](https://github.com/NSPC911/textual-drivers) - a drop in, feature-rich version of textual&#39;s drivers (4 days ago)
-- [NSPC911/pytrash](https://github.com/NSPC911/pytrash) - high level api for handling recycle bins across platforms (4 days ago)
+- [NSPC911/vencord-themes](https://github.com/NSPC911/vencord-themes) - repository of vencord themes i use and have modified (2 days ago)
+- [NSPC911/textual-drivers](https://github.com/NSPC911/textual-drivers) - a drop in, feature-rich version of textual&#39;s drivers (5 days ago)
+- [NSPC911/pytrash](https://github.com/NSPC911/pytrash) - high level api for handling recycle bins across platforms (5 days ago)
 - [NSPC911/nspc911.github.io](https://github.com/NSPC911/nspc911.github.io) - woah cool site (2 weeks ago)
 - [NSPC911/rovr](https://github.com/NSPC911/rovr) - a stylish, batteries-included terminal file manager. (3 weeks ago)
 
