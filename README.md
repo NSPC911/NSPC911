@@ -8,15 +8,15 @@ I'm currently away from GitHub (hopefully) for the next 1.5 months. I will be ba
 
 #### My recently committed repositories!
 
-- [NSPC911/rovr](https://github.com/NSPC911/rovr) - a stylish, batteries-included terminal file manager. (4 days ago)
-- [NSPC911/nspc911.github.io](https://github.com/NSPC911/nspc911.github.io) - woah cool site (4 days ago)
-- [NSPC911/dotfiles](https://github.com/NSPC911/dotfiles) - My extensive Windows 11 and Linux dotfiles (5 days ago)
-- [NSPC911/multiarchive](https://github.com/NSPC911/multiarchive) - A high level implementation to open any archive files. (5 days ago)
+- [NSPC911/rovr](https://github.com/NSPC911/rovr) - a stylish, batteries-included terminal file manager. (5 days ago)
+- [NSPC911/nspc911.github.io](https://github.com/NSPC911/nspc911.github.io) - woah cool site (5 days ago)
+- [NSPC911/dotfiles](https://github.com/NSPC911/dotfiles) - My extensive Windows 11 and Linux dotfiles (6 days ago)
+- [NSPC911/multiarchive](https://github.com/NSPC911/multiarchive) - A high level implementation to open any archive files. (6 days ago)
 - [NSPC911/vencord-themes](https://github.com/NSPC911/vencord-themes) - repository of vencord themes i use and have modified (1 week ago)
 
 #### My recent Pull Requests!
 
-- [feat: custom previewers](https://github.com/NSPC911/rovr/pull/374) on [NSPC911/rovr](https://github.com/NSPC911/rovr) (6 days ago)
+- [feat: custom previewers](https://github.com/NSPC911/rovr/pull/374) on [NSPC911/rovr](https://github.com/NSPC911/rovr) (1 week ago)
 - [feat: show control images](https://github.com/NSPC911/rovr/pull/368) on [NSPC911/rovr](https://github.com/NSPC911/rovr) (1 month ago)
 - [feat(preview): use imagemagick for unsupported images](https://github.com/NSPC911/rovr/pull/367) on [NSPC911/rovr](https://github.com/NSPC911/rovr) (1 month ago)
 
