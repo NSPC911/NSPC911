@@ -8,17 +8,17 @@ I'm currently away from GitHub (hopefully) for the next 1.5 months. I will be ba
 
 #### My recently committed repositories!
 
-- [NSPC911/textual-trials](https://github.com/NSPC911/textual-trials) - A lot of trial and error scripts (today)
-- [BEComTweaks/behaviour-packs](https://github.com/BEComTweaks/behaviour-packs) - A repo containing every single behaviour pack ported from vanillatweaks.net (1 day ago)
-- [BEComTweaks/crafting-tweaks](https://github.com/BEComTweaks/crafting-tweaks) - A repo containing every single crafting tweak ported from vanillatweaks.net (1 day ago)
-- [BEComTweaks/resource-packs](https://github.com/BEComTweaks/resource-packs) - A repo containing every single resource pack ported from vanillatweaks.net (1 day ago)
-- [NSPC911/rovr](https://github.com/NSPC911/rovr) - a stylish, batteries-included terminal file manager. (1 day ago)
+- [NSPC911/tuirim](https://github.com/NSPC911/tuirim) - Trim a video in the terminal. Requires ffmpeg! (today)
+- [NSPC911/rovr](https://github.com/NSPC911/rovr) - a stylish, batteries-included terminal file manager. (today)
+- [NSPC911/textual-trials](https://github.com/NSPC911/textual-trials) - A lot of trial and error scripts (1 day ago)
+- [BEComTweaks/crafting-tweaks](https://github.com/BEComTweaks/crafting-tweaks) - A repo containing every single crafting tweak ported from vanillatweaks.net (2 days ago)
+- [BEComTweaks/resource-packs](https://github.com/BEComTweaks/resource-packs) - A repo containing every single resource pack ported from vanillatweaks.net (2 days ago)
 
 #### My recent Pull Requests!
 
-- [feat: snap to screen](https://github.com/niri-wm/niri/pull/4843) on [niri-wm/niri](https://github.com/niri-wm/niri) (2 days ago)
-- [fix: dont force `/`, esp on Windows systems](https://github.com/NSPC911/rovr/pull/385) on [NSPC911/rovr](https://github.com/NSPC911/rovr) (2 days ago)
-- [refactor: use backslash on windows](https://github.com/NSPC911/rovr/pull/384) on [NSPC911/rovr](https://github.com/NSPC911/rovr) (5 days ago)
+- [feat: snap to screen](https://github.com/niri-wm/niri/pull/4843) on [niri-wm/niri](https://github.com/niri-wm/niri) (3 days ago)
+- [fix: dont force `/`, esp on Windows systems](https://github.com/NSPC911/rovr/pull/385) on [NSPC911/rovr](https://github.com/NSPC911/rovr) (3 days ago)
+- [refactor: use backslash on windows](https://github.com/NSPC911/rovr/pull/384) on [NSPC911/rovr](https://github.com/NSPC911/rovr) (6 days ago)
 
 #### You can find me in these places!
 
