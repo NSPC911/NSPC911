@@ -8,17 +8,17 @@ I'm currently away from GitHub (hopefully) for the next 1.5 months. I will be ba
 
 #### My recently committed repositories!
 
-- [NSPC911/le-bucket](https://github.com/NSPC911/le-bucket) - A bunch of scoop apps that I thought to add but dunno which bucket to add (today)
-- [NSPC911/rovr](https://github.com/NSPC911/rovr) - a stylish, batteries-included terminal file manager. (today)
-- [NSPC911/tuirim](https://github.com/NSPC911/tuirim) - Trim a video in the terminal. Requires ffmpeg! (3 days ago)
-- [NSPC911/textual-trials](https://github.com/NSPC911/textual-trials) - A lot of trial and error scripts (4 days ago)
-- [BEComTweaks/behaviour-packs](https://github.com/BEComTweaks/behaviour-packs) - A repo containing every single behaviour pack ported from vanillatweaks.net (5 days ago)
+- [NSPC911/multiarchive](https://github.com/NSPC911/multiarchive) - A high level implementation to open any archive files. (1 day ago)
+- [NSPC911/rovr](https://github.com/NSPC911/rovr) - a stylish, batteries-included terminal file manager. (1 day ago)
+- [NSPC911/le-bucket](https://github.com/NSPC911/le-bucket) - A bunch of scoop apps that I thought to add but dunno which bucket to add (1 day ago)
+- [NSPC911/tuirim](https://github.com/NSPC911/tuirim) - Trim a video in the terminal. Requires ffmpeg! (4 days ago)
+- [NSPC911/textual-trials](https://github.com/NSPC911/textual-trials) - A lot of trial and error scripts (5 days ago)
 
 #### My recent Pull Requests!
 
-- [feat(preview): add video preview with ffmpeg](https://github.com/NSPC911/rovr/pull/386) on [NSPC911/rovr](https://github.com/NSPC911/rovr) (1 day ago)
-- [feat: snap to screen](https://github.com/niri-wm/niri/pull/4843) on [niri-wm/niri](https://github.com/niri-wm/niri) (6 days ago)
-- [fix: dont force `/`, esp on Windows systems](https://github.com/NSPC911/rovr/pull/385) on [NSPC911/rovr](https://github.com/NSPC911/rovr) (6 days ago)
+- [feat(preview): add video preview with ffmpeg](https://github.com/NSPC911/rovr/pull/386) on [NSPC911/rovr](https://github.com/NSPC911/rovr) (2 days ago)
+- [feat: snap to screen](https://github.com/niri-wm/niri/pull/4843) on [niri-wm/niri](https://github.com/niri-wm/niri) (1 week ago)
+- [fix: dont force `/`, esp on Windows systems](https://github.com/NSPC911/rovr/pull/385) on [NSPC911/rovr](https://github.com/NSPC911/rovr) (1 week ago)
 
 #### You can find me in these places!
 
